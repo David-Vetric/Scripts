@@ -1,0 +1,1054 @@
+{
+    "results":
+    {
+        "featured":
+        [],
+        "pinned":
+        [],
+        "feed":
+        [
+            {
+                "__typename": "Story",
+                "id": "UzpfSTE2MDA1Nzg2NTY6MTAyMzU1ODI5MjI1NDU5MDM6MTAyMzU1ODI5MjI1NDU5MDM=",
+                "post_id": "10235582922545903",
+                "creation_time": 1760870385,
+                "message": "",
+                "message_entity_ranges": null,
+                "url": "https://m.facebook.com/story.php?story_fbid=10235582922545903&id=1600578656",
+                "actors":
+                [
+                    {
+                        "id": "1600578656",
+                        "name": "Omar Bassani",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/468218244_10231666993730130_5956563567378872571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx544x541&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=24CGUmnUyRcQ7kNvwE7Blta&_nc_oc=Adn38GjXbE9SehOqfvrFvjUXK8P1i4dfYKCLzierlBVEFAn55-OLnjukLwxbmz9PBNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AfdovFxmVNxKaTQqQYoDPgtA5voD1D-iA6ZU7BAMh3jkIg&oe=69014BAC",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "is_additional_profile_plus": false,
+                        "delegate_page_id": "686141337909304",
+                        "url": "https://m.facebook.com/omar.bassani.7/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators":
+                [],
+                "attachments":
+                [],
+                "attached_story":
+                {
+                    "__typename": "Story",
+                    "id": "UzpfSTE1NDM2NDMwNjI6MTAyMzg1MTg5NzczNDM1NDA6MTAyMzg1MTg5NzczNDM1NDA=",
+                    "post_id": "10238518977343540",
+                    "creation_time": 1760869741,
+                    "message": "",
+                    "message_entity_ranges": null,
+                    "url": "https://m.facebook.com/story.php?story_fbid=10238518977343540&id=1543643062",
+                    "actors":
+                    [
+                        {
+                            "id": "1543643062",
+                            "name": "Fabrizio Forlani",
+                            "gender": "MALE",
+                            "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/473008703_10234708427482175_5421035532758143866_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1567x1560&ctp=s120x120&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_ohc=y8dbudz1yXEQ7kNvwHm3_Dw&_nc_oc=AdlUag0ST0WgfO9AfzM0vcq_9OiF67BsOuLyqwPdlMUtG_8Sau3TSO_EIaMAH-CpOBE&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AffS5HTD9mJOMPK5J2aKa6vNEId0dRpwmAt8RNbzPxkcqw&oe=69015189",
+                            "is_verified": false,
+                            "is_plus_actor": true,
+                            "is_additional_profile_plus": false,
+                            "delegate_page_id": "779124661940727",
+                            "url": "https://m.facebook.com/fabrizio.forlani1/",
+                            "__typename": "User"
+                        }
+                    ],
+                    "collaborators":
+                    [],
+                    "attachments":
+                    [],
+                    "attached_story": null,
+                    "privacy_scope": "Public",
+                    "edit_history": 3,
+                    "is_anonymous": false,
+                    "explicit_place": null,
+                    "implicit_place": null,
+                    "to": null,
+                    "album": null,
+                    "with_tags":
+                    {
+                        "nodes":
+                        []
+                    },
+                    "feedback":
+                    {
+                        "thread_id": "",
+                        "legacy_api_post_id": "10238518977343540",
+                        "reaction_count": 0,
+                        "comment_count": 0,
+                        "total_count": 0,
+                        "sub_comment_count": 0,
+                        "like_count": 0,
+                        "share_count": 0,
+                        "reactions": null
+                    },
+                    "source_language": "",
+                    "sponsored_data": null,
+                    "is_sponsored": false
+                },
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "implicit_place": null,
+                "to": null,
+                "album": null,
+                "with_tags":
+                {
+                    "nodes":
+                    []
+                },
+                "feedback":
+                {
+                    "thread_id": "ZmVlZGJhY2s6MTAyMzU1ODI5MjI1NDU5MDM=",
+                    "legacy_api_post_id": "10235582922545903",
+                    "reaction_count": 5,
+                    "comment_count": 1,
+                    "total_count": 1,
+                    "sub_comment_count": 0,
+                    "like_count": 4,
+                    "share_count": 0,
+                    "reactions":
+                    [
+                        {
+                            "reaction_count": 4,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 1,
+                            "id": "908563459236466"
+                        }
+                    ]
+                },
+                "source_language": "English",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTE2MDA1Nzg2NTY6MTAyMzU1ODI1MTc4MTU3ODU6MTAyMzU1ODI1MTc4MTU3ODU=",
+                "post_id": "10235582517815785",
+                "creation_time": 1760867088,
+                "message": "Bellissima idea regalo per il Natale 🎅\nPizzAut nutriamo l'inclusione 👍🏻",
+                "message_entity_ranges":
+                [
+                    {
+                        "__typename": "User",
+                        "offset": 39,
+                        "length": 29,
+                        "id": "100064496808309",
+                        "name": "PizzAut nutriamo l'inclusione",
+                        "url": "https://m.facebook.com/pizzaut/"
+                    }
+                ],
+                "url": "https://m.facebook.com/story.php?story_fbid=10235582517815785&id=1600578656",
+                "actors":
+                [
+                    {
+                        "id": "1600578656",
+                        "name": "Omar Bassani",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/468218244_10231666993730130_5956563567378872571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx544x541&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=24CGUmnUyRcQ7kNvwE7Blta&_nc_oc=Adn38GjXbE9SehOqfvrFvjUXK8P1i4dfYKCLzierlBVEFAn55-OLnjukLwxbmz9PBNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AfdovFxmVNxKaTQqQYoDPgtA5voD1D-iA6ZU7BAMh3jkIg&oe=69014BAC",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "is_additional_profile_plus": false,
+                        "delegate_page_id": "686141337909304",
+                        "url": "https://m.facebook.com/omar.bassani.7/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators":
+                [],
+                "attachments":
+                [
+                    {
+                        "id": "-4830196986896686500",
+                        "title": "SE VUOI PENSARE AI REGALI DI NATALE PENSA A NOI...\n\nNico Acampora ed I ragazzi di PizzAut diventano personaggi di Playmobil\n\nL'azienda tedesca in accordo con Toys Center realizza un prodotto straordinario per questo Natale 2025.\n\nIn tutti i negozi Toys Center Italia puoi acquistare i perdonaggi di PizzAut e contribuire a Costruire CasAutentica dove le persone autistiche possono avere un Futuro.\n\nGIOCARE È UNA COSA SERIA",
+                        "subtitle": null,
+                        "description": "",
+                        "url": "https://m.facebook.com/story.php?story_fbid=1119312077021105&id=100064496808309",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566501084_25033256749696564_5990297193060461827_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx576x1004&ctp=p200x200&_nc_cat=108&ccb=1-7&_nc_sid=282d23&_nc_ohc=sqFJUo6xCVwQ7kNvwHlKxlP&_nc_oc=AdngLliAYe3K6SFey2Qj9zbSvg9B1i6DaOJiknUBASAXOgdcEJgNxJ367DealA4yMCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afe4uNxxO86F8_-bRenu66DYD2iQDS2DoVWe40LhX3WCFA&oe=69016893",
+                        "videoUrl": "https://scontent-man2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOM1CUmMiXnVpEzT0IoW2urFqnXcePq7KxNzLQyKwALDw7uamBC_pE-zuYpKJyUQRGr-_m882lsq2qO7ksuk3Mw6zu_2gsIs0laTnpcxeHCUQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-man2-1.xx.fbcdn.net&_nc_ohc=FfnCl4inue8Q7kNvwHzHZ6Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzkxMjM3MDg0MTUxMDQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5e6efb76e3c0b742&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMTRCRkMwMDBDOEJFRjFEMzBCODBGNzU2NTFCMTdBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhFZmJfZXBoZW1lcmFsLzVENDFFRTZFNTBENTAzQjBGMDNFMDFEOEJDMUJCNzk0X210XzBfYXVkaW9fZGFzaGluaXQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoCy9v_cgYYEFQIoAkMzLBdAQVU_fO2RaBgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllJ4BAA&_nc_zt=28&oh=00_AfeHlk4liLLOEDjHHPvISOSlWnBgLaFYeWDDjAoBakfn2w&oe=69015D94&bitrate=615614&tag=dash_h264-basic-gen2_720p",
+                        "owner":
+                        {
+                            "id": "",
+                            "name": ""
+                        },
+                        "target":
+                        {
+                            "__typename": "Video",
+                            "strong_id__": "1119312077021105",
+                            "id": "1119312077021105"
+                        },
+                        "media":
+                        {
+                            "__typename": "GenericAttachmentMedia",
+                            "id": "-4830196986896686500",
+                            "image":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566501084_25033256749696564_5990297193060461827_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx576x1004&ctp=p200x200&_nc_cat=108&ccb=1-7&_nc_sid=282d23&_nc_ohc=sqFJUo6xCVwQ7kNvwHlKxlP&_nc_oc=AdngLliAYe3K6SFey2Qj9zbSvg9B1i6DaOJiknUBASAXOgdcEJgNxJ367DealA4yMCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afe4uNxxO86F8_-bRenu66DYD2iQDS2DoVWe40LhX3WCFA&oe=69016893",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "imageHigh":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566501084_25033256749696564_5990297193060461827_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx576x1004&ctp=p200x200&_nc_cat=108&ccb=1-7&_nc_sid=282d23&_nc_ohc=sqFJUo6xCVwQ7kNvwHlKxlP&_nc_oc=AdngLliAYe3K6SFey2Qj9zbSvg9B1i6DaOJiknUBASAXOgdcEJgNxJ367DealA4yMCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afe4uNxxO86F8_-bRenu66DYD2iQDS2DoVWe40LhX3WCFA&oe=69016893",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "imageLow":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566501084_25033256749696564_5990297193060461827_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx576x1004&ctp=p200x200&_nc_cat=108&ccb=1-7&_nc_sid=282d23&_nc_ohc=sqFJUo6xCVwQ7kNvwHlKxlP&_nc_oc=AdngLliAYe3K6SFey2Qj9zbSvg9B1i6DaOJiknUBASAXOgdcEJgNxJ367DealA4yMCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afe4uNxxO86F8_-bRenu66DYD2iQDS2DoVWe40LhX3WCFA&oe=69016893",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "imageMedium":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566501084_25033256749696564_5990297193060461827_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx576x1004&ctp=p200x200&_nc_cat=108&ccb=1-7&_nc_sid=282d23&_nc_ohc=sqFJUo6xCVwQ7kNvwHlKxlP&_nc_oc=AdngLliAYe3K6SFey2Qj9zbSvg9B1i6DaOJiknUBASAXOgdcEJgNxJ367DealA4yMCM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afe4uNxxO86F8_-bRenu66DYD2iQDS2DoVWe40LhX3WCFA&oe=69016893",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "playableUrlHdString": "https://scontent-man2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOM1CUmMiXnVpEzT0IoW2urFqnXcePq7KxNzLQyKwALDw7uamBC_pE-zuYpKJyUQRGr-_m882lsq2qO7ksuk3Mw6zu_2gsIs0laTnpcxeHCUQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-man2-1.xx.fbcdn.net&_nc_ohc=FfnCl4inue8Q7kNvwHzHZ6Y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMzkxMjM3MDg0MTUxMDQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjozNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=5e6efb76e3c0b742&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMTRCRkMwMDBDOEJFRjFEMzBCODBGNzU2NTFCMTdBMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhFZmJfZXBoZW1lcmFsLzVENDFFRTZFNTBENTAzQjBGMDNFMDFEOEJDMUJCNzk0X210XzBfYXVkaW9fZGFzaGluaXQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoCy9v_cgYYEFQIoAkMzLBdAQVU_fO2RaBgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllJ4BAA&_nc_zt=28&oh=00_AfeHlk4liLLOEDjHHPvISOSlWnBgLaFYeWDDjAoBakfn2w&oe=69015D94&bitrate=615614&tag=dash_h264-basic-gen2_720p",
+                            "owner":
+                            {
+                                "__typename": "",
+                                "strong_id__": "",
+                                "id": "",
+                                "name": ""
+                            },
+                            "feedback":
+                            {
+                                "id": "",
+                                "top_level_comments":
+                                {
+                                    "count": 0,
+                                    "total_count": 0
+                                },
+                                "likers":
+                                {
+                                    "count": 0
+                                },
+                                "reshares":
+                                {
+                                    "count": 0
+                                },
+                                "reactors":
+                                {
+                                    "count": 0
+                                }
+                            },
+                            "isFactChecked": false,
+                            "was_live": false
+                        },
+                        "isFactChecked": false,
+                        "feedback": null,
+                        "was_live": false,
+                        "attachment_type": "FBShortsShareAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "implicit_place": null,
+                "to": null,
+                "album": null,
+                "with_tags":
+                {
+                    "nodes":
+                    []
+                },
+                "feedback":
+                {
+                    "thread_id": "ZmVlZGJhY2s6MTAyMzU1ODI1MTc4MTU3ODU=",
+                    "legacy_api_post_id": "10235582517815785",
+                    "reaction_count": 1,
+                    "comment_count": 0,
+                    "total_count": 0,
+                    "sub_comment_count": 0,
+                    "like_count": 1,
+                    "share_count": 0,
+                    "reactions":
+                    [
+                        {
+                            "reaction_count": 1,
+                            "id": "1635855486666999"
+                        }
+                    ]
+                },
+                "source_language": "Italian",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTE2MDA1Nzg2NTY6MTAyMzU1ODIyMjUwMDg0NjU6MTAyMzU1ODIyMjUwMDg0NjU=",
+                "post_id": "10235582225008465",
+                "creation_time": 1760864809,
+                "message": "",
+                "message_entity_ranges": null,
+                "url": "https://m.facebook.com/story.php?story_fbid=10235582225008465&id=1600578656",
+                "actors":
+                [
+                    {
+                        "id": "1600578656",
+                        "name": "Omar Bassani",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/468218244_10231666993730130_5956563567378872571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx544x541&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=24CGUmnUyRcQ7kNvwE7Blta&_nc_oc=Adn38GjXbE9SehOqfvrFvjUXK8P1i4dfYKCLzierlBVEFAn55-OLnjukLwxbmz9PBNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AfdovFxmVNxKaTQqQYoDPgtA5voD1D-iA6ZU7BAMh3jkIg&oe=69014BAC",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "is_additional_profile_plus": false,
+                        "delegate_page_id": "686141337909304",
+                        "url": "https://m.facebook.com/omar.bassani.7/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators":
+                [],
+                "attachments":
+                [],
+                "attached_story":
+                {
+                    "__typename": "Story",
+                    "id": "UzpfSTEwMDAwMDc5ODYzMzY2NzoyNDk1OTUxMDMzMzY1ODkxMDoyNDk1OTUxMDMzMzY1ODkxMA==",
+                    "post_id": "24959510333658910",
+                    "creation_time": 1760864496,
+                    "message": "",
+                    "message_entity_ranges": null,
+                    "url": "https://m.facebook.com/story.php?story_fbid=24959510333658910&id=100000798633667",
+                    "actors":
+                    [
+                        {
+                            "id": "100000798633667",
+                            "name": "Massimiliano N Romeo",
+                            "gender": "MALE",
+                            "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/424722554_7219639278072622_7580771629653685380_n.jpg?stp=c0.0.769.769a_cp0_dst-jpg_e15_q65_tt6&cstp=mx769x769&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=vu-Dhe2vRicQ7kNvwFZyo-1&_nc_oc=AdmGn5LQmtmljyfL37OC49GohoKupMVLutLpRZ7Nk7C-yuFp1SG_zDz-_Vq2QmEZ3bo&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_Afe1O09lt2ZjHqqzGu7JZsZBVzYvVLs1aR4FzYq2dJFH7g&oe=6901741C",
+                            "is_verified": true,
+                            "is_plus_actor": false,
+                            "is_additional_profile_plus": false,
+                            "delegate_page_id": "",
+                            "url": "https://m.facebook.com/massimiliano.romeo.180/",
+                            "__typename": "User"
+                        }
+                    ],
+                    "collaborators":
+                    [],
+                    "attachments":
+                    [
+                        {
+                            "id": "24959509996992277",
+                            "title": "",
+                            "subtitle": null,
+                            "description": "",
+                            "url": "https://m.facebook.com/photo.php?fbid=24959509996992277&id=100000798633667&set=a.550797468290203",
+                            "instagram_user": null,
+                            "preview_image": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/564622484_24959510006992276_5784075729652945722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1638x2048&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Ah_27cZZ70Q7kNvwH5S7Xi&_nc_oc=Adl873G42RN6a_bPxc5WewL_kRyYkfLv4uyilgZp6Y0PH_i05N4ryThR-NYIssVfwSU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afc_m9ytgJbzcul0weyt6gPCogCPWLbSzcuP96u60fH6wA&oe=690162A8",
+                            "videoUrl": "",
+                            "owner":
+                            {
+                                "id": "100000798633667",
+                                "name": "Massimiliano N Romeo"
+                            },
+                            "target":
+                            {
+                                "__typename": "Photo",
+                                "strong_id__": "24959509996992277",
+                                "id": "24959509996992277"
+                            },
+                            "media":
+                            {
+                                "__typename": "Photo",
+                                "id": "24959509996992277",
+                                "image":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/564622484_24959510006992276_5784075729652945722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1638x2048&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Ah_27cZZ70Q7kNvwH5S7Xi&_nc_oc=Adl873G42RN6a_bPxc5WewL_kRyYkfLv4uyilgZp6Y0PH_i05N4ryThR-NYIssVfwSU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afc_m9ytgJbzcul0weyt6gPCogCPWLbSzcuP96u60fH6wA&oe=690162A8",
+                                    "width": 768,
+                                    "height": 960
+                                },
+                                "imageHigh":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/564622484_24959510006992276_5784075729652945722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1638x2048&ctp=p1080x1080&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Ah_27cZZ70Q7kNvwH5S7Xi&_nc_oc=Adl873G42RN6a_bPxc5WewL_kRyYkfLv4uyilgZp6Y0PH_i05N4ryThR-NYIssVfwSU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afc_m9ytgJbzcul0weyt6gPCogCPWLbSzcuP96u60fH6wA&oe=690162A8",
+                                    "width": 1080,
+                                    "height": 1350
+                                },
+                                "imageLow":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/564622484_24959510006992276_5784075729652945722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1638x2048&ctp=p380x380&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Ah_27cZZ70Q7kNvwH5S7Xi&_nc_oc=Adl873G42RN6a_bPxc5WewL_kRyYkfLv4uyilgZp6Y0PH_i05N4ryThR-NYIssVfwSU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afc_m9ytgJbzcul0weyt6gPCogCPWLbSzcuP96u60fH6wA&oe=690162A8",
+                                    "width": 380,
+                                    "height": 475
+                                },
+                                "imageMedium":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/564622484_24959510006992276_5784075729652945722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1638x2048&ctp=p540x540&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-Ah_27cZZ70Q7kNvwH5S7Xi&_nc_oc=Adl873G42RN6a_bPxc5WewL_kRyYkfLv4uyilgZp6Y0PH_i05N4ryThR-NYIssVfwSU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_Afc_m9ytgJbzcul0weyt6gPCogCPWLbSzcuP96u60fH6wA&oe=690162A8",
+                                    "width": 540,
+                                    "height": 675
+                                },
+                                "playableUrlHdString": null,
+                                "owner":
+                                {
+                                    "__typename": "User",
+                                    "strong_id__": "100000798633667",
+                                    "id": "100000798633667",
+                                    "name": "Massimiliano N Romeo"
+                                },
+                                "feedback":
+                                {
+                                    "id": "ZmVlZGJhY2s6MjQ5NTk1MTAzMzM2NTg5MTA=",
+                                    "top_level_comments":
+                                    {
+                                        "count": 7,
+                                        "total_count": 0
+                                    },
+                                    "likers":
+                                    {
+                                        "count": 75
+                                    },
+                                    "reshares":
+                                    {
+                                        "count": 13
+                                    },
+                                    "reactors":
+                                    {
+                                        "count": 78
+                                    }
+                                },
+                                "isFactChecked": false,
+                                "was_live": false
+                            },
+                            "isFactChecked": false,
+                            "feedback":
+                            {
+                                "thread_id": "",
+                                "legacy_api_post_id": "",
+                                "reaction_count": 0,
+                                "comment_count": 0,
+                                "total_count": 0,
+                                "sub_comment_count": 0,
+                                "like_count": 0,
+                                "share_count": 0,
+                                "reactions": null
+                            },
+                            "was_live": false,
+                            "attachment_type": ""
+                        }
+                    ],
+                    "attached_story": null,
+                    "privacy_scope": "Public",
+                    "edit_history": 0,
+                    "is_anonymous": false,
+                    "explicit_place": null,
+                    "implicit_place": null,
+                    "to": null,
+                    "album": null,
+                    "with_tags":
+                    {
+                        "nodes":
+                        []
+                    },
+                    "feedback":
+                    {
+                        "thread_id": "",
+                        "legacy_api_post_id": "24959510333658910",
+                        "reaction_count": 0,
+                        "comment_count": 0,
+                        "total_count": 0,
+                        "sub_comment_count": 0,
+                        "like_count": 0,
+                        "share_count": 0,
+                        "reactions": null
+                    },
+                    "source_language": "",
+                    "sponsored_data": null,
+                    "is_sponsored": false
+                },
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "implicit_place": null,
+                "to": null,
+                "album": null,
+                "with_tags":
+                {
+                    "nodes":
+                    []
+                },
+                "feedback":
+                {
+                    "thread_id": "ZmVlZGJhY2s6MTAyMzU1ODIyMjUwMDg0NjU=",
+                    "legacy_api_post_id": "10235582225008465",
+                    "reaction_count": 2,
+                    "comment_count": 0,
+                    "total_count": 0,
+                    "sub_comment_count": 0,
+                    "like_count": 2,
+                    "share_count": 0,
+                    "reactions":
+                    [
+                        {
+                            "reaction_count": 2,
+                            "id": "1635855486666999"
+                        }
+                    ]
+                },
+                "source_language": "English",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTE2MDA1Nzg2NTY6MTAyMzU1ODEzMzU2MjYyMzE6MTAyMzU1ODEzMzU2MjYyMzE=",
+                "post_id": "10235581335626231",
+                "creation_time": 1760858397,
+                "message": "Grazie Alessandro Cugini 💪🏻🏴󠁧󠁢󠁥󠁮󠁧󠁿⚔️",
+                "message_entity_ranges":
+                [
+                    {
+                        "__typename": "User",
+                        "offset": 7,
+                        "length": 17,
+                        "id": "100063674531962",
+                        "name": "Alessandro Cugini",
+                        "url": "https://m.facebook.com/alessandro.cugini.page/"
+                    }
+                ],
+                "url": "https://m.facebook.com/story.php?story_fbid=10235581335626231&id=1600578656",
+                "actors":
+                [
+                    {
+                        "id": "1600578656",
+                        "name": "Omar Bassani",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/468218244_10231666993730130_5956563567378872571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx544x541&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=24CGUmnUyRcQ7kNvwE7Blta&_nc_oc=Adn38GjXbE9SehOqfvrFvjUXK8P1i4dfYKCLzierlBVEFAn55-OLnjukLwxbmz9PBNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AfdovFxmVNxKaTQqQYoDPgtA5voD1D-iA6ZU7BAMh3jkIg&oe=69014BAC",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "is_additional_profile_plus": false,
+                        "delegate_page_id": "686141337909304",
+                        "url": "https://m.facebook.com/omar.bassani.7/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators":
+                [],
+                "attachments":
+                [],
+                "attached_story":
+                {
+                    "__typename": "Story",
+                    "id": "UzpfSTEwMDA2MzY3NDUzMTk2MjoxNTE0NDI2MTg0MDIzMTg1OjE1MTQ0MjYxODQwMjMxODU=",
+                    "post_id": "1514426184023185",
+                    "creation_time": 1760858110,
+                    "message": "",
+                    "message_entity_ranges": null,
+                    "url": "https://m.facebook.com/story.php?story_fbid=1514426184023185&id=100063674531962",
+                    "actors":
+                    [
+                        {
+                            "id": "100063674531962",
+                            "name": "Alessandro Cugini",
+                            "gender": "MALE",
+                            "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/534410782_1446967550769049_2825745678448502549_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x729&ctp=s120x120&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=P6kAwhMWeBcQ7kNvwGsNVfo&_nc_oc=AdnoElDIXQPOOmuALKTuzQC0H3xZCoAQsO7X1Wvxqgqpfqxo3dsB9bT-X3HCJ335gEU&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AffXz1DBHcRUHFw-STFn-iMSyP56TopNZkkbP1W29RVOxg&oe=69015752",
+                            "is_verified": false,
+                            "is_plus_actor": true,
+                            "is_additional_profile_plus": true,
+                            "delegate_page_id": "1471461119757686",
+                            "url": "https://m.facebook.com/alessandro.cugini.page/",
+                            "__typename": "User"
+                        }
+                    ],
+                    "collaborators":
+                    [],
+                    "attachments":
+                    [
+                        {
+                            "id": "1514426144023189",
+                            "title": "",
+                            "subtitle": null,
+                            "description": "",
+                            "url": "https://m.facebook.com/photo.php?fbid=1514426144023189&id=100063674531962&set=a.361456432653505",
+                            "instagram_user": null,
+                            "preview_image": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/565624852_1514426190689851_1222069852024655654_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1008x1273&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fo-C_XCpX44Q7kNvwEX8Cny&_nc_oc=AdnHz3ocS3HShDSaLZWUPFh50sWPUuaRCj_m6Imz4HeLFPK7NUZ-wB-8XFtF3y6W_cY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AffxhdnV5DIC9UKZN59xlHNXoHm_Rfj0IVo30cBSGRUrEA&oe=69016A1B",
+                            "videoUrl": "",
+                            "owner":
+                            {
+                                "id": "100063674531962",
+                                "name": "Alessandro Cugini"
+                            },
+                            "target":
+                            {
+                                "__typename": "Photo",
+                                "strong_id__": "1514426144023189",
+                                "id": "1514426144023189"
+                            },
+                            "media":
+                            {
+                                "__typename": "Photo",
+                                "id": "1514426144023189",
+                                "image":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/565624852_1514426190689851_1222069852024655654_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1008x1273&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fo-C_XCpX44Q7kNvwEX8Cny&_nc_oc=AdnHz3ocS3HShDSaLZWUPFh50sWPUuaRCj_m6Imz4HeLFPK7NUZ-wB-8XFtF3y6W_cY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AffxhdnV5DIC9UKZN59xlHNXoHm_Rfj0IVo30cBSGRUrEA&oe=69016A1B",
+                                    "width": 760,
+                                    "height": 960
+                                },
+                                "imageHigh":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/565624852_1514426190689851_1222069852024655654_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1008x1273&ctp=s1008x1273&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fo-C_XCpX44Q7kNvwEX8Cny&_nc_oc=AdnHz3ocS3HShDSaLZWUPFh50sWPUuaRCj_m6Imz4HeLFPK7NUZ-wB-8XFtF3y6W_cY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AffxhdnV5DIC9UKZN59xlHNXoHm_Rfj0IVo30cBSGRUrEA&oe=69016A1B",
+                                    "width": 1008,
+                                    "height": 1273
+                                },
+                                "imageLow":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/565624852_1514426190689851_1222069852024655654_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1008x1273&ctp=s480x480&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fo-C_XCpX44Q7kNvwEX8Cny&_nc_oc=AdnHz3ocS3HShDSaLZWUPFh50sWPUuaRCj_m6Imz4HeLFPK7NUZ-wB-8XFtF3y6W_cY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AffxhdnV5DIC9UKZN59xlHNXoHm_Rfj0IVo30cBSGRUrEA&oe=69016A1B",
+                                    "width": 380,
+                                    "height": 480
+                                },
+                                "imageMedium":
+                                {
+                                    "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/565624852_1514426190689851_1222069852024655654_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1008x1273&ctp=p540x540&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fo-C_XCpX44Q7kNvwEX8Cny&_nc_oc=AdnHz3ocS3HShDSaLZWUPFh50sWPUuaRCj_m6Imz4HeLFPK7NUZ-wB-8XFtF3y6W_cY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AffxhdnV5DIC9UKZN59xlHNXoHm_Rfj0IVo30cBSGRUrEA&oe=69016A1B",
+                                    "width": 540,
+                                    "height": 682
+                                },
+                                "playableUrlHdString": null,
+                                "owner":
+                                {
+                                    "__typename": "User",
+                                    "strong_id__": "100063674531962",
+                                    "id": "100063674531962",
+                                    "name": "Alessandro Cugini"
+                                },
+                                "feedback":
+                                {
+                                    "id": "ZmVlZGJhY2s6MTUxNDQyNjE4NDAyMzE4NQ==",
+                                    "top_level_comments":
+                                    {
+                                        "count": 2,
+                                        "total_count": 0
+                                    },
+                                    "likers":
+                                    {
+                                        "count": 22
+                                    },
+                                    "reshares":
+                                    {
+                                        "count": 3
+                                    },
+                                    "reactors":
+                                    {
+                                        "count": 23
+                                    }
+                                },
+                                "isFactChecked": false,
+                                "was_live": false
+                            },
+                            "isFactChecked": false,
+                            "feedback":
+                            {
+                                "thread_id": "",
+                                "legacy_api_post_id": "",
+                                "reaction_count": 0,
+                                "comment_count": 0,
+                                "total_count": 0,
+                                "sub_comment_count": 0,
+                                "like_count": 0,
+                                "share_count": 0,
+                                "reactions": null
+                            },
+                            "was_live": false,
+                            "attachment_type": ""
+                        }
+                    ],
+                    "attached_story": null,
+                    "privacy_scope": "Public",
+                    "edit_history": 3,
+                    "is_anonymous": false,
+                    "explicit_place": null,
+                    "implicit_place": null,
+                    "to": null,
+                    "album": null,
+                    "with_tags":
+                    {
+                        "nodes":
+                        []
+                    },
+                    "feedback":
+                    {
+                        "thread_id": "",
+                        "legacy_api_post_id": "1514426184023185",
+                        "reaction_count": 0,
+                        "comment_count": 0,
+                        "total_count": 0,
+                        "sub_comment_count": 0,
+                        "like_count": 0,
+                        "share_count": 0,
+                        "reactions": null
+                    },
+                    "source_language": "",
+                    "sponsored_data": null,
+                    "is_sponsored": false
+                },
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "implicit_place": null,
+                "to": null,
+                "album": null,
+                "with_tags":
+                {
+                    "nodes":
+                    []
+                },
+                "feedback":
+                {
+                    "thread_id": "ZmVlZGJhY2s6MTAyMzU1ODEzMzU2MjYyMzE=",
+                    "legacy_api_post_id": "10235581335626231",
+                    "reaction_count": 12,
+                    "comment_count": 4,
+                    "total_count": 4,
+                    "sub_comment_count": 0,
+                    "like_count": 8,
+                    "share_count": 0,
+                    "reactions":
+                    [
+                        {
+                            "reaction_count": 8,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 4,
+                            "id": "444813342392137"
+                        }
+                    ]
+                },
+                "source_language": "Italian",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTE2MDA1Nzg2NTY6MTAyMzU1ODA5Njc5MzcwMzk6MTAyMzU1ODA5Njc5MzcwMzk=",
+                "post_id": "10235580967937039",
+                "creation_time": 1760855172,
+                "message": "Buongiorno e buona domenica .\nOggi dopo 45 anni non si svolgerà la corsa degli Asinelli durante il Palio dei Cantù della Città di Martinengo .\nHa vinto chi vuole cancellare la storia e la tradizione della nostra Città .\nInquietante e inaccettabile che si sia arrivati a questa decisione dopo minacce da parte di associazioni animaliste e affini.\nDa molti anni hanno cercato di eliminare o bloccare questa manifestazione storica Martinenghese.\nHa vinto il pensiero sinistro - progressista e i fautori della cosidetta \"Cancel Culture \" e non solo grazie agli animalisti...\nSi crea un pericoloso e deleterio precedente che cancella storia,folklore e tradizione .\nOggi da cittadino Martinenghese e da Segretario reggente la Sezione Lega Martinengo è una giornata cupa e triste .\nLo sarà anche per tanti Martinenghesi che organizzano da decenni questa corsa con impegno e dedizione durante tutto l' anno.\nE per Martinenghesi e non Martinenghesi che volevano assistere a questa tradizionale corsa che si svolge da quasi 50 anni.\nPer chi non lo sapesse la corsa ha anche un richiamo storico con l' ingresso dell' illustre Condottiero della Serenissima Repubblica di Venezia Bartolomeo Colleoni nelle mura del Borgo di Martinengo ...",
+                "message_entity_ranges":
+                [],
+                "url": "https://m.facebook.com/story.php?story_fbid=10235580967937039&id=1600578656",
+                "actors":
+                [
+                    {
+                        "id": "1600578656",
+                        "name": "Omar Bassani",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/468218244_10231666993730130_5956563567378872571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx544x541&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=24CGUmnUyRcQ7kNvwE7Blta&_nc_oc=Adn38GjXbE9SehOqfvrFvjUXK8P1i4dfYKCLzierlBVEFAn55-OLnjukLwxbmz9PBNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AfdovFxmVNxKaTQqQYoDPgtA5voD1D-iA6ZU7BAMh3jkIg&oe=69014BAC",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "is_additional_profile_plus": false,
+                        "delegate_page_id": "686141337909304",
+                        "url": "https://m.facebook.com/omar.bassani.7/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators":
+                [],
+                "attachments":
+                [
+                    {
+                        "id": "10235580967617031",
+                        "title": "",
+                        "subtitle": null,
+                        "description": "",
+                        "url": "https://m.facebook.com/photo.php?fbid=10235580967617031&id=1600578656&set=a.4733620750711",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/561752380_10235580967657032_5090437755271217722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x540&ctp=s720x540&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0P5rpUeAVsQQ7kNvwGkRluC&_nc_oc=AdmbNUxb_8ux_hscy79LOr9fxKQGtPwE_EUvnzR0W4IIMQY9SN8c1ceaW7mDp7ETcss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfdmSd-LFZ-YRRZPz1P18k5JVNjNNMvNRW2UyDkt0MUdQA&oe=690159AB",
+                        "videoUrl": "",
+                        "owner":
+                        {
+                            "id": "1600578656",
+                            "name": "Omar Bassani"
+                        },
+                        "target":
+                        {
+                            "__typename": "Photo",
+                            "strong_id__": "10235580967617031",
+                            "id": "10235580967617031"
+                        },
+                        "media":
+                        {
+                            "__typename": "Photo",
+                            "id": "10235580967617031",
+                            "image":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/561752380_10235580967657032_5090437755271217722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x540&ctp=s720x540&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0P5rpUeAVsQQ7kNvwGkRluC&_nc_oc=AdmbNUxb_8ux_hscy79LOr9fxKQGtPwE_EUvnzR0W4IIMQY9SN8c1ceaW7mDp7ETcss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfdmSd-LFZ-YRRZPz1P18k5JVNjNNMvNRW2UyDkt0MUdQA&oe=690159AB",
+                                "width": 720,
+                                "height": 540
+                            },
+                            "imageHigh":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/561752380_10235580967657032_5090437755271217722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x540&ctp=s720x540&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0P5rpUeAVsQQ7kNvwGkRluC&_nc_oc=AdmbNUxb_8ux_hscy79LOr9fxKQGtPwE_EUvnzR0W4IIMQY9SN8c1ceaW7mDp7ETcss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfdmSd-LFZ-YRRZPz1P18k5JVNjNNMvNRW2UyDkt0MUdQA&oe=690159AB",
+                                "width": 720,
+                                "height": 540
+                            },
+                            "imageLow":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/561752380_10235580967657032_5090437755271217722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x540&ctp=s380x380&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0P5rpUeAVsQQ7kNvwGkRluC&_nc_oc=AdmbNUxb_8ux_hscy79LOr9fxKQGtPwE_EUvnzR0W4IIMQY9SN8c1ceaW7mDp7ETcss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfdmSd-LFZ-YRRZPz1P18k5JVNjNNMvNRW2UyDkt0MUdQA&oe=690159AB",
+                                "width": 380,
+                                "height": 285
+                            },
+                            "imageMedium":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/561752380_10235580967657032_5090437755271217722_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x540&ctp=s540x540&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0P5rpUeAVsQQ7kNvwGkRluC&_nc_oc=AdmbNUxb_8ux_hscy79LOr9fxKQGtPwE_EUvnzR0W4IIMQY9SN8c1ceaW7mDp7ETcss&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfdmSd-LFZ-YRRZPz1P18k5JVNjNNMvNRW2UyDkt0MUdQA&oe=690159AB",
+                                "width": 540,
+                                "height": 405
+                            },
+                            "playableUrlHdString": null,
+                            "owner":
+                            {
+                                "__typename": "User",
+                                "strong_id__": "1600578656",
+                                "id": "1600578656",
+                                "name": "Omar Bassani"
+                            },
+                            "feedback":
+                            {
+                                "id": "ZmVlZGJhY2s6MTAyMzU1ODA5Njc5MzcwMzk=",
+                                "top_level_comments":
+                                {
+                                    "count": 16,
+                                    "total_count": 0
+                                },
+                                "likers":
+                                {
+                                    "count": 48
+                                },
+                                "reshares":
+                                {
+                                    "count": 2
+                                },
+                                "reactors":
+                                {
+                                    "count": 61
+                                }
+                            },
+                            "isFactChecked": false,
+                            "was_live": false
+                        },
+                        "isFactChecked": false,
+                        "feedback":
+                        {
+                            "thread_id": "",
+                            "legacy_api_post_id": "",
+                            "reaction_count": 0,
+                            "comment_count": 0,
+                            "total_count": 0,
+                            "sub_comment_count": 0,
+                            "like_count": 0,
+                            "share_count": 0,
+                            "reactions": null
+                        },
+                        "was_live": false,
+                        "attachment_type": "MediaAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 2,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "implicit_place": null,
+                "to": null,
+                "album": null,
+                "with_tags":
+                {
+                    "nodes":
+                    []
+                },
+                "feedback":
+                {
+                    "thread_id": "ZmVlZGJhY2s6MTAyMzU1ODA5Njc5MzcwMzk=",
+                    "legacy_api_post_id": "10235580967937039",
+                    "reaction_count": 61,
+                    "comment_count": 16,
+                    "total_count": 19,
+                    "sub_comment_count": 0,
+                    "like_count": 48,
+                    "share_count": 2,
+                    "reactions":
+                    [
+                        {
+                            "reaction_count": 48,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 8,
+                            "id": "444813342392137"
+                        },
+                        {
+                            "reaction_count": 5,
+                            "id": "908563459236466"
+                        }
+                    ]
+                },
+                "source_language": "Italian",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTE2MDA1Nzg2NTY6MTAyMzU1NzM0Mjg3NDg1NjQ6MTAyMzU1NzM0Mjg3NDg1NjQ=",
+                "post_id": "10235573428748564",
+                "creation_time": 1760805300,
+                "message": "",
+                "message_entity_ranges": null,
+                "url": "https://m.facebook.com/story.php?story_fbid=10235573428748564&id=1600578656",
+                "actors":
+                [
+                    {
+                        "id": "1600578656",
+                        "name": "Omar Bassani",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-1/468218244_10231666993730130_5956563567378872571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx544x541&ctp=s120x120&_nc_cat=105&ccb=1-7&_nc_sid=1d2534&_nc_ohc=24CGUmnUyRcQ7kNvwE7Blta&_nc_oc=Adn38GjXbE9SehOqfvrFvjUXK8P1i4dfYKCLzierlBVEFAn55-OLnjukLwxbmz9PBNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-man2-1.xx&oh=00_AfdovFxmVNxKaTQqQYoDPgtA5voD1D-iA6ZU7BAMh3jkIg&oe=69014BAC",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "is_additional_profile_plus": false,
+                        "delegate_page_id": "686141337909304",
+                        "url": "https://m.facebook.com/omar.bassani.7/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators":
+                [],
+                "attachments":
+                [
+                    {
+                        "id": "-3383030640125383939",
+                        "title": "Nei paesi nordici è perfettamente normale che i bambini facciano il pisolino all’aperto (anche durante i mesi invernali). In Svezia, Norvegia e Finlandia, i genitori avvolgono i loro piccoli in vestiti caldi e coperte morbide, poi li lasciano dormire nelle carrozzine su balconi, nei giardini o persino fuori dai caffè, mentre si godono un caffè all’interno. \n\nSi crede che l’aria fresca e pulita aiuti i bambini a dormire meglio e a mantenersi più sani — una tradizione che può sorprendere chi viene da fuori, ma che fa parte della naturale filosofia di vita nordica.\n\nVideo TT/helloimprativa e IG/genevieve__rb\n\n#news #lifestyle #freddo #bambini #genitori #radiodeejay",
+                        "subtitle": null,
+                        "description": "",
+                        "url": "https://m.facebook.com/story.php?story_fbid=823898453466383&id=100064670564758",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566832898_1145562547740881_4631220125451682860_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x1280&ctp=p200x200&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=DIpJGjG2AvsQ7kNvwHj8XLK&_nc_oc=Adm5ELNqh9JsfqZkYomCZpyyMCR1J8xlR5Ash0pQRDZvLJLTNYEutE23ZWT-l49wXTA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfcYZm8dIMzLa4QISQnL7SAWprIZKTTJNP2_zoPTBlbzvw&oe=6901601E",
+                        "videoUrl": "https://scontent-man2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpIPgwHNyF3i5GhepoQ3Sior_mPVn79IexPPqCtMi3236k8sSg_mWYbY7q3_tgnRear9OzsT6ujVk07bayLy-hcoCokjKsVfjt9Goj0cO9ug.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-man2-1.xx.fbcdn.net&_nc_ohc=I8BLhif8wlAQ7kNvwGNx9K1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MjgwMzQ4NjUyODM5MTQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ea73d25437f5259f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDQ1OTkwNEZGRDQzNzEwRkM5NzlBQzVFNTcxRDA4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhFZmJfZXBoZW1lcmFsLzc3NDBGRDlGMDY3NkE2NzM4MDUzMjVCRDAzNEQzNTlGX210XzBfYXVkaW9fZGFzaGluaXQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpSNzPWq77YFFQIoAkMzLBdANDul41P3zxgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllJ4BAA&_nc_zt=28&oh=00_Afc4Il4U8pWNBrGxoJovX6hCeulGGp_3iCP0sMvW3FisuA&oe=6901641C&bitrate=1996881&tag=dash_h264-basic-gen2_720p",
+                        "owner":
+                        {
+                            "id": "",
+                            "name": ""
+                        },
+                        "target":
+                        {
+                            "__typename": "Video",
+                            "strong_id__": "823898453466383",
+                            "id": "823898453466383"
+                        },
+                        "media":
+                        {
+                            "__typename": "GenericAttachmentMedia",
+                            "id": "-3383030640125383939",
+                            "image":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566832898_1145562547740881_4631220125451682860_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x1280&ctp=p200x200&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=DIpJGjG2AvsQ7kNvwHj8XLK&_nc_oc=Adm5ELNqh9JsfqZkYomCZpyyMCR1J8xlR5Ash0pQRDZvLJLTNYEutE23ZWT-l49wXTA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfcYZm8dIMzLa4QISQnL7SAWprIZKTTJNP2_zoPTBlbzvw&oe=6901601E",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "imageHigh":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566832898_1145562547740881_4631220125451682860_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x1280&ctp=p200x200&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=DIpJGjG2AvsQ7kNvwHj8XLK&_nc_oc=Adm5ELNqh9JsfqZkYomCZpyyMCR1J8xlR5Ash0pQRDZvLJLTNYEutE23ZWT-l49wXTA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfcYZm8dIMzLa4QISQnL7SAWprIZKTTJNP2_zoPTBlbzvw&oe=6901601E",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "imageLow":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566832898_1145562547740881_4631220125451682860_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x1280&ctp=p200x200&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=DIpJGjG2AvsQ7kNvwHj8XLK&_nc_oc=Adm5ELNqh9JsfqZkYomCZpyyMCR1J8xlR5Ash0pQRDZvLJLTNYEutE23ZWT-l49wXTA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfcYZm8dIMzLa4QISQnL7SAWprIZKTTJNP2_zoPTBlbzvw&oe=6901601E",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "imageMedium":
+                            {
+                                "uri": "https://scontent-man2-1.xx.fbcdn.net/v/t15.5256-10/566832898_1145562547740881_4631220125451682860_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx720x1280&ctp=p200x200&_nc_cat=107&ccb=1-7&_nc_sid=282d23&_nc_ohc=DIpJGjG2AvsQ7kNvwHj8XLK&_nc_oc=Adm5ELNqh9JsfqZkYomCZpyyMCR1J8xlR5Ash0pQRDZvLJLTNYEutE23ZWT-l49wXTA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-man2-1.xx&oh=00_AfcYZm8dIMzLa4QISQnL7SAWprIZKTTJNP2_zoPTBlbzvw&oe=6901601E",
+                                "width": 250,
+                                "height": 335
+                            },
+                            "playableUrlHdString": "https://scontent-man2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpIPgwHNyF3i5GhepoQ3Sior_mPVn79IexPPqCtMi3236k8sSg_mWYbY7q3_tgnRear9OzsT6ujVk07bayLy-hcoCokjKsVfjt9Goj0cO9ug.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-man2-1.xx.fbcdn.net&_nc_ohc=I8BLhif8wlAQ7kNvwGNx9K1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MjgwMzQ4NjUyODM5MTQsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ea73d25437f5259f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NDQ1OTkwNEZGRDQzNzEwRkM5NzlBQzVFNTcxRDA4QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhFZmJfZXBoZW1lcmFsLzc3NDBGRDlGMDY3NkE2NzM4MDUzMjVCRDAzNEQzNTlGX210XzBfYXVkaW9fZGFzaGluaXQubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJpSNzPWq77YFFQIoAkMzLBdANDul41P3zxgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllJ4BAA&_nc_zt=28&oh=00_Afc4Il4U8pWNBrGxoJovX6hCeulGGp_3iCP0sMvW3FisuA&oe=6901641C&bitrate=1996881&tag=dash_h264-basic-gen2_720p",
+                            "owner":
+                            {
+                                "__typename": "",
+                                "strong_id__": "",
+                                "id": "",
+                                "name": ""
+                            },
+                            "feedback":
+                            {
+                                "id": "",
+                                "top_level_comments":
+                                {
+                                    "count": 0,
+                                    "total_count": 0
+                                },
+                                "likers":
+                                {
+                                    "count": 0
+                                },
+                                "reshares":
+                                {
+                                    "count": 0
+                                },
+                                "reactors":
+                                {
+                                    "count": 0
+                                }
+                            },
+                            "isFactChecked": false,
+                            "was_live": false
+                        },
+                        "isFactChecked": false,
+                        "feedback": null,
+                        "was_live": false,
+                        "attachment_type": "FBShortsShareAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "implicit_place": null,
+                "to": null,
+                "album": null,
+                "with_tags":
+                {
+                    "nodes":
+                    []
+                },
+                "feedback":
+                {
+                    "thread_id": "ZmVlZGJhY2s6MTAyMzU1NzM0Mjg3NDg1NjQ=",
+                    "legacy_api_post_id": "10235573428748564",
+                    "reaction_count": 0,
+                    "comment_count": 0,
+                    "total_count": 0,
+                    "sub_comment_count": 0,
+                    "like_count": 0,
+                    "share_count": 0,
+                    "reactions":
+                    []
+                },
+                "source_language": "English",
+                "sponsored_data": null,
+                "is_sponsored": false
+            }
+        ]
+    },
+    "page_info":
+    {
+        "start_cursor": "Cg8Ob3JnYW5pY19jdXJzb3IJAAAB70FRSFNKdDFhYlVlRVI5MWdHM0Q5WEJrSlFCNjFSVk9VWE1zN2hOU0o1SGFOQWlWZ0RHamozU2xJb0dYSVlYWWdpT19FbXdxanpuRlROZEl0VVE1NUxqN1FuMmRRR0p5Y2oyTktnRi0wQzVTQWN0SWVZeHJjUk83OUdXQ21wckZGcjNvdU9KMVlwMmZ3SEFtTzEwdkRRazlranI4WVUyaWxKN3pNRDlibUpQa1UyamxaX0pEZ2E5b3NVU1dpdldCU2lLcmdId0hUdTVIdF9BazlURVl3RUxIdTIwLWJpQ3VtVTFtZEFyekQtUnpHbklWOFViVjQxSEh0Q2dmazdYQnB5R3JqLWNDeXRWYVI2b1NTOWhYNTF2X2lpdldSczlCTmFaS2s3WGFVMTBBa01iNk1UdjgtNDRvMDgxY3d6dzl6RGs1Rmlud21HRHRsRkt4TU5NekRSUGtrYWpmZXFCN2ZBSDRuZ055VVJxeUdSNzlYajY1QjF6bXAtM3Y3UjVkWHNrZzk5Z25GcTdrZnVKOXVZcThTSDFoVm04b0NDYTRtRVg4OHN0QVVJdkxxMmw2SldEaWI4NW9kWEVJT29JTElPREVWTzRiRU14ZDJ0MFIyNDNBdU5kODZrSWp4dFVhWGNiUUhYZXpPdE4zeEptWQ8JYWRfY3Vyc29yDg8PZ2xvYmFsX3Bvc2l0aW9uAgAPBm9mZnNldAIADxBsYXN0X2FkX3Bvc2l0aW9uAv8B",
+        "end_cursor": "Cg8Ob3JnYW5pY19jdXJzb3IJAAAB70FRSFM3bGpmbVcxNXlMRzFzc0ZKcmJxZDMzMS1YNm9UYlZLUlpHNmpzMmdzZHhDWkctZ3YtSWJPWWIwWUJ2N2lmYlRMTmRVMmFEMExfQzFvV2hyWGs5MlBwcWNQNEJ4QUNSb1BrTGpRa2lyWFJldnFkRE1VcU9IZm0wWE9fLU8xYUs0N0d6U2hwbmRkdThfeXNWQS1ZejhOM0F3LXBBaFd1cUhPM3JoX2oyQ2VxNXRfekh0YVhPRWt4WDVtd0Nnc3A0TjZCVUVsWF9oenhXNGNkU1RPZmJHSUJTSVhJRHVZa1RvTmlfRnV2MXJvQlBzTUdrNVZkV2djRzdkYjhKMWVFVXZQbWpuM3FDNWdRUnlqOS05N2JJQ2dmeGxYWFI0WU5zZEZfeVVGZjFzMGlYbkFTSklNM1BaOFNTWnpYWFloMVhJX2c4ZGVWWWVOR1AtSEtRT1RORklEaWNfdVRqa2RQWWVWMXNjSFFBTlNlSjQ4SGhLRVp6UU42dkhZR3hPV3dRX2NhWldlVGZkU0psYWhDbzg2bG5RZmU5VmxRYkZTd2o1YzVjbDN3QzZUcUJyNi00M3BmMFluMUVxZkYyaDRLQVl0M3BZYnR5QUVXVnlNSk5YSlViUmhMS2lSVTB5d280OG9Fa0VQenN2eDBhZw8JYWRfY3Vyc29yDg8PZ2xvYmFsX3Bvc2l0aW9uAgAPBm9mZnNldAIADxBsYXN0X2FkX3Bvc2l0aW9uAv8B",
+        "has_previous_page": true,
+        "has_next_page": true
+    }
+}

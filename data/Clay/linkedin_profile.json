@@ -1,0 +1,226 @@
+{
+  "dob": null,
+  "org": "Accenture",
+  "url": "https://www.linkedin.com/in/john-jisha",
+  "name": "Jisha John",
+  "slug": "john-jisha",
+  "title": "Data Engineering,Management and Governance Manager",
+  "awards": [
+    {
+      "date": "2021-12",
+      "title": "Culture Catalyst (best of the best 2021)",
+      "summary": null,
+      "company_id": null,
+      "company_name": "Scotiabank"
+    },
+    {
+      "date": "2017-12",
+      "title": "Dataviz 2017: Data Visualization and Storytelling - a focus on execution excellence",
+      "summary": null,
+      "company_id": null,
+      "company_name": "Mindtree"
+    }
+  ],
+  "country": "United States",
+  "courses": null,
+  "patents": null,
+  "summary": "@Extensive experience in developing cloud adoption strategies and executing migrations from legacy platforms to cloud native architecture resulting in significant increases in performance, scalability and cost reduction.\n\n@Build data architectures for high-volume processing in real-time streaming and batch pipelines with a focus on fault tolerance, scalability and performance using Azure, Databricks, Spark, Python, SQL, Synapse, Redshift, Airflow, Snowflake, MS Fabric and Dbt.\n\n@Expertise transforming structured, semi-structured and unstructured data across batch and streaming in monolith, microservices, medallion, data mesh type of architectures\n\n@End-to-end design and implementation experience in data warehousing, business intelligence, analytics and visualization across both cloud and on prem environments.\n\n@Expertise in big data ecosystem to process and run analytics using Hadoop, HDFS, Hive, Trino(Presto), Spark,Sqoop for large scale data processing and analytics.\n\n@Strong background in implementing enterprise-wide unified federated data governance solutions as well as Master data management solutions.Proficiency with processes and tools like Unity Catalog,Collibra, Infomatica IDMC, Purview and Atlan.\n\n@Automate business processes, tune queries and databases and build dashboards leading to improved efficiency and stakeholder value creation.\n\n@Effective communicator, adept at collaborating across teams to develop product roadmaps that align business and IT goals.\n\n@Hire and mentor high performing engineering teams",
+  "user_id": null,
+  "headline": "Data Architect @ Accenture | Data Engineering,Big Data, Analytics,Cloud Migration,Governance",
+  "projects": null,
+  "education": [
+    {
+      "grade": null,
+      "degree": "Master of Technology (M.Tech.)",
+      "end_date": "2011-01-01",
+      "activities": null,
+      "start_date": "2009-01-01",
+      "school_name": "Karunya Institute of Technology and Sciences",
+      "field_of_study": "Embedded systems"
+    },
+    {
+      "grade": null,
+      "degree": "Bachelor of Engineering - BE",
+      "end_date": "2009-01-01",
+      "activities": null,
+      "start_date": "2005-01-01",
+      "school_name": "Visvesvaraya Technological University",
+      "field_of_study": "Electrical and Electronics Engineering"
+    },
+    {
+      "grade": null,
+      "degree": null,
+      "end_date": "2003-01-01",
+      "activities": null,
+      "start_date": "1993-01-01",
+      "school_name": "International Indian School, Riyadh",
+      "field_of_study": null
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Native or bilingual proficiency"
+    }
+  ],
+  "last_name": "John",
+  "person_id": null,
+  "experience": [
+    {
+      "url": "https://www.linkedin.com/company/accenture",
+      "title": "Data Engineering,Management and Governance Manager",
+      "org_id": 1033,
+      "company": "Accenture",
+      "summary": "San Francisco Bay Area",
+      "end_date": null,
+      "locality": "San Francisco Bay Area",
+      "company_id": null,
+      "is_current": true,
+      "start_date": "2022-04-01",
+      "company_domain": "accenture.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/scotiabank",
+      "title": "Technical Lead Advisory, Data Platform Development",
+      "org_id": 3139,
+      "company": "Scotiabank",
+      "summary": "Toronto, Ontario, Canada",
+      "end_date": "2022-03-01",
+      "locality": "Toronto, Ontario, Canada",
+      "company_id": null,
+      "is_current": false,
+      "start_date": "2019-09-01",
+      "company_domain": "scotiabank.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/amarisconsulting",
+      "title": "Experienced Consultant",
+      "org_id": 72327,
+      "company": "Amaris Consulting",
+      "summary": "Toronto, Ontario, Canada",
+      "end_date": "2019-09-01",
+      "locality": "Toronto, Ontario, Canada",
+      "company_id": null,
+      "is_current": false,
+      "start_date": "2019-04-01",
+      "company_domain": "amaris.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/bosch-global-software-technologies",
+      "title": "Senior Data Engineer",
+      "org_id": 586240,
+      "company": "Robert Bosch Engineering and Business Solutions Private Limited",
+      "summary": "Bengaluru, Karnataka, India",
+      "end_date": "2019-02-01",
+      "locality": "Bengaluru, Karnataka, India",
+      "company_id": null,
+      "is_current": false,
+      "start_date": "2018-09-01",
+      "company_domain": "bosch-softwaretechnologies.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/ltimindtree",
+      "title": "Senior Business Intelligence Developer",
+      "org_id": 86813252,
+      "company": "LTIMindtree",
+      "summary": "Hyderabad, Telangana, India",
+      "end_date": "2018-07-01",
+      "locality": "Hyderabad, Telangana, India",
+      "company_id": null,
+      "is_current": false,
+      "start_date": "2015-05-01",
+      "company_domain": "ltimindtree.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/nttdata",
+      "title": "Senior Consultant-Application Development",
+      "org_id": 18535,
+      "company": "NTT DATA",
+      "summary": "Hyderabad, Telangana, India",
+      "end_date": "2015-05-01",
+      "locality": "Hyderabad, Telangana, India",
+      "company_id": null,
+      "is_current": false,
+      "start_date": "2011-12-01",
+      "company_domain": "nttdata.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/isro",
+      "title": "Project Intern",
+      "org_id": 164483,
+      "company": "ISRO",
+      "summary": "Trivandrum",
+      "end_date": "2011-05-01",
+      "locality": "Trivandrum",
+      "company_id": null,
+      "is_current": false,
+      "start_date": "2010-11-01",
+      "company_domain": "isro.gov.in"
+    }
+  ],
+  "first_name": "Jisha",
+  "jobs_count": 7,
+  "profile_id": 67948502,
+  "connections": 2834,
+  "last_refresh": "2025-10-30 19:46:22.985",
+  "others_named": null,
+  "publications": null,
+  "volunteering": null,
+  "location_name": "San Jose, California, United States",
+  "num_followers": 2836,
+  "certifications": [
+    {
+      "date": "2025-09-01",
+      "title": "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
+      "summary": null,
+      "company_id": null,
+      "verify_url": null,
+      "company_name": "Microsoft",
+      "credential_id": null
+    },
+    {
+      "date": null,
+      "title": "R for Data science",
+      "summary": null,
+      "company_id": null,
+      "verify_url": null,
+      "company_name": "Simplilearn",
+      "credential_id": null
+    }
+  ],
+  "picture_url_copy": "https://media.licdn.com/dms/image/v2/C5603AQFyWWDCbXRf-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629206717071?e=1763596800&v=beta&t=rnhrYJJ9k18ACwJE-whTOoJrgOx8RjKXAjDixEuitAQ",
+  "picture_url_orig": "https://media.licdn.com/dms/image/v2/C5603AQFyWWDCbXRf-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629206717071?e=1763596800&v=beta&t=rnhrYJJ9k18ACwJE-whTOoJrgOx8RjKXAjDixEuitAQ",
+  "latest_experience": {
+    "url": "https://www.linkedin.com/company/accenture",
+    "title": "Data Engineering,Management and Governance Manager",
+    "org_id": 1033,
+    "company": "Accenture",
+    "summary": "San Francisco Bay Area",
+    "end_date": null,
+    "locality": "San Francisco Bay Area",
+    "company_id": null,
+    "is_current": true,
+    "start_date": "2022-04-01",
+    "company_domain": "accenture.com"
+  },
+  "current_experience": [
+    {
+      "url": "https://www.linkedin.com/company/accenture",
+      "title": "Data Engineering,Management and Governance Manager",
+      "org_id": 1033,
+      "company": "Accenture",
+      "summary": "San Francisco Bay Area",
+      "end_date": null,
+      "locality": "San Francisco Bay Area",
+      "company_id": null,
+      "is_current": true,
+      "start_date": "2022-04-01",
+      "company_domain": "accenture.com"
+    }
+  ],
+  "people_also_viewed": null
+}

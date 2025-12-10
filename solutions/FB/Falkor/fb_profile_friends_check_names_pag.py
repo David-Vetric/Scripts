@@ -1,0 +1,111 @@
+import requests
+from dotenv import load_dotenv
+import os
+import time
+
+# =====================
+# CONFIG
+# =====================
+load_dotenv("/Users/davidrajchenberg/Desktop/Vetric/Scripts/dev.env")
+
+is_dev = True
+
+if is_dev:
+    print("🌱 Using DEV environment")
+    API_KEY = os.getenv("API_KEY_S")
+    base_url = os.getenv("URL_S")
+else:
+    print("🚀 Using PROD environment")
+    API_KEY = os.getenv("API_KEY")
+    base_url = os.getenv("URL")
+
+if not API_KEY or not base_url:
+    raise EnvironmentError("Missing API key or base URL in .env file")
+
+PROFILE_ID = "100001750658349"
+URL = f"{base_url}/facebook/v1/profiles/{PROFILE_ID}/friends"
+
+HEADERS = {
+    "x-api-key": API_KEY,
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+
+SLEEP = 1
+MAX_RETRIES = 4
+
+
+# =====================
+# HELPERS
+# =====================
+def make_request(end_cursor=None):
+    """POST request with retry logic."""
+    data = {}
+
+    if end_cursor:
+        data["end_cursor"] = end_cursor  # body param name
+
+    last_status = None
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(URL, headers=HEADERS, data=data, timeout=25)
+            last_status = resp.status_code
+
+            if resp.status_code == 200:
+                return resp.json()
+
+            print(f"⚠️ Attempt {attempt} returned {resp.status_code}")
+            time.sleep(SLEEP)
+
+        except requests.RequestException as e:
+            print(f"⚠️ Error on attempt {attempt}: {e}")
+            time.sleep(SLEEP)
+
+    raise Exception(f"❌ Failed after {MAX_RETRIES} attempts. Last status = {last_status}")
+
+
+# =====================
+# MAIN
+# =====================
+def main():
+    end_cursor = None
+    page = 1
+    total_friends = 0
+
+    print(f"\n🔍 Collecting ALL friends for profile ID {PROFILE_ID}\n")
+
+    while True:
+        data = make_request(end_cursor)
+
+        results = data.get("results", []) or []
+        count = len(results)
+        total_friends += count
+
+        print(f"\n📄 Page {page} — {count} friends")
+
+        # Print friend names
+        for idx, friend in enumerate(results, start=1):
+            name = friend.get("name") or "<no-name>"
+            print(f"   🔹 Friend {idx}: {name}")
+
+        # Pagination
+        page_info = data.get("page_info", {}) or {}
+        end_cursor = page_info.get("end_cursor")
+
+        if not end_cursor:
+            print("\n⛔ Pagination ended — no end_cursor found.")
+            break
+
+        print(f"➡️ Next cursor: {str(end_cursor)[:50]}...")
+        page += 1
+        time.sleep(SLEEP)
+
+    # SUMMARY
+    print("\n📊 === SUMMARY ===")
+    print(f"Total pages fetched: {page}")
+    print(f"Total friends collected: {total_friends}")
+    print("\n🏁 Finished.\n")
+
+
+if __name__ == "__main__":
+    main()

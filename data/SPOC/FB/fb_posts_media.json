@@ -1,0 +1,226 @@
+{
+    "data": {
+        "nodes": [
+            {
+                "__typename": "Photo",
+                "strong_id__": "10162041641333931",
+                "id": "10162041641333931",
+                "image": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_Afdp8kzVLcNKM5Shil-lcMDsPdiG1rc3_KEPYxztpxatPQ&oe=68EBF7A6",
+                    "width": 640,
+                    "height": 360
+                },
+                "created_time": 1759206069,
+                "inline_activities": {
+                    "nodes": []
+                },
+                "owner": {
+                    "__typename": "User",
+                    "strong_id__": "587148930",
+                    "id": "587148930",
+                    "name": "Ng Yu Neng",
+                    "is_page_or_profile_plus_actor": false
+                },
+                "playable_duration_in_ms": 0,
+                "structured_reporting_action": null,
+                "can_viewer_report": true,
+                "creation_story": {
+                    "cache_id": "-3242477535747206547",
+                    "id": "UzpfSTU4NzE0ODkzMDpWSzoxMDE2MjA0MTY0MTMzMzkzMQ==",
+                    "sponsored_data": null,
+                    "legacy_api_story_id": "587148930_VK_10162041641333931",
+                    "application": null,
+                    "attachments": [
+                        {
+                            "action_links": []
+                        }
+                    ],
+                    "tracking": "{\"top_level_post_id\":\"10162041641333931\",\"content_owner_id_new\":587148930,\"photo_id\":\"10162041641333931\",\"story_location\":9,\"story_attachment_style\":\"photo\",\"ent_attachement_type\":\"MediaAttachment\",\"actrs\":\"587148930\"}"
+                },
+                "can_viewer_make_cover_photo": false,
+                "can_viewer_delete": false,
+                "imageThumbnail": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_Afdp8kzVLcNKM5Shil-lcMDsPdiG1rc3_KEPYxztpxatPQ&oe=68EBF7A6",
+                    "width": 640,
+                    "height": 360
+                },
+                "imageHigh": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_Afdp8kzVLcNKM5Shil-lcMDsPdiG1rc3_KEPYxztpxatPQ&oe=68EBF7A6",
+                    "width": 640,
+                    "height": 360
+                },
+                "imageHighOrig": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_Afdp8kzVLcNKM5Shil-lcMDsPdiG1rc3_KEPYxztpxatPQ&oe=68EBF7A6",
+                    "width": 640,
+                    "height": 360
+                },
+                "message": null,
+                "is_playable": false,
+                "imageLow": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_Afce0IEM4ExaQKn4jEMarKjoilSLCB8vDpv2QP5ZUty1MA&oe=68EBF7A6",
+                    "width": 366,
+                    "height": 206
+                },
+                "imageMedium": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_q65_s552x414_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_AfdbFeIPt93n2X9QnPB5O8nxOu4kDQWBAjRduLGrcozmpw&oe=68EBF7A6",
+                    "width": 552,
+                    "height": 311
+                },
+                "focus": {
+                    "x": 0.5,
+                    "y": 0.33
+                },
+                "should_block_screenshot": false,
+                "largeThumbnail": {
+                    "uri": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/557999345_10162041641338931_2130982434238978913_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=111&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=Bhno2DKZ-yAQ7kNvwFEUGi4&_nc_oc=AdnQFVWZv5DTHmevPG2r1NgkBfXge3UKaKQaaCy9XIoMQKTTR4L9z-HueZRNHD304rEMbTCle77747ubES8BFJCL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&oh=00_Afdp8kzVLcNKM5Shil-lcMDsPdiG1rc3_KEPYxztpxatPQ&oe=68EBF7A6",
+                    "width": 640,
+                    "height": 360
+                },
+                "album": null,
+                "should_upsell_as_viewer_profile_picture": false,
+                "should_upsell_as_viewer_featured_photo": false,
+                "should_upsell_as_viewer_featured_photo_aggressively": false,
+                "can_viewer_add_tags": false,
+                "can_viewer_untag": false,
+                "can_viewer_download": true,
+                "can_viewer_search_photo": false,
+                "can_viewer_share": false,
+                "can_viewer_share_externally": true,
+                "can_viewer_edit": false,
+                "should_show_profile_picture_guard": false,
+                "is_viewers_current_profile_picture": false,
+                "can_viewer_suggest_location": false,
+                "pending_place": null,
+                "has_stickers": false,
+                "face_boxes": {
+                    "nodes": []
+                },
+                "tags": {
+                    "edges": []
+                },
+                "with_tags": {
+                    "nodes": []
+                },
+                "implicit_place": null,
+                "profile_picture_overlay": null,
+                "attribution_app": null,
+                "attribution_app_metadata": null,
+                "explicit_place": null,
+                "playable_url": null,
+                "message_button": null,
+                "privacy_scope": {
+                    "privacy_write_id": "cHJpdmFjeV9zY29wZV9yZW5kZXJlcjp7ImlkIjoxMDE2MjA0MTY0MTMzMzkzMX0",
+                    "icon_image": {
+                        "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yW/r/_rBuJI1WpQ6.png"
+                    },
+                    "can_viewer_edit": false,
+                    "label": "Public"
+                },
+                "container_story": null,
+                "legacy_photo_container": null,
+                "is_spherical": false,
+                "photo_encodings": [],
+                "immersive_photo_encodings": [],
+                "android_urls": [],
+                "product_tags": [],
+                "feedback": {
+                    "id": "ZmVlZGJhY2s6MTAxNjIwNDE2NDEzMzM5MzE=",
+                    "can_viewer_react": false,
+                    "can_viewer_comment": false,
+                    "can_viewer_comment_with_photo": true,
+                    "can_viewer_comment_with_video": true,
+                    "can_viewer_subscribe": true,
+                    "does_viewer_like": false,
+                    "if_viewer_can_see_voice_switcher": null,
+                    "is_viewer_subscribed": false,
+                    "legacy_api_post_id": "10162041641333931",
+                    "top_level_comments": {
+                        "count": 0,
+                        "total_count": 0
+                    },
+                    "likers": {
+                        "count": 0
+                    },
+                    "viewer_feedback_reaction_info": null,
+                    "important_reactors": {
+                        "nodes": []
+                    },
+                    "supported_reaction_infos": [
+                        {
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "id": "1678524932434102"
+                        },
+                        {
+                            "id": "613557422527858"
+                        },
+                        {
+                            "id": "115940658764963"
+                        },
+                        {
+                            "id": "478547315650144"
+                        },
+                        {
+                            "id": "908563459236466"
+                        },
+                        {
+                            "id": "444813342392137"
+                        }
+                    ],
+                    "reactors": {
+                        "count": 0
+                    },
+                    "top_reactions": {
+                        "edges": []
+                    },
+                    "reaction_display_config": {
+                        "reaction_display_strategy": "NONE",
+                        "reaction_string_with_viewer": null,
+                        "reaction_string_without_viewer": null,
+                        "reaction_sheet_explanation_string": null
+                    },
+                    "owning_profile": {
+                        "__typename": "User",
+                        "strong_id__": "587148930",
+                        "id": "587148930"
+                    },
+                    "viewer_acts_as_page": null,
+                    "personalized_ufi_config": {
+                        "expanded_actions": [],
+                        "buttons": [
+                            {
+                                "__typename": "XFBUFISendButton",
+                                "strong_id__": null,
+                                "type": "SEND",
+                                "display_mode": "LABEL",
+                                "fallback_options": []
+                            }
+                        ]
+                    },
+                    "reshares": {
+                        "count": 0
+                    }
+                },
+                "call_now_button": null,
+                "is_profile_picture_of_owner": false,
+                "copyright_attribution_integrity_context_trigger": null,
+                "automatic_accessibility_caption": "May be an image of 2 people, hospital and text that says 'MECICO MEOICORP CORP 8 Time for your medicine'",
+                "custom_accessibility_caption": null,
+                "is_delegating_delete": false,
+                "cix_screen": null,
+                "boost_post_button": null,
+                "url": "https://www.facebook.com/photo.php?fbid=10162041641333931&set=p.10162041641333931&type=3",
+                "frx_entrypoint_label": "Report photo",
+                "copyright_block_info": null
+            }
+        ]
+    },
+    "extensions": {
+        "server_metadata": {
+            "request_start_time_ms": 1759909124485,
+            "time_at_flush_ms": 1759909124574
+        },
+        "is_final": true
+    }
+}

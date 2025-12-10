@@ -1,0 +1,81 @@
+{
+	"__typename": "Story",
+	"title": null,
+	"titleFromRenderLocation": "Sophia Sideras is at University of Oregon.",
+	"creation_time": 1748718755,
+	"url": "https://www.facebook.com/groups/apartment.uoregon/permalink/1075436294634429/",
+	"message": "Hello! I’m reposting to get more visibility teehee\n\nMy friend and I are looking for a housing situation within a 30 minute walk of UO. Either a place with two bedrooms or people that need more roomates. Lease to start in late August/early September. Our budget is around 1400-1600 in full. We both love interior design, cooking and having chill hang outs, going out or staying in, live music, and more good things.\n\nhttps://www.instagram.com/sophiasideras/\n\nhttps://www.instagram.com/prliday/\n\nHere are both of our Instagrams !\nCheck us out and then DM me on Instagram to reach out !!!\n\nThanks !",
+	"post_id": "1075436294634429",
+	"actors": [
+		{
+			"__typename": "User",
+			"id": "100021900992369",
+			"gender": "FEMALE",
+			"name": "Sophia Sideras",
+			"profile_picture": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/342549690_765705284940490_7232502705372277942_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=3odjgldFFc4Q7kNvwEG4YRK&_nc_oc=AdnqIQuJ5nwH8zTWHd5GlvTs8s9HgPEBCU4t5I44-ZN7qlNzXzH_5raPfZ0uKqz9T_dBd86x8CHgYwcMG3rhU75D&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&oh=00_AfebVjFt8FsuZarOd5pyaNwuOz_wad4QkEfxFHBUNx27nw&oe=68FEDCB5",
+			"is_verified": false,
+			"url": "https://m.facebook.com/snazzy.cinnaroll/"
+		}
+	],
+	"collaborators": [],
+	"attachments": [
+		{
+			"title": "prliday",
+			"subtitle": "Instagram",
+			"url": "https://www.instagram.com/_u/prliday",
+			"target": null,
+			"is_poll_closed": null,
+			"text": null,
+			"media": {
+				"image": {
+					"uri": "https://scontent-mia5-2.cdninstagram.com/v/t51.82787-19/518659309_18410443663104744_8951232668756372814_n.jpg?stp=cp0_dst-jpg_e15_q65_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=F3XmpYGrVBAQ7kNvwFVyb19&_nc_oc=AdlhAcFGj2TyeXJVqrKBZixev42J2rcuW5AxiFGv3QzQ0-2d1lMovobjrmsh3ybZv08wte9oP7cwGi7eCztYabxl&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-mia5-2.cdninstagram.com&oh=00_AffxLCrH79fCVQzOgDG5zrySmk9rVdk1XNzDa3nSbpE1LA&oe=68FEE619&ig_cache_key=MzE2NjkyMDc0Mw%3D%3D.2-ccb7-5",
+					"width": 200,
+					"height": 200
+				},
+				"is_playable": false,
+				"preferredPlayableUrlString": null,
+				"playable_duration_in_ms": 0,
+				"feedback": null
+			},
+			"subattachments": []
+		}
+	],
+	"group_post_topic_tags": [],
+	"with_tags": {
+		"nodes": []
+	},
+	"implicit_place": {
+		"__typename": "Page",
+		"strong_id__": "107915639228865",
+		"name": "Eugene, Oregon",
+		"id": "107915639228865"
+	},
+	"explicit_place": {
+		"name": "University of Oregon",
+		"latitude": 44.044335780572,
+		"longitude": -123.0728018418
+	},
+	"album": null,
+	"feedback": {
+		"reaction_count": 7,
+		"commnet_count": 8,
+		"like_count": 6,
+		"share_count": 0
+	},
+	"feedback_context": {
+		"top_comments": [
+			{
+				"comment_id": "Y29tbWVudDoxMDc1NDM2Mjk0NjM0NDI5XzEwNzU1NjAyMjEyODg3MDM=",
+				"created_time": 1748735621,
+				"comment_attachments": [],
+				"author_id": "100060246324396",
+				"author_name": "Savvy Taylor",
+				"author_profile_url": null,
+				"gender": null,
+				"feedback": {}
+			}
+		]
+	},
+	"video_attachments": [],
+	"attached_story": null
+}

@@ -1,0 +1,390 @@
+{
+    "id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzMw==",
+    "reactions": 0,
+    "likes": 0,
+    "author": {
+        "id": "100063912674466",
+        "name": "Luoghi stupendi",
+        "gender": "",
+        "profile_picture": "",
+        "is_verified": false,
+        "url": "https://www.facebook.com/100063912674466",
+        "__typename": "User"
+    },
+    "comments_count": 0,
+    "comments": [
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzgzOTgzNTU1NTE2MzkwNw==",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM184Mzk4MzU1NTUxNjM5MDc=",
+                "legacy_api_post_id": "1308217104652033_839835555163907",
+                "reaction_count": 0,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": []
+            },
+            "legacy_fbid": "839835555163907",
+            "author": {
+                "id": "100000137846079",
+                "name": "Zamira Gavoci Dergjini",
+                "gender": "FEMALE",
+                "profile_picture": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/464866621_9481566615191172_6278593108701515815_n.jpg?stp=cp1_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx2048x2048\u0026ctp=s120x120\u0026_nc_cat=102\u0026ccb=1-7\u0026_nc_sid=1d2534\u0026_nc_ohc=ezFnSshUsp0Q7kNvwEFR7-z\u0026_nc_oc=AdkmKB9kw99V_dwaw2Y1Wwrm0C2STYiMJO8JquejWxJZUvdDKwxNwRJqHAJFcV9IK0kYQKOga9PJTqCy6G0LeeOX\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia5-1.xx\u0026oh=00_Affi1ddb-a7YiEOvooZ1dqAK19IEEoMP3kHHU3xu8jeXgg\u0026oe=69055BB2",
+                "is_verified": false,
+                "url": "https://www.facebook.com/zamira.d.g",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761502712,
+            "body": "Waw",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=839835555163907",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1vcEDlNex_Ae4UMToK2wdKKMzBsFtDQOK5piVARVzhyNsD_v77EF1BLmOEq9PSFyou1WqVjGv_EEd5M6QnNjWWfZ_KGHiVgN0yAAANA2Xgx8wmmTlmUBru7wB1lw_8ouo8r7HmRHChnvg-6oFgTrcx45vVTFTIff6m4O35N35DH5nNH2DH2nwmOrLYz9VIoPB0MZdCx5GboOAuuQq8JxiqZETVQAuVIGOzHiRRWXbu1PnHUls6LnsNe0G12w8R0lKdOXH7u4tcOYczosW7zUIwRhVFwmrfrQhFIAz3s_YHhev7Cd10jYYmAMBMpFdPyTJtrJNgfKE-qKdGt2yjZCY_ze61J_VPclCBRNvIuWk6dEoGe6yqT-gvzN-mnpvfERbLmzCTL8shKDmXcnYyuNToAEyN1FbIC9T-xJRF9WtNLmSMBsHdyMCgL81lsaUMQ2-0Iuh",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzE4NzA0NjE2OTM4OTM3NjQ=",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM18xODcwNDYxNjkzODkzNzY0",
+                "legacy_api_post_id": "1308217104652033_1870461693893764",
+                "reaction_count": 1,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": [
+                    {
+                        "reaction_count": 1,
+                        "id": "1635855486666999"
+                    }
+                ]
+            },
+            "legacy_fbid": "1870461693893764",
+            "author": {
+                "id": "100007703563808",
+                "name": "Pina Larocca",
+                "gender": "FEMALE",
+                "profile_picture": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-1/556821833_4121762051423873_141556077695976383_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx720x720\u0026ctp=s120x120\u0026_nc_cat=103\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=gaqUaJnb4DYQ7kNvwEEToqy\u0026_nc_oc=AdlEEWMYfg3_C4526yAwnybGHcYVroJDSwZ8EW-lnF-cPhPHZkvZKN8SkRHMZVMcfKj69q_I_cmfgixNsRiyb3LC\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia3-2.xx\u0026oh=00_AfeHcKhc7iI7z5uXGxW_6MuJK-ZNPSQM4U9vT63hs_Ci2w\u0026oe=6905700A",
+                "is_verified": false,
+                "url": "https://www.facebook.com/pina.larocca.7",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761502582,
+            "body": "Che meraviglia",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=1870461693893764",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1ryBGq5MIsIF7DMjLj5ESUJSkJcOCCQ7oFxrbmmP7z6LNROHB-2cM8fEgcd_A9gFA7gB8HgGeZFQPaWuoOEQmf6zquNVyDUYbocI1FZz6bBhN-1Upy4C7sCSy5u3kU5c9boqgX-37hbS40_0oTSO98Pf2gyb543CbeM2vXBxz6b8-0ThRb2zkXZxPVaJmUVONmeakiciabJno-kgSuGxb9f_cB3BYWkagWZUOarOlqav_0IBzYfxNCKIxRusmpzBQ7fnAhGjvA7yPTi3Ksv37hkYPBggkngbA0Nj69oHCXCB_DzoK0Q5hh-oXqroC807p6JWkCMWg0v-bq_0ejlhA5pPjFhwFipj7TFGhu42PSR14fo6MvsC70QJTJF48glhdGKXPyCCsA3rEZ7GWIaDLaGeVm_kbye-FAyFq3PKSTCs41sPDznKu0uhYHiXSxt6w47uh",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzI2MjEwNTQyNzQ4OTQ5Mjk=",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM18yNjIxMDU0Mjc0ODk0OTI5",
+                "legacy_api_post_id": "1308217104652033_2621054274894929",
+                "reaction_count": 0,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": []
+            },
+            "legacy_fbid": "2621054274894929",
+            "author": {
+                "id": "100021688200421",
+                "name": "Anna Ranalli",
+                "gender": "FEMALE",
+                "profile_picture": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/490173114_1839954393404150_7983954116167491280_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx1224x1216\u0026ctp=s120x120\u0026_nc_cat=109\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=2QbjaFt25OcQ7kNvwEX_OdI\u0026_nc_oc=AdkN7TZ7S__FSH-ogRU2eZc3nTTzjxTHuSU6qyKwUOKEdVBRsLJP5R7D-XYfqXoRCNbz23q5fKG22nsGDQ-npKe5\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia3-3.xx\u0026oh=00_AfeydUNYpkiS5OyW8F7Go6zsoUCk4Fuw5TikPNiXvebvnw\u0026oe=69056757",
+                "is_verified": false,
+                "url": "https://www.facebook.com/anna.ranalli.37",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761499856,
+            "body": "Fintoooooo!",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=2621054274894929",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1lPdKoImlo7KE5-tgxscI5X_k3LoTVjvCb6RljA0HiZorqLpZNxL1Y6vTFAdrNRdx3wI1nVZrPJFWOBBXErL4so2A21Xl3Sm5CT8Z9XM0CTAP65Hc1FCfkJqecRh727KMHZ5JogvEqwrOCCwYRb6Bvc5UBcAyNYsNLhFYSnRBhSCKeyCPJt1_65YP8igL-oYRdIhobQIYvz0LUvRcbOMOTVxI5IurNA0Vl7ZUjQpCZxkLFgZXUjHb1AlM4JIifb29U_lE2HHHh1UzWuiSfKF12ntgIrVkKWSkbPjBTBs0FpOTXbt-FuKfzRZAVPytGrDR4ab0dXMd7Z58rdcXq02PmTPi9olCnqhy-4qCMYJOre6E3kFm5VWruW3opIMNQbLu_giBi1NMA4g1wYRj3mTulB7EsmRhj_fzt4ADbvi7dI4KOmH9tl1zzR5t0Si_YfLJ7O_5",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzEzNTc2NTI0NDkyNzY4NTg=",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM18xMzU3NjUyNDQ5Mjc2ODU4",
+                "legacy_api_post_id": "1308217104652033_1357652449276858",
+                "reaction_count": 4,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 2,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": [
+                    {
+                        "reaction_count": 4,
+                        "id": "1635855486666999"
+                    }
+                ]
+            },
+            "legacy_fbid": "1357652449276858",
+            "author": {
+                "id": "1628978014",
+                "name": "Alessandro de Santis",
+                "gender": "MALE",
+                "profile_picture": "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-1/468569026_10232210264912517_5913030005156685167_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx720x720\u0026ctp=s120x120\u0026_nc_cat=100\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=x-awoUG-miMQ7kNvwFsRKyP\u0026_nc_oc=AdlNzGvAGrRn9vGb_rBgXBNkoVdING-HBQ4D6nCUeB4tNrQ7YgiKpotXMQFoiMrCe2DNcj9kvCtsDasRt6LsFxGU\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia5-2.xx\u0026oh=00_Afdsc4iqcIRPnPmOM4m0ENu16UMTRaq4OhnBAHTLvL0Jug\u0026oe=6905707A",
+                "is_verified": false,
+                "url": "https://www.facebook.com/alessandro.desantis.355",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761239890,
+            "body": "Perché le altre stagioni no?",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=1357652449276858",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1Ib60SMyeiTVwW5ASJlpMCHy6s_Ba5s3PzXCT7bUJN9yjiq7imuuWm-GcmFclFbO_CgQ9ACxyd9HIt6kO3Ap1ONFxCUlUuI0FkcgZZGe5_vy8JYSBzslLC74MSHccFwVkb6cQEOjh-Gz7MU9fP2nJCLbJrdCB0xB96noS502HBLt53tMZHznYTUk0HSC8B6IvQan9FglVEneXaVlwN2J4h5usZuIODwUu781MhieZF9FNZQeWRkMvne0Rt4Fml0Jv0BEQolSj3NvEvSzhaOrHKBjLoe_7ygWz6xRv_gGR5jYw3vp9hThMYGEQo0-ZdVVRClPMQcQ37umeIw8meDOpV2sTD79WMthtPVuJgoRLWLMQ_YsrWpluT-MgaA-PSztC428ioZV_f6i4-mA-Pi4fzh3J2i84D6VsP7fANrTVAxWjPtm-5bjPVJr_mKUak1Knmg7z",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzgxNDc1ODA1NDY0MTUwNw==",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM184MTQ3NTgwNTQ2NDE1MDc=",
+                "legacy_api_post_id": "1308217104652033_814758054641507",
+                "reaction_count": 0,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": []
+            },
+            "legacy_fbid": "814758054641507",
+            "author": {
+                "id": "1538880121",
+                "name": "Giovanni Ardemagni",
+                "gender": "MALE",
+                "profile_picture": "https://scontent-mia5-2.xx.fbcdn.net/v/t39.30808-1/448427687_10232443180132249_3434001509981474228_n.jpg?stp=c28.28.345.345a_cp0_dst-jpg_e15_q65_tt6\u0026cstp=mx345x345\u0026ctp=s120x120\u0026_nc_cat=100\u0026ccb=1-7\u0026_nc_sid=1d2534\u0026_nc_ohc=I2w3fs0JODEQ7kNvwE-nLIV\u0026_nc_oc=AdnnJI3elD2rABoghHdRpkJ5P8U-qhGwY3O7BORiTRgAs80Otp9fEzUcFAddGFZe5UzHsnafGlsy8XC4bBO3BIYq\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia5-2.xx\u0026oh=00_AfdLpeuYxOoUoMA5qvoE531ynsexxRaACRYbGjSeEZqVqQ\u0026oe=69054276",
+                "is_verified": false,
+                "url": "https://www.facebook.com/giovanni.ardemagni.7",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761497956,
+            "body": "Si vede che sono foglie rosse svizzere. Non c'è ne una che sia caduta nel prato verde",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=814758054641507",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1-z0lMSwlwen4Y1cBsMSUY29w918ffCVC84R_LpB8aJXLp0i_FFuy27MOAW7I6pjvgD5rXe5eCpWEskmOgJGtvy4VBsidx5smKaA2d7MbHsGOjQmLwYrtprLKpl7KzylYto5vkAHWqe3-uCMvdoCN41xi2G59NxfCCDxD3sYWLuXfl7LB_pCp5OfNv6q1rtPoH2DM4mAvC7SopKlc4FgpgSlDFXJj7j0y2_qDs0ubxNuVqOFSO_YSZhOrWswNwwxomhtyYXVa57zTu1LFCuj1He9u97aV2o3LfC0TC7_LmTrY1oYqamaoqrqSGADeJQ000l69eiRflngMo_W0OgYkllx0mP5ciCq9a-GL-W5TxfNIUNC0_oog30btnU8dZbWNwJhC-Hh0TQv9ZaRe8Pg6zqG28wLRY9qtgb0ycFLIEkfJm-6Y7NpKX49KwqZzW6HJkrkA",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzc3NzA4ODU0ODcxOTI5OA==",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM183NzcwODg1NDg3MTkyOTg=",
+                "legacy_api_post_id": "1308217104652033_777088548719298",
+                "reaction_count": 0,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": []
+            },
+            "legacy_fbid": "777088548719298",
+            "author": {
+                "id": "100009455480306",
+                "name": "Carla Pellegrini",
+                "gender": "FEMALE",
+                "profile_picture": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/549734001_4296764210648719_5796284959115538100_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx1000x1002\u0026ctp=s120x120\u0026_nc_cat=110\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=lFb-TrOmo3sQ7kNvwGjz0TJ\u0026_nc_oc=AdlugGVV9Z5qhMtY8PXwHdsJjVD-JEN77ei-odiKJgSETkoXEQjquynUVfC-qltkcD7V4126K0VojNg_DYy5_XoJ\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia3-3.xx\u0026oh=00_Afda0L-46w55wsJH571sxnltAdSjZbMpADaML6pVI0i7eA\u0026oe=69055833",
+                "is_verified": false,
+                "url": "https://www.facebook.com/profile.php?id=100009455480306",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761496964,
+            "body": "Levate i filtri 🤣",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=777088548719298",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF18KmsjJIf68ou_rvL6yxCijaQtBXxWVtbY-q9YqxCmfXV5FMgVbw9FxTY4SL0GMigeSTyLBvuo6h9Mzb_zLlSR9jsaiQbRV6nomuZsCiti3QjIj9KcMsdaPqo8PTyNur1Yy1lFy_LxUObcS7i5SGmtkOImHrKHn_5AuUbiA91SBR2FG1n1Oo6XyCFxEYz5_9iw8Y6WtMnksF7ZbihZUOOLyLM0AHrnqyrmzoo_2bOy0Uvskyy4D8EhlBhM-SStsr_PEKzbmj997i4WxBlarLzvyUeltr1rjzMwNWR1epOqY44874rwDPnfogtat1q8YHv7L_9jU8IHB1ojDFrVI-hwILsHBsh6c_fEUZDxfkNZzYYqklAVPUy0Yk0qIDJhlqqLivn1Ikc2rIllaTMMh-DDy0XiIAUPj-oL6SfWFCz4L247m3W0-IXP-4_6FkmLnX94iua",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzY3NTgyNjY3MTkxMzQ2OA==",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM182NzU4MjY2NzE5MTM0Njg=",
+                "legacy_api_post_id": "1308217104652033_675826671913468",
+                "reaction_count": 0,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": []
+            },
+            "legacy_fbid": "675826671913468",
+            "author": {
+                "id": "100008018253037",
+                "name": "Carlo Leotta",
+                "gender": "MALE",
+                "profile_picture": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/519667240_4147585142185387_6840410680309847808_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx960x956\u0026ctp=s120x120\u0026_nc_cat=109\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=wFRtP0_eD10Q7kNvwGf8ern\u0026_nc_oc=AdkyWIcvdkcdunK12CacQbfYZ2SScHw-XESTinyWunXdvSwxJiQLxOeDf3cSasZi0ON6_swQIYoneBSPsmIHDoaG\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia3-3.xx\u0026oh=00_AffDB2cHyQQ4I42M-clTqjtOOa8A8DZvVKv3-yrYEH0DuA\u0026oe=69053F8E",
+                "is_verified": false,
+                "url": "https://www.facebook.com/carlo.leotta.3",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761496896,
+            "body": "\"Gemini, creami l'immagine di un bellissimo paesaggio alpino in Autunno...\"",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=675826671913468",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF158IFzVnZhWYF4Bmz0wgNTyRS65MjJ4nm-7ueWVjLRO31dzzuKIsqkF-3FFTQ2Zd7F48NMl4W2305LRc36vww5FuYVLwFxx9OV0CmonOdhn7oAlx5hPFQVEamdMK819jpoKrIe9YtcfOxl2P8V0wjfSZHfsfsrFg-FmGRWiZ1kb_OjC3OspZWDEHJCkRCIaPMvAU0ET8GTDtL5Ywwe_22I3pujZGyF0ghlankhfPj5f-V-TapgB4ybzlIJIcUdBZ98_-UmEZ8FXLkFTtV6NRD9J2bo0U8P03dfEBsVCo3AG2nODx-f7YCBX4fMd_Pn9kJMV_y6x8g69-EWGjvByvwcnSv8adEB0KXWNvzgUafZnrN92aMFbLnf33S9fgc-P6foCNcjuGuiK19JLulCT3DRdzyAJk-7-eazzT9EWfUJYqtI7rC2hLA129XT53J5mceFIVT",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzgxMjM2MDAxMTM5NzY2Ng==",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM184MTIzNjAwMTEzOTc2NjY=",
+                "legacy_api_post_id": "1308217104652033_812360011397666",
+                "reaction_count": 0,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 0,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": []
+            },
+            "legacy_fbid": "812360011397666",
+            "author": {
+                "id": "100005722511413",
+                "name": "Renzo Roberto Rossi",
+                "gender": "MALE",
+                "profile_picture": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/343415590_149432661413630_2113218268287943612_n.jpg?stp=c0.0.1536.1536a_cp0_dst-jpg_e15_q65_tt6\u0026cstp=mx1536x1536\u0026ctp=s120x120\u0026_nc_cat=106\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=209t1kvY5MwQ7kNvwE_a1Ak\u0026_nc_oc=AdmrSLOifT_sUI2jASG3nysXoCrdPBwij0PCSYULOVaLJbnsQsGfZZ_89mqfaTmtG-XB5JdhTNxWOcfmLE0qsLcw\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia3-1.xx\u0026oh=00_Afe4EgkpOfAO14EiGVMFoCX_Oqhnvc8w59fULXtwwpxF0Q\u0026oe=69054ABE",
+                "is_verified": false,
+                "url": "https://www.facebook.com/renzoroberto.rossi",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761495270,
+            "body": "IA",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=812360011397666",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1jz2fvVgcFlwBBrqBreje5d1VvET3bcOEiWioLABzG6iJ4tJblC_dfrBxPokiSuBI3r14iC1TVf1w4v4HcVEK8DeO5wg_r3hb6JsWUwNlD_IZJFllBUWctwTr2igMjSDVVm9npjW3OPkfqEhUDKi0Ow0Gpj_pl09egUis2u09kKn9e_tkdPv8IbROWQHB7kEL4QzKEtCwYIni8VP08Dsu6P2X2LNQrsblT5jrYMqVbxt7a5hN6_SGh6OgOChW-qrGG-Y65sUcR60aD2xd-nrnbDrzlVWFFwmlULOQosjUvk7fw_tRg2u0tSxLC3LlhMIOx0ZdzVFvEyUPDoCCDSCk0-ZRSfqG2kZ1wVyE8uxDwpGx9STu1WmUY4fI3hWVoqsI_AAV9OZsoH9oWyC2GA1ufARpe20SGNKDoPw2khKvnj8D7xYeJrpl-970VxvQ5uC8NF6r",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzI0ODE1ODc2Njk0NzMwNTYz",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM18yNDgxNTg3NjY5NDczMDU2Mw==",
+                "legacy_api_post_id": "1308217104652033_24815876694730563",
+                "reaction_count": 70,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 14,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": [
+                    {
+                        "reaction_count": 60,
+                        "id": "1635855486666999"
+                    },
+                    {
+                        "reaction_count": 6,
+                        "id": "1678524932434102"
+                    },
+                    {
+                        "reaction_count": 3,
+                        "id": "478547315650144"
+                    },
+                    {
+                        "reaction_count": 1,
+                        "id": "115940658764963"
+                    }
+                ]
+            },
+            "legacy_fbid": "24815876694730563",
+            "author": {
+                "id": "100000673948321",
+                "name": "Davide Carbone",
+                "gender": "MALE",
+                "profile_picture": "https://scontent-mia3-3.xx.fbcdn.net/v/t1.6435-1/109572346_3465412340157863_5665143084135081688_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx1435x1440\u0026ctp=s120x120\u0026_nc_cat=110\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=AYCwFAqvD60Q7kNvwGvLRTA\u0026_nc_oc=AdnbXj-EI12HSlITru0ee32ehO34cR8CDtw2GHh1ccCzEYHVXW5kyJ_dcBvQJsTr2_jPwCx5xAOpqlsVqZ-6Cdmo\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia3-3.xx\u0026oh=00_AfejKP69aACrAmvzWaDGE7dSxXZH6EqiwgCkF1wlGGK1Mg\u0026oe=6926F673",
+                "is_verified": false,
+                "url": "https://www.facebook.com/davide.carbone.12177",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761226592,
+            "body": "Guardatevi questo, Abruzzo video sul posto.",
+            "depth": 0,
+            "attachments": [
+                {
+                    "image": "https://scontent-mia3-3.xx.fbcdn.net/v/t15.5256-10/568776348_1543954967024081_1105787542998413230_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx1080x1920\u0026ctp=s1080x1920\u0026_nc_cat=109\u0026ccb=1-7\u0026_nc_sid=282d23\u0026_nc_ohc=y12f-fZLXHEQ7kNvwFNZKU_\u0026_nc_oc=Adk8_bG4SWnwlrGARaXA6Ab7Urx4P4qkyiqKgWuxXRncDrzv5NROPAAZKh4IcX1T4xYRy2E31FeOVTD-FnNFlY5C\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=23\u0026_nc_ht=scontent-mia3-3.xx\u0026oh=00_AfeuuYOfBoOKRZrT7aBYYjIuOJzUbh-2MZYkd3oxYUOv1g\u0026oe=6905464A",
+                    "label": null
+                }
+            ],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=24815876694730563",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF1Ccy-LNhG6zB3ey9w48In3oK4jDtCQP-Lva9Uv0JhMIMTSSL039dwEg_Z00rCUjGaLAShI_aU601ISeeNJCPl1C-mYL4G4EbFKWMEN6qF7yxmmvTZCSxTUudEX_4gNwPjd4QnJJq968VVyfOhaxB5WOiPp8N0VVYP07pMaxElBcd4O3w5izGTKTyx53uGPkeBI980n2ZOfeONM0TjsMnTw-fDq0-unR7MSQnhBfliUQUsE7zUYxZNZVX1lHH-SIpiV77iUKP1YyB1tkU6ZeVXyeMjWO68DBaD5I7Z83r1gchbeokC5FUYhzg1KDmHpratI1Ipev_URt-UpAZm5s6HrR2bYbVRQJnHPvBWJO4Upjq4wah2UQJ2eLhl9JgnW6o4ljnckKW1hpF4uE9JEhb7b7ay6VXYgeYiIm8OYZsHkNmNUi3WNkCHh_XIxrD6W5n9pAsevRg",
+            "ranges": []
+        },
+        {
+            "id": "Y29tbWVudDoxMzA4MjE3MTA0NjUyMDMzXzEyODEzNzkzNzcwNzUzMzA=",
+            "feedback": {
+                "thread_id": "ZmVlZGJhY2s6MTMwODIxNzEwNDY1MjAzM18xMjgxMzc5Mzc3MDc1MzMw",
+                "legacy_api_post_id": "1308217104652033_1281379377075330",
+                "reaction_count": 1,
+                "comment_count": 0,
+                "total_count": 0,
+                "sub_comment_count": 3,
+                "like_count": 0,
+                "share_count": 0,
+                "reactions": [
+                    {
+                        "reaction_count": 1,
+                        "id": "1635855486666999"
+                    }
+                ]
+            },
+            "legacy_fbid": "1281379377075330",
+            "author": {
+                "id": "100005870315462",
+                "name": "Daniele Casali",
+                "gender": "MALE",
+                "profile_picture": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/557622662_2748825008656483_7410392754165328430_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6\u0026cstp=mx895x890\u0026ctp=s120x120\u0026_nc_cat=101\u0026ccb=1-7\u0026_nc_sid=e99d92\u0026_nc_ohc=ZgOJHGXs22gQ7kNvwGVVuOk\u0026_nc_oc=AdmIQyeVEvPHTL1Cgc0z3HJUqOe_Mm7WvbwPqmRoGuDO4WKGCqkwEXSP4tCtNQ6Az7DNPBEnQGvFdtlmeja5hULQ\u0026_nc_ad=z-m\u0026_nc_cid=0\u0026_nc_zt=24\u0026_nc_ht=scontent-mia5-1.xx\u0026oh=00_Afc1bSZflDK2NpfuDAa9G8wPO3bsbXJPPQy0k3j1dfGlng\u0026oe=69053EFE",
+                "is_verified": false,
+                "url": "https://www.facebook.com/daniele.casali.351",
+                "__typename": "User"
+            },
+            "is_featured": false,
+            "created_time": 1761219053,
+            "body": "Vergogna a pubblicare una foto del genere",
+            "depth": 0,
+            "attachments": [],
+            "edit_history": 0,
+            "url": "https://www.facebook.com/story.php?story_fbid=pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026id=100063912674466\u0026post_id=100063912674466_pfbid02iXdNzxob6osXPULv7T1mZqb5XKoDD8fyYwf9wzNwGPCMnbfsMGYfmC2qTFQrrXLtl\u0026comment_id=1281379377075330",
+            "expansion_token": "MjoxNzYxNTc2ODc5OgF17cjR-hzvswUA4nIKMQuDxuUaSFzR8grx7f5Jlw8FpKSdwbvPrvaj2ZE6yqnqL54Jq4S6_49uM3cnF2C9LWPmueRaPgF-v-CqJW8SwQcpMUbRA15PZdDaCx0KW7LFICgSrupjjdFTKVaVoumdz09xxWVLj-hpCHCLnlN43VHg4u4fhfvlFc8GBOEqlfxDGMg-J-56QBgPhVKtz31wea39sOIgQj7bnHsHE6b2bSeTPlgGcfiVYeD76VhnN983LKzTLIO9DaDMcNocRmN3lghqbecXPiYC9JII5eqnhFa74t2lInkWi3hHEVvyNbxVN7A55uzDUhWnf0u-Gnyayxwoe0ZQM30vpsBp3u3P-OGy4dw7VC1nAS_il_-Z68PrdJQGi0n_DuYrNAM5nX7bDySIdHGc73JgL3--IuOT9mN5ZjEK4EstU1gXDPWV3ixsqw2imF6h",
+            "ranges": []
+        }
+    ],
+    "page_info": {
+        "start_cursor": "MToxNzYxNTc2ODc5OgF1qrMy6C6BTMHhrrdzkD0vLSzy57wM3xHwrIFtEJnhUogq3sjnkIvnDIrvlaXjM1NP4J7bFhN18D_o55a2lYBXaRMno8K92VrzQE2HdxP9hIrHB_A_MOxeq7gxTkHaBm5Xv5rQLQUFskMI1UC96HyXVy0iddcwSyv52ySLCNH-IGaRFGeSxUodROkrcTxU9VRcGwr1SxBbpeZmaoBsDdG4PTygMVyG062iu8OlOPNNJMO6KShhj59KBUSPAQxVKgVw-jQBpu4NOmJW4i0",
+        "end_cursor": "MToxNzYxNTc2ODc5OgF1L3MNtHdKGbt1v3-wCLIXzqYcvkkcv71RF0rFN1zmflDyK1mWrT2EphDFGYuNLaTYIeE0HrQVx1ExqyzZtrYk0hGDiBtu7NBvzBmN8EpPg-lFq2hz64IbKttOtGurjuZvP16mAbt189VPEnCwfy75ce67xXTpdvmDx-eOBur1yKIP7A1Lna4MDb1ui0TCnuilqlN4Xui7x9U82Zm2wJ-xz-3CupbpVpKqdcnj30hqaDW8bHVYMuQEgbcDzXrOkXUydhP-Rjd6U69N89E",
+        "has_previous_page": true,
+        "has_next_page": true
+    }
+}

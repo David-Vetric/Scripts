@@ -1,0 +1,3322 @@
+{
+    "tweets": [
+        {
+            "entryId": "tweet-1989004704773550424",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004704773550424",
+                "retweeted_status_result": null,
+                "url": "https://x.com/abbie_hustead/status/1989004704773550424",
+                "view_count": null,
+                "conversation_id_str": "1989004704773550424",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:17:30 +0000 2025",
+                "full_text": "YBbH ك&amp;#x624;ب&amp;#x624;ن J6pLW ك&amp;#x624;د 7idM خ&amp;#x635;م▬ا&amp;#x64A;هرب▬ايه&amp;#x64A;رب lO4e \n cbtF9 ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x648;د qGdF خ&amp;#x635;م n8V6W ن&amp;#x648;ن▬\n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "2195021849",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "2195021849",
+                    "id_str": "2195021849",
+                    "created_at": "Mon Nov 25 04:34:21 +0000 2013",
+                    "name": "Alexa Long",
+                    "screen_name": "abbie_hustead",
+                    "url": "https://t.co/0T0ECNUAUn",
+                    "description": "Hello world! I am a enthusiastic software engineer working on Machine Learning. Let's connect 🚀",
+                    "location": "Los Angeles",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/0T0ECNUAUn"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 6064,
+                    "followers_count": 152,
+                    "friends_count": 246,
+                    "media_count": 779,
+                    "normal_followers_count": 152,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2195021849/1761552574",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982720958294061056/KA8nh7Yg_normal.png",
+                    "protected": false,
+                    "statuses_count": 6609,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989004694765859171",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004694765859171",
+                "retweeted_status_result": null,
+                "url": "https://x.com/YanaSn0w1/status/1989004694765859171",
+                "view_count": "2",
+                "conversation_id_str": "1988973831864856799",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:17:27 +0000 2025",
+                "full_text": "@shZ447 @Munsif2 @As40t @NM1k_ @S111_9 @IAIJ1_ @1z_K8 @JF__7n @SDIJ1_ @NM2k__ @A_2SF @ik_553 @7qqmr @Shpti9 @TipuS1_ @1adann @Mehu_0 @Zim__23 @Da__Eliz @Y_O_U_S_1 @Mirha_00 @Dni_40 @s4566_ @OdriSeva @Sc2017W @IKsFrontlineT @Owais_khan619 @553ik @shd0016 Let’s see what unfolds with this dynamic group.",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1700218030108639232",
+                            "name": "🌻🌻🌻𝕊𝕙𝕒𝕙𝕫𝕒𝕕 𝕄𝕦𝕟𝕚𝕣🌻🌻🌻",
+                            "screen_name": "shZ447"
+                        },
+                        {
+                            "id_str": "1851356056729108481",
+                            "name": "𝐌𝐮𝐧𝐬𝐢𝐟 ᵃᵇᵘ ˢᵃˡᵃᵐ",
+                            "screen_name": "Munsif2"
+                        },
+                        {
+                            "id_str": "1378774783819620352",
+                            "name": "𝐀 𝐒𝐚𝐭𝐭𝐚𝐫",
+                            "screen_name": "As40t"
+                        },
+                        {
+                            "id_str": "1549443040263159808",
+                            "name": "༺ 💎𒆜𝑵𝑬𝑬𝑵𝑨𝑯𒆜💎 ༻",
+                            "screen_name": "NM1k_"
+                        },
+                        {
+                            "id_str": "1513993064100020224",
+                            "name": "SHAHID MEHMOOD",
+                            "screen_name": "S111_9"
+                        },
+                        {
+                            "id_str": "2825148517",
+                            "name": "Javed Iqbal",
+                            "screen_name": "IAIJ1_"
+                        },
+                        {
+                            "id_str": "1946239510221873152",
+                            "name": "ZK",
+                            "screen_name": "1z_K8"
+                        },
+                        {
+                            "id_str": "1550006450935701506",
+                            "name": "🇵🇰 🇵🇸🔻𝒮𝒶𝒾𝒻𝓊𝓁𝒾𝓈𝓁𝒶𝒶𝓂🇵🇰🇵🇸🔻",
+                            "screen_name": "JF__7n"
+                        },
+                        {
+                            "id_str": "1948423973504741376",
+                            "name": "Ghaznavi",
+                            "screen_name": "SDIJ1_"
+                        },
+                        {
+                            "id_str": "1565524079339249665",
+                            "name": "༄𝓝𝓜᭄🌸 ŋɛɛŋąɧ ❤️❥❥═══",
+                            "screen_name": "NM2k__"
+                        },
+                        {
+                            "id_str": "1805813283104112640",
+                            "name": "S Rahe",
+                            "screen_name": "A_2SF"
+                        },
+                        {
+                            "id_str": "1817242352072974336",
+                            "name": ".⃝ ⃝ ⃝ ⃝ ⃝💛マスカン 𝐌𝐮𝐬𝐤𝐚𝐧💖. ⃝ ⃝ ⃝ ⃝ ⃝ ⃝💚",
+                            "screen_name": "ik_553"
+                        },
+                        {
+                            "id_str": "1928617480085540864",
+                            "name": "𝓦𝓐𝓐𝓓 2",
+                            "screen_name": "7qqmr"
+                        },
+                        {
+                            "id_str": "1799453234295177216",
+                            "name": "% کپتان کا سپاہی$",
+                            "screen_name": "Shpti9"
+                        },
+                        {
+                            "id_str": "1913246459228463104",
+                            "name": "Tipu Sultan Tʰᵘⁿᵈᵉʳ Sᑫᵘᵃᵈ",
+                            "screen_name": "TipuS1_"
+                        },
+                        {
+                            "id_str": "1499395969300975620",
+                            "name": "Adnan choudhary",
+                            "screen_name": "1adann"
+                        },
+                        {
+                            "id_str": "1986252232883605504",
+                            "name": "خوبصورت بلی",
+                            "screen_name": "Mehu_0"
+                        },
+                        {
+                            "id_str": "1967766652025765888",
+                            "name": "Zimal",
+                            "screen_name": "Zim__23"
+                        },
+                        {
+                            "id_str": "2582775053",
+                            "name": "Eli👸",
+                            "screen_name": "Da__Eliz"
+                        },
+                        {
+                            "id_str": "1442932793449779200",
+                            "name": "✨️ YOUSIF ✨️",
+                            "screen_name": "Y_O_U_S_1"
+                        },
+                        {
+                            "id_str": "1884579827619172352",
+                            "name": "Mirhafatima",
+                            "screen_name": "Mirha_00"
+                        },
+                        {
+                            "id_str": "1789196302225399808",
+                            "name": "Daniyal",
+                            "screen_name": "Dni_40"
+                        },
+                        {
+                            "id_str": "1523134599236358144",
+                            "name": "(PTI)",
+                            "screen_name": "s4566_"
+                        },
+                        {
+                            "id_str": "476409677",
+                            "name": "Odri Seva",
+                            "screen_name": "OdriSeva"
+                        },
+                        {
+                            "id_str": "1339989975127887873",
+                            "name": "SC2017",
+                            "screen_name": "Sc2017W"
+                        },
+                        {
+                            "id_str": "1850505237410320384",
+                            "name": "Nosheen_L",
+                            "screen_name": "IKsFrontlineT"
+                        },
+                        {
+                            "id_str": "1930256942309478400",
+                            "name": "Owais_Khan",
+                            "screen_name": "Owais_khan619"
+                        },
+                        {
+                            "id_str": "1844540795451244545",
+                            "name": "Rabiqueen_30",
+                            "screen_name": "553ik"
+                        },
+                        {
+                            "id_str": "1072229685906604034",
+                            "name": "Shahid",
+                            "screen_name": "shd0016"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1467577888228536325",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1467577888228536325",
+                    "id_str": "1467577888228536325",
+                    "created_at": "Sun Dec 05 19:33:50 +0000 2021",
+                    "name": "Yanah",
+                    "screen_name": "YanaSn0w1",
+                    "url": "https://t.co/kpIDzTHjM3",
+                    "description": "21 Ukraine 🇺🇦🌹\nCheck my highlight (◕‿◕✿).s ♡(^ε^ )",
+                    "location": "",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://linktr.ee/YanaSn0w1",
+                                    "display_url": "linktr.ee/YanaSn0w1",
+                                    "url": "https://t.co/kpIDzTHjM3"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 75459,
+                    "followers_count": 22487,
+                    "friends_count": 19346,
+                    "media_count": 1955,
+                    "normal_followers_count": 22487,
+                    "pinned_tweet_ids_str": [
+                        "1988897453320327259"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467577888228536325/1752532578",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1937844918699044864/z90ZCaGi_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 334989,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1988973831864856799",
+                "in_reply_to_screen_name": "shZ447",
+                "in_reply_to_user_id_str": "1700218030108639232"
+            }
+        },
+        {
+            "entryId": "tweet-1989004631087722982",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004631087722982",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Abdulla01865733/status/1989004631087722982",
+                "view_count": null,
+                "conversation_id_str": "1989004631087722982",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:17:12 +0000 2025",
+                "full_text": "▬ك&amp;#x624;ب&amp;#x624;ن sTR6w ك&amp;#x624;د IQmjP خ&amp;#x635;م fxxN ا&amp;#x64A;هرب KCR20 ايه&amp;#x64A;رب▬\n zk2N ك&amp;#x624;ب&amp;#x624;ن 4kCR ك&amp;#x648;د▬خ&amp;#x635;م▬ن&amp;#x648;ن jMEtY \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1165690657006116865",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1165690657006116865",
+                    "id_str": "1165690657006116865",
+                    "created_at": "Sun Aug 25 18:21:45 +0000 2019",
+                    "name": "Claire Clark",
+                    "screen_name": "Abdulla01865733",
+                    "url": "https://t.co/aFzcJ61iUk",
+                    "description": "Hey world! I am a enthusiastic tech enthusiast who loves Crypto. DM open 🔥",
+                    "location": "Jefferson City",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/aFzcJ61iUk"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 210987,
+                    "followers_count": 242,
+                    "friends_count": 62,
+                    "media_count": 1,
+                    "normal_followers_count": 242,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165690657006116865/1761578163",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982828612572073984/cTu3iLKy_normal.png",
+                    "protected": false,
+                    "statuses_count": 3279,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989004517929820598",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004517929820598",
+                "retweeted_status_result": null,
+                "url": "https://x.com/guitardude42/status/1989004517929820598",
+                "view_count": "4",
+                "conversation_id_str": "1809242547333505024",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:16:45 +0000 2025",
+                "full_text": "@ProfNilrem @xyphophor @sly_sparkane @FooleryT @surfpurzel @CatManitarMike @jpvanhoy @AlwaysWrightDM @First_Won_ @katwellair @CalmLogical @ken_caudle @HarryWorp @ianfmusgrave @Not_yourpilot @8getoveritman8 @MaxQHellcat @ThatGuyM77 @locky82903378 @haprho @PannyTickles @4dots899721 @Skink101 @newbsharp @Stinkhorn11 @Alvamiga @Copernicium1473 @Evil_MerlinX @ImNux @Notaspud_ @GlobeSlay3r @mrjaybeevee @TheSilverWave @Marjori88206011 @Rudeboymessiah @PiPiPyuPyu @theSGM78 @birp234 @cryptonian7665 @AustralisPiper @RealAceFox1 @Popthecann13288 @PMADDOGMAC @andjo888 @Frankrypto @egolder256 @CavemanModer @ItsNotFlat603 @CoralBlob @StopHatingMe88 Acted as if you were.  \n\nAnd so I’m asking you and you won’t answer\n\nI believe you are a flat earther and too scared to admit it \n\nAnd your asinine comment means fuck all\n\nAre you a flat earther or not \n\nToo scared to answer little flerf?",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1988647413930950658",
+                            "name": "Tesla Wayne",
+                            "screen_name": "ProfNilrem"
+                        },
+                        {
+                            "id_str": "1239309907230425089",
+                            "name": "Xyphophorus",
+                            "screen_name": "xyphophor"
+                        },
+                        {
+                            "id_str": "942172087191506945",
+                            "name": "𝗦𝗟𝗬 𝗦𝗣𝗔𝗥𝗞𝗔𝗡𝗘",
+                            "screen_name": "sly_sparkane"
+                        },
+                        {
+                            "id_str": "953884323286953985",
+                            "name": "𝕏oolery 𝕏om",
+                            "screen_name": "FooleryT"
+                        },
+                        {
+                            "id_str": "3254527367",
+                            "name": "Surfpurzel",
+                            "screen_name": "surfpurzel"
+                        },
+                        {
+                            "id_str": "990898090017079297",
+                            "name": "The Mandelbrot Set",
+                            "screen_name": "CatManitarMike"
+                        },
+                        {
+                            "id_str": "14690630",
+                            "name": "The Dread Bunny",
+                            "screen_name": "jpvanhoy"
+                        },
+                        {
+                            "id_str": "1458289798737764359",
+                            "name": "Chris Wright 🇺🇸🌎",
+                            "screen_name": "AlwaysWrightDM"
+                        },
+                        {
+                            "id_str": "1558216692857073664",
+                            "name": "FirstWon",
+                            "screen_name": "First_Won_"
+                        },
+                        {
+                            "id_str": "1777093416427360256",
+                            "name": "Katwellair & Satwellair",
+                            "screen_name": "katwellair"
+                        },
+                        {
+                            "id_str": "1667240350191067152",
+                            "name": "A Bee Larenks",
+                            "screen_name": "CalmLogical"
+                        },
+                        {
+                            "id_str": "990975892498284546",
+                            "name": "Kenbo",
+                            "screen_name": "ken_caudle"
+                        },
+                        {
+                            "id_str": "1634096770073636866",
+                            "name": "Harry Worp",
+                            "screen_name": "HarryWorp"
+                        },
+                        {
+                            "id_str": "53609015",
+                            "name": "💧 Ian \"Engaging and Scary Lecturer\" 🍩 🐀Musgrave",
+                            "screen_name": "ianfmusgrave"
+                        },
+                        {
+                            "id_str": "1811052154972688385",
+                            "name": "Tyler",
+                            "screen_name": "Not_yourpilot"
+                        },
+                        {
+                            "id_str": "1922723177563815938",
+                            "name": "Nick Cagee VII",
+                            "screen_name": "8getoveritman8"
+                        },
+                        {
+                            "id_str": "1649883218496356352",
+                            "name": "F6F \"Hellcat\"",
+                            "screen_name": "MaxQHellcat"
+                        },
+                        {
+                            "id_str": "231268303",
+                            "name": "T.M",
+                            "screen_name": "ThatGuyM77"
+                        },
+                        {
+                            "id_str": "1212935332192112640",
+                            "name": "loksta!🗣 ❤️. .",
+                            "screen_name": "locky82903378"
+                        },
+                        {
+                            "id_str": "5794002",
+                            "name": "Hap Rho",
+                            "screen_name": "haprho"
+                        },
+                        {
+                            "id_str": "421363289",
+                            "name": "PancakeTickler",
+                            "screen_name": "PannyTickles"
+                        },
+                        {
+                            "id_str": "1676409973604077568",
+                            "name": "4dots",
+                            "screen_name": "4dots899721"
+                        },
+                        {
+                            "id_str": "569287732",
+                            "name": "Rob H 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧",
+                            "screen_name": "Skink101"
+                        },
+                        {
+                            "id_str": "1959364623380926464",
+                            "name": "B Sharp",
+                            "screen_name": "newbsharp"
+                        },
+                        {
+                            "id_str": "1273539424777895936",
+                            "name": "Stinkhorn",
+                            "screen_name": "Stinkhorn11"
+                        },
+                        {
+                            "id_str": "383140533",
+                            "name": "Alvamiga 🇬🇧♂️🐧 🐦🦣🦋",
+                            "screen_name": "Alvamiga"
+                        },
+                        {
+                            "id_str": "1500229984434237441",
+                            "name": "Copernicium",
+                            "screen_name": "Copernicium1473"
+                        },
+                        {
+                            "id_str": "381551148",
+                            "name": "Evil_Merlin",
+                            "screen_name": "Evil_MerlinX"
+                        },
+                        {
+                            "id_str": "1027392022620135427",
+                            "name": "Nux",
+                            "screen_name": "ImNux"
+                        },
+                        {
+                            "id_str": "1564253134662340608",
+                            "name": "🥔",
+                            "screen_name": "Notaspud_"
+                        },
+                        {
+                            "id_str": "1784233160512827392",
+                            "name": "ʛɭ๏ცє รɭคץєг",
+                            "screen_name": "GlobeSlay3r"
+                        },
+                        {
+                            "id_str": "1444566933492338688",
+                            "name": "jaybeevee",
+                            "screen_name": "mrjaybeevee"
+                        },
+                        {
+                            "id_str": "1966856638532386816",
+                            "name": "V",
+                            "screen_name": "TheSilverWave"
+                        },
+                        {
+                            "id_str": "1516082497414746116",
+                            "name": "Marjorie Bishop",
+                            "screen_name": "Marjori88206011"
+                        },
+                        {
+                            "id_str": "1821641344730955776",
+                            "name": "Rudeboy",
+                            "screen_name": "Rudeboymessiah"
+                        },
+                        {
+                            "id_str": "1915087966789332993",
+                            "name": "PowFish",
+                            "screen_name": "PiPiPyuPyu"
+                        },
+                        {
+                            "id_str": "1561352816815472647",
+                            "name": "theSGM",
+                            "screen_name": "theSGM78"
+                        },
+                        {
+                            "id_str": "1549032576471498753",
+                            "name": "Birp234",
+                            "screen_name": "birp234"
+                        },
+                        {
+                            "id_str": "1596695097445613569",
+                            "name": "cemmec",
+                            "screen_name": "cryptonian7665"
+                        },
+                        {
+                            "id_str": "1104935582558412800",
+                            "name": "Piper australis",
+                            "screen_name": "AustralisPiper"
+                        },
+                        {
+                            "id_str": "3178243258",
+                            "name": "By Grabthar's Hammer",
+                            "screen_name": "RealAceFox1"
+                        },
+                        {
+                            "id_str": "1900572594761277440",
+                            "name": "🔥Popthecannon🔥",
+                            "screen_name": "Popthecann13288"
+                        },
+                        {
+                            "id_str": "1452932024126173188",
+                            "name": "MADDOG",
+                            "screen_name": "PMADDOGMAC"
+                        },
+                        {
+                            "id_str": "1462047605517697034",
+                            "name": "Awake",
+                            "screen_name": "andjo888"
+                        },
+                        {
+                            "id_str": "896041345831317506",
+                            "name": "FrankLy",
+                            "screen_name": "Frankrypto"
+                        },
+                        {
+                            "id_str": "12867592",
+                            "name": "EGolder",
+                            "screen_name": "egolder256"
+                        },
+                        {
+                            "id_str": "1924938899077443584",
+                            "name": "ModerCavemanTraveler",
+                            "screen_name": "CavemanModer"
+                        },
+                        {
+                            "id_str": "1628926160464642049",
+                            "name": "Kenny",
+                            "screen_name": "ItsNotFlat603"
+                        },
+                        {
+                            "id_str": "1194764660119146496",
+                            "name": "GaryH",
+                            "screen_name": "CoralBlob"
+                        },
+                        {
+                            "id_str": "1817845485186772992",
+                            "name": "Brian Sweet IV",
+                            "screen_name": "StopHatingMe88"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "230910637",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "230910637",
+                    "id_str": "230910637",
+                    "created_at": "Mon Dec 27 02:12:34 +0000 2010",
+                    "name": "Slay3rSlayer",
+                    "screen_name": "guitardude42",
+                    "url": null,
+                    "description": "Music and luthiery are my life-long journeys, blockchain is a passion and a medium, my wife is my driving force and inspiration.. the world is my stage!",
+                    "location": "USA",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 147439,
+                    "followers_count": 1365,
+                    "friends_count": 2291,
+                    "media_count": 22519,
+                    "normal_followers_count": 1365,
+                    "pinned_tweet_ids_str": [
+                        "1894038582156783878"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/230910637/1756788196",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1980369307281301504/-qwKHPTi_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 147191,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1989003947617534323",
+                "in_reply_to_screen_name": "ProfNilrem",
+                "in_reply_to_user_id_str": "1988647413930950658"
+            }
+        },
+        {
+            "entryId": "tweet-1989004403991294120",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004403991294120",
+                "retweeted_status_result": null,
+                "url": "https://x.com/hoothathuh/status/1989004403991294120",
+                "view_count": "4",
+                "conversation_id_str": "1716882901181346148",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:16:18 +0000 2025",
+                "full_text": "@gopisdirty @MetalCoreNTacos @DookusRoyal @ZevValen @godsman1994 @skratch_karma @Badams820 @PembrokeMeg @surgerysleeper @eyemjimmy @krysiak_sarah @factsmatter420 @Quin4Trump @lostandlovinit @GG_MacM13420 @grok @clockwork584043 @BB2021LV @SunspotBabySL @CharlesVane0329 @Beautyjunkie21 @RAM0667 @Maxwell658630 @sherry_fremont @1eyedwilly56 @Willz6649670076 @VStradamus1 @Woody4123 @Angela__Morell @NanetteDonnelly @traveler002 @momisnowtweetin @kcinor @_HoldTheLine__ @sybilannie @TheWayTheTruthX @HansScottfmLI @Bubu_fan1 @wrongwaywilly56 @ChrisMarsoc @TRUSTGOD2020 @bombaybadboy @KarrieK817 @Jeanetteisback @CarolBruce_ @S51781902 @KnottyNickers23 @AlexanderFahr @OldPrague @neda_meme Ahhh, scared to actually say what you mean?\n\nNot surprising.",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "278050698",
+                            "name": "SkyWalker",
+                            "screen_name": "gopisdirty"
+                        },
+                        {
+                            "id_str": "1358931447176957952",
+                            "name": "Not🗡️Today",
+                            "screen_name": "MetalCoreNTacos"
+                        },
+                        {
+                            "id_str": "831624392203448321",
+                            "name": "General Grievous 🇺🇸",
+                            "screen_name": "DookusRoyal"
+                        },
+                        {
+                            "id_str": "822844897866588166",
+                            "name": "Jared underwood",
+                            "screen_name": "ZevValen"
+                        },
+                        {
+                            "id_str": "58073074",
+                            "name": "David Rauschenbach",
+                            "screen_name": "godsman1994"
+                        },
+                        {
+                            "id_str": "1658544339574743044",
+                            "name": "SXRATCH",
+                            "screen_name": "skratch_karma"
+                        },
+                        {
+                            "id_str": "1951392864958627840",
+                            "name": "BA",
+                            "screen_name": "Badams820"
+                        },
+                        {
+                            "id_str": "2967011433",
+                            "name": "Meg",
+                            "screen_name": "PembrokeMeg"
+                        },
+                        {
+                            "id_str": "827380728803446784",
+                            "name": "Bob",
+                            "screen_name": "surgerysleeper"
+                        },
+                        {
+                            "id_str": "1404471096162897927",
+                            "name": "EyemJimmy",
+                            "screen_name": "eyemjimmy"
+                        },
+                        {
+                            "id_str": "1456613574164590594",
+                            "name": "Sarah Krysiak",
+                            "screen_name": "krysiak_sarah"
+                        },
+                        {
+                            "id_str": "1543351220370391041",
+                            "name": "IamCharlieKirk✝️ 🇺🇸",
+                            "screen_name": "factsmatter420"
+                        },
+                        {
+                            "id_str": "3083325002",
+                            "name": "The Future is Red (not blue) 👍🇺🇸👍🇺🇸👍🇺🇸👍",
+                            "screen_name": "Quin4Trump"
+                        },
+                        {
+                            "id_str": "20739982",
+                            "name": "American Woman",
+                            "screen_name": "lostandlovinit"
+                        },
+                        {
+                            "id_str": "1538309214828994561",
+                            "name": "gigimac.bsky.social, Pro 🇺🇦, F*ck Putin & Trump.",
+                            "screen_name": "GG_MacM13420"
+                        },
+                        {
+                            "id_str": "1720665183188922368",
+                            "name": "Grok",
+                            "screen_name": "grok"
+                        },
+                        {
+                            "id_str": "1874226815847587840",
+                            "name": "clockwork",
+                            "screen_name": "clockwork584043"
+                        },
+                        {
+                            "id_str": "1519723109309329408",
+                            "name": "Bruce",
+                            "screen_name": "BB2021LV"
+                        },
+                        {
+                            "id_str": "1756930884907991040",
+                            "name": "Sunspot Baby Too",
+                            "screen_name": "SunspotBabySL"
+                        },
+                        {
+                            "id_str": "1816600088887611392",
+                            "name": "Jack Rackham",
+                            "screen_name": "CharlesVane0329"
+                        },
+                        {
+                            "id_str": "237616094",
+                            "name": "MamaBear2",
+                            "screen_name": "Beautyjunkie21"
+                        },
+                        {
+                            "id_str": "861280751115018241",
+                            "name": "❌Michael Rutter❌ QFD banned",
+                            "screen_name": "RAM0667"
+                        },
+                        {
+                            "id_str": "1982956239442300928",
+                            "name": "Bless The Beasts & The Children",
+                            "screen_name": "Maxwell658630"
+                        },
+                        {
+                            "id_str": "1575157779924402179",
+                            "name": "TRUMP WON ♥️🇬🇧❤️🇺🇸🐸",
+                            "screen_name": "sherry_fremont"
+                        },
+                        {
+                            "id_str": "1811980964706537472",
+                            "name": "Deplorable Bubba",
+                            "screen_name": "1eyedwilly56"
+                        },
+                        {
+                            "id_str": "1833380928649048064",
+                            "name": "Fiddleford Mcgucket 🔥",
+                            "screen_name": "Willz6649670076"
+                        },
+                        {
+                            "id_str": "1694457598316068864",
+                            "name": "Vinn Stradamus",
+                            "screen_name": "VStradamus1"
+                        },
+                        {
+                            "id_str": "1274399774922493959",
+                            "name": "Woody412 🦅 🇺🇸 🇺🇦🇺🇦 #CaseyForSenate",
+                            "screen_name": "Woody4123"
+                        },
+                        {
+                            "id_str": "1975256990869037060",
+                            "name": "Angela A Free Thinker GOD🙏UKRAINE 🇺🇦 & SOLDIERS",
+                            "screen_name": "Angela__Morell"
+                        },
+                        {
+                            "id_str": "233768462",
+                            "name": "NRD🍊",
+                            "screen_name": "NanetteDonnelly"
+                        },
+                        {
+                            "id_str": "36789992",
+                            "name": "🌄🇺🇸Garry (Froggy)",
+                            "screen_name": "traveler002"
+                        },
+                        {
+                            "id_str": "2495526019",
+                            "name": "Dalton Blankenship",
+                            "screen_name": "momisnowtweetin"
+                        },
+                        {
+                            "id_str": "749644270483566593",
+                            "name": "Keith",
+                            "screen_name": "kcinor"
+                        },
+                        {
+                            "id_str": "1137536795430858752",
+                            "name": "Hell on Wheels Parody",
+                            "screen_name": "_HoldTheLine__"
+                        },
+                        {
+                            "id_str": "3122904095",
+                            "name": "sybilannie",
+                            "screen_name": "sybilannie"
+                        },
+                        {
+                            "id_str": "1889479126630944768",
+                            "name": "Charles 😈",
+                            "screen_name": "TheWayTheTruthX"
+                        },
+                        {
+                            "id_str": "1607364146860785665",
+                            "name": "Hans Scott",
+                            "screen_name": "HansScottfmLI"
+                        },
+                        {
+                            "id_str": "1764514479138574337",
+                            "name": "Nguyen (美国队长)",
+                            "screen_name": "Bubu_fan1"
+                        },
+                        {
+                            "id_str": "1802052146806067200",
+                            "name": "DB17",
+                            "screen_name": "wrongwaywilly56"
+                        },
+                        {
+                            "id_str": "1731752071391584256",
+                            "name": "Chris Ziore",
+                            "screen_name": "ChrisMarsoc"
+                        },
+                        {
+                            "id_str": "324570036",
+                            "name": "GG",
+                            "screen_name": "TRUSTGOD2020"
+                        },
+                        {
+                            "id_str": "15943336",
+                            "name": "bombaybadboy",
+                            "screen_name": "bombaybadboy"
+                        },
+                        {
+                            "id_str": "23394376",
+                            "name": "KarrieK817☮️",
+                            "screen_name": "KarrieK817"
+                        },
+                        {
+                            "id_str": "1207138365293903872",
+                            "name": "PresidentTrump - Mackie&Teddy’sMom🇺🇸🐶🔥",
+                            "screen_name": "Jeanetteisback"
+                        },
+                        {
+                            "id_str": "1895194595715358720",
+                            "name": "Carol Bruce Arizona 🏜 Mama & ✨ Gazer",
+                            "screen_name": "CarolBruce_"
+                        },
+                        {
+                            "id_str": "1433552020087074856",
+                            "name": "RalphS",
+                            "screen_name": "S51781902"
+                        },
+                        {
+                            "id_str": "1678373272105418752",
+                            "name": "KnottyNickers23",
+                            "screen_name": "KnottyNickers23"
+                        },
+                        {
+                            "id_str": "1109931520909692928",
+                            "name": "Tim Farr",
+                            "screen_name": "AlexanderFahr"
+                        },
+                        {
+                            "id_str": "1326088264747544576",
+                            "name": "California🇺🇸🦅",
+                            "screen_name": "OldPrague"
+                        },
+                        {
+                            "id_str": "1421125270099087360",
+                            "name": "Neda Meme",
+                            "screen_name": "neda_meme"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1430386214453010434",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1430386214453010434",
+                    "id_str": "1430386214453010434",
+                    "created_at": "Wed Aug 25 04:27:15 +0000 2021",
+                    "name": "hoothat",
+                    "screen_name": "hoothathuh",
+                    "url": null,
+                    "description": "Who?\n\nPronouns:  who/that",
+                    "location": "Where?",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 103482,
+                    "followers_count": 442,
+                    "friends_count": 540,
+                    "media_count": 3995,
+                    "normal_followers_count": 442,
+                    "pinned_tweet_ids_str": [
+                        "1966486792384758120"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430386214453010434/1705456511",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1868922488735797248/wrJswEmN_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 112427,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1989004096976875623",
+                "in_reply_to_screen_name": "gopisdirty",
+                "in_reply_to_user_id_str": "278050698"
+            }
+        },
+        {
+            "entryId": "tweet-1989004379962372598",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004379962372598",
+                "retweeted_status_result": null,
+                "url": "https://x.com/lewoysmithjr/status/1989004379962372598",
+                "view_count": "2",
+                "conversation_id_str": "1587077342861709312",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:16:12 +0000 2025",
+                "full_text": "@Aint28 @Tyrone187CA @Ericsf99Frank @ReignsJustus @DennyMorgo89 @HumbleHung48098 @fu_milt @BryanPosey9 @MoneyAnosh @Yev_007 @George77777T @AreOhBee82 @8_24Mambalytics @MJorgoat @Case1343094 @haiti4eva @IAMKINGKINGAMI @PhenomenalFitn @Champ190352 @dukelu78 @Artdemon323 @TheFinalShendy @KingJordan1982 @FinalBoss53 @TheSevenSermons @YellowLivesMa10 @FinalBoss52 @Georgeeller @shendy456 @CloudCrossRise @LegendaryA52054 @HappyHap28186 @HammedThanas @tap_timmy44007 @HomemadeLeba @A233381 @AnthonyLebron99 @LegendaryCross3 @LegendaryCross4 @DonGately97 @Johnny_Kilroy1 @TedWilliam65389 @ApexJones22 @AirJordans2323 @clickthatfollow @MarkIII824 @EthicalHoopz Poor Yawnny. Unblocked just to be boring lol https://t.co/KOm4YE5DPM",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1158117696606789634",
+                            "name": "Morgan Yardley",
+                            "screen_name": "Aint28"
+                        },
+                        {
+                            "id_str": "1439798198336245762",
+                            "name": "💙 Tyr⭕️ne",
+                            "screen_name": "Tyrone187CA"
+                        },
+                        {
+                            "id_str": "1439216612",
+                            "name": "eric",
+                            "screen_name": "Ericsf99Frank"
+                        },
+                        {
+                            "id_str": "1553861919861260288",
+                            "name": "Justus Reigns",
+                            "screen_name": "ReignsJustus"
+                        },
+                        {
+                            "id_str": "1952953233002856448",
+                            "name": "Don G.",
+                            "screen_name": "DennyMorgo89"
+                        },
+                        {
+                            "id_str": "1877520501729546240",
+                            "name": "Humble Hungry",
+                            "screen_name": "HumbleHung48098"
+                        },
+                        {
+                            "id_str": "1984790230181007360",
+                            "name": "milton fu",
+                            "screen_name": "fu_milt"
+                        },
+                        {
+                            "id_str": "1397246233081786372",
+                            "name": "Bryan Posey",
+                            "screen_name": "BryanPosey9"
+                        },
+                        {
+                            "id_str": "1330911191321939974",
+                            "name": "Anosh Cash Money 4 Life",
+                            "screen_name": "MoneyAnosh"
+                        },
+                        {
+                            "id_str": "1505681962438172684",
+                            "name": "Yev Kassem",
+                            "screen_name": "Yev_007"
+                        },
+                        {
+                            "id_str": "562430813",
+                            "name": "George T.",
+                            "screen_name": "George77777T"
+                        },
+                        {
+                            "id_str": "67656346",
+                            "name": "AreOhBee824",
+                            "screen_name": "AreOhBee82"
+                        },
+                        {
+                            "id_str": "1915989431934455810",
+                            "name": "Still_8/24Mambalytics",
+                            "screen_name": "8_24Mambalytics"
+                        },
+                        {
+                            "id_str": "1815561645214797824",
+                            "name": "DynastyChad",
+                            "screen_name": "MJorgoat"
+                        },
+                        {
+                            "id_str": "1947114509765615616",
+                            "name": "Case",
+                            "screen_name": "Case1343094"
+                        },
+                        {
+                            "id_str": "864193772971864064",
+                            "name": "ValidHaitian",
+                            "screen_name": "haiti4eva"
+                        },
+                        {
+                            "id_str": "1493508769556447233",
+                            "name": "IAMKING",
+                            "screen_name": "IAMKINGKINGAMI"
+                        },
+                        {
+                            "id_str": "1734676619954941953",
+                            "name": "Phenomenal Fitness",
+                            "screen_name": "PhenomenalFitn"
+                        },
+                        {
+                            "id_str": "1932072774853705728",
+                            "name": "Champ",
+                            "screen_name": "Champ190352"
+                        },
+                        {
+                            "id_str": "1499867258",
+                            "name": "BJ",
+                            "screen_name": "dukelu78"
+                        },
+                        {
+                            "id_str": "733386504244846592",
+                            "name": "Technically Joe",
+                            "screen_name": "Artdemon323"
+                        },
+                        {
+                            "id_str": "1958737326412070912",
+                            "name": "Shendy",
+                            "screen_name": "TheFinalShendy"
+                        },
+                        {
+                            "id_str": "1939401969954689024",
+                            "name": "KingJordan1982",
+                            "screen_name": "KingJordan1982"
+                        },
+                        {
+                            "id_str": "1939398806392446976",
+                            "name": "Final Boss🔻",
+                            "screen_name": "FinalBoss53"
+                        },
+                        {
+                            "id_str": "1304412722277355520",
+                            "name": "Andre",
+                            "screen_name": "TheSevenSermons"
+                        },
+                        {
+                            "id_str": "1382006275077210115",
+                            "name": ".",
+                            "screen_name": "YellowLivesMa10"
+                        },
+                        {
+                            "id_str": "1494706675810451463",
+                            "name": "Final Boss🔻",
+                            "screen_name": "FinalBoss52"
+                        },
+                        {
+                            "id_str": "844590169",
+                            "name": "Georgeeller",
+                            "screen_name": "Georgeeller"
+                        },
+                        {
+                            "id_str": "397729450",
+                            "name": "UncoveringTheTruth (commentary)",
+                            "screen_name": "shendy456"
+                        },
+                        {
+                            "id_str": "1859406014887370752",
+                            "name": "Cloud Cross Rises",
+                            "screen_name": "CloudCrossRise"
+                        },
+                        {
+                            "id_str": "1859817255032233984",
+                            "name": "Legendary Angel",
+                            "screen_name": "LegendaryA52054"
+                        },
+                        {
+                            "id_str": "1860766886129975296",
+                            "name": "Bald Headed F@GGOT Shendy and his F@GGOT parents",
+                            "screen_name": "HappyHap28186"
+                        },
+                        {
+                            "id_str": "1860583094589288448",
+                            "name": "Hammed",
+                            "screen_name": "HammedThanas"
+                        },
+                        {
+                            "id_str": "1756774925463916544",
+                            "name": "Timmy Tap",
+                            "screen_name": "tap_timmy44007"
+                        },
+                        {
+                            "id_str": "1351006730411528200",
+                            "name": "Kyle Shanahan is Cursed",
+                            "screen_name": "HomemadeLeba"
+                        },
+                        {
+                            "id_str": "1707164516218249216",
+                            "name": "Sawyer",
+                            "screen_name": "A233381"
+                        },
+                        {
+                            "id_str": "1733042266099359744",
+                            "name": "Anthony Davis",
+                            "screen_name": "AnthonyLebron99"
+                        },
+                        {
+                            "id_str": "1779941371920400384",
+                            "name": "Legendary Cross",
+                            "screen_name": "LegendaryCross3"
+                        },
+                        {
+                            "id_str": "1774149335346802688",
+                            "name": "legendarycross",
+                            "screen_name": "LegendaryCross4"
+                        },
+                        {
+                            "id_str": "1733724260558921728",
+                            "name": "Donald G",
+                            "screen_name": "DonGately97"
+                        },
+                        {
+                            "id_str": "1186398728430571520",
+                            "name": "Johnny Kilroy",
+                            "screen_name": "Johnny_Kilroy1"
+                        },
+                        {
+                            "id_str": "1738468045457420288",
+                            "name": "Bank",
+                            "screen_name": "TedWilliam65389"
+                        },
+                        {
+                            "id_str": "1547958036211257351",
+                            "name": "Apex Jones",
+                            "screen_name": "ApexJones22"
+                        },
+                        {
+                            "id_str": "1396918921492586503",
+                            "name": "AirJordans23",
+                            "screen_name": "AirJordans2323"
+                        },
+                        {
+                            "id_str": "470808288",
+                            "name": "Brandon",
+                            "screen_name": "clickthatfollow"
+                        },
+                        {
+                            "id_str": "633942786",
+                            "name": "Who’s Better Than Kobe?",
+                            "screen_name": "MarkIII824"
+                        },
+                        {
+                            "id_str": "1389393072878936066",
+                            "name": "Ethical Hoops🏆 (only takes Ws)",
+                            "screen_name": "EthicalHoopz"
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "3293182800",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/lewoysmithjr/status/1989004379962372598/photo/1",
+                            "alt_text": "Jhorse Jhope Horse GIF",
+                            "ext_alt_text": "Jhorse Jhope Horse GIF",
+                            "id_str": "1989004374568574976",
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/G5pc8MLboAAr4wT.jpg",
+                            "original_info": {
+                                "width": 240,
+                                "height": 240
+                            },
+                            "type": "animated_gif",
+                            "url": "https://t.co/KOm4YE5DPM",
+                            "video_info": {
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/tweet_video/G5pc8MLboAAr4wT.mp4",
+                                        "content_type": "video/mp4"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "3293182800",
+                    "id_str": "3293182800",
+                    "created_at": "Sat Jul 25 17:34:33 +0000 2015",
+                    "name": "LeWoy Smith Jr.",
+                    "screen_name": "lewoysmithjr",
+                    "url": null,
+                    "description": "The Man who motivated Michael Jeffrey Jordan to become the GOAT",
+                    "location": "Emsley A. Laney High School",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 76022,
+                    "followers_count": 3469,
+                    "friends_count": 1804,
+                    "media_count": 43795,
+                    "normal_followers_count": 3469,
+                    "pinned_tweet_ids_str": [
+                        "1935451773172629688"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3293182800/1673113465",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1616542704946802689/lrdf_JTE_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 81427,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1988988200119882029",
+                "in_reply_to_screen_name": "Aint28",
+                "in_reply_to_user_id_str": "1158117696606789634"
+            }
+        },
+        {
+            "entryId": "tweet-1989004343568105723",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004343568105723",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Abdulla01865733/status/1989004343568105723",
+                "view_count": null,
+                "conversation_id_str": "1989004343568105723",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:16:04 +0000 2025",
+                "full_text": "▬ك&amp;#x624;ب&amp;#x624;ن dT1i ك&amp;#x624;د svy3O خ&amp;#x635;م▬ا&amp;#x64A;هرب U2GB ايه&amp;#x64A;رب 9JlD \n ipl1 ك&amp;#x624;ب&amp;#x624;ن JS6g ك&amp;#x648;د CMic خ&amp;#x635;م▬ن&amp;#x648;ن I4n2K \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1165690657006116865",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1165690657006116865",
+                    "id_str": "1165690657006116865",
+                    "created_at": "Sun Aug 25 18:21:45 +0000 2019",
+                    "name": "Claire Clark",
+                    "screen_name": "Abdulla01865733",
+                    "url": "https://t.co/aFzcJ61iUk",
+                    "description": "Hey world! I am a enthusiastic tech enthusiast who loves Crypto. DM open 🔥",
+                    "location": "Jefferson City",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/aFzcJ61iUk"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 210987,
+                    "followers_count": 242,
+                    "friends_count": 62,
+                    "media_count": 1,
+                    "normal_followers_count": 242,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165690657006116865/1761578163",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982828612572073984/cTu3iLKy_normal.png",
+                    "protected": false,
+                    "statuses_count": 3279,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989004090580562261",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989004090580562261",
+                "retweeted_status_result": null,
+                "url": "https://x.com/sootydupre/status/1989004090580562261",
+                "view_count": null,
+                "conversation_id_str": "1989004090580562261",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:15:03 +0000 2025",
+                "full_text": "▬ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x624;د yUWr0 خ&amp;#x635;م BpBhD ا&amp;#x64A;هرب▬ايه&amp;#x64A;رب OwBrb \n▬ك&amp;#x624;ب&amp;#x624;ن nYobk ك&amp;#x648;د eYUPF خ&amp;#x635;م▬ن&amp;#x648;ن K7Jy \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "155267983",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "155267983",
+                    "id_str": "155267983",
+                    "created_at": "Sun Jun 13 17:00:18 +0000 2010",
+                    "name": "Sadie Collins",
+                    "screen_name": "sootydupre",
+                    "url": "https://t.co/qAnbvlDJvQ",
+                    "description": "Yo everyone! This is a passionate digital creator passionate about Data Science. Always learning ✨",
+                    "location": "Little Rock",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/qAnbvlDJvQ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2342,
+                    "followers_count": 118,
+                    "friends_count": 227,
+                    "media_count": 17,
+                    "normal_followers_count": 118,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155267983/1761574335",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982812241473789952/omJfhuE9_normal.png",
+                    "protected": false,
+                    "statuses_count": 21547,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989003827832631684",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989003827832631684",
+                "retweeted_status_result": null,
+                "url": "https://x.com/abbie_hustead/status/1989003827832631684",
+                "view_count": null,
+                "conversation_id_str": "1989003827832631684",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:14:01 +0000 2025",
+                "full_text": "▬ك&amp;#x624;ب&amp;#x624;ن 0WY5 ك&amp;#x624;د▬خ&amp;#x635;م▬ا&amp;#x64A;هرب▬ايه&amp;#x64A;رب▬\n wVgd ك&amp;#x624;ب&amp;#x624;ن Ht3L ك&amp;#x648;د sRlN خ&amp;#x635;م kowM ن&amp;#x648;ن LANiJ \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "2195021849",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "2195021849",
+                    "id_str": "2195021849",
+                    "created_at": "Mon Nov 25 04:34:21 +0000 2013",
+                    "name": "Alexa Long",
+                    "screen_name": "abbie_hustead",
+                    "url": "https://t.co/0T0ECNUAUn",
+                    "description": "Hello world! I am a enthusiastic software engineer working on Machine Learning. Let's connect 🚀",
+                    "location": "Los Angeles",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/0T0ECNUAUn"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 6064,
+                    "followers_count": 152,
+                    "friends_count": 246,
+                    "media_count": 779,
+                    "normal_followers_count": 152,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2195021849/1761552574",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982720958294061056/KA8nh7Yg_normal.png",
+                    "protected": false,
+                    "statuses_count": 6609,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989003609091068162",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989003609091068162",
+                "retweeted_status_result": null,
+                "url": "https://x.com/_desirit/status/1989003609091068162",
+                "view_count": "1",
+                "conversation_id_str": "1989003609091068162",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:13:08 +0000 2025",
+                "full_text": "Kskd ك&amp;#x624;ب&amp;#x624;ن VUhXp ك&amp;#x624;د▬خ&amp;#x635;م VzZE ا&amp;#x64A;هرب mSPCn ايه&amp;#x64A;رب▬\n▬ك&amp;#x624;ب&amp;#x624;ن r7zT ك&amp;#x648;د cKXm خ&amp;#x635;م AziED ن&amp;#x648;ن 0WUia \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "346701152",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "346701152",
+                    "id_str": "346701152",
+                    "created_at": "Mon Aug 01 18:08:26 +0000 2011",
+                    "name": "Aaliyah Long",
+                    "screen_name": "_desirit",
+                    "url": "https://t.co/FiUmv1q7sI",
+                    "description": "Yo folks! I'm a driven digital creator dedicated to Machine Learning. Building in public 🚀",
+                    "location": "Portland",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/FiUmv1q7sI"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 1135,
+                    "followers_count": 204,
+                    "friends_count": 374,
+                    "media_count": 36,
+                    "normal_followers_count": 204,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/346701152/1761551944",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982718332898811904/WrUZFFvk_normal.png",
+                    "protected": false,
+                    "statuses_count": 22501,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989003247370269096",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989003247370269096",
+                "retweeted_status_result": null,
+                "url": "https://x.com/sootydupre/status/1989003247370269096",
+                "view_count": null,
+                "conversation_id_str": "1989003247370269096",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:11:42 +0000 2025",
+                "full_text": "7ak2 ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x624;د klLDD خ&amp;#x635;م jCE3D ا&amp;#x64A;هرب 5vZGW ايه&amp;#x64A;رب ojJZx \n FkTx ك&amp;#x624;ب&amp;#x624;ن Unjh ك&amp;#x648;د 9wbI خ&amp;#x635;م DyhA ن&amp;#x648;ن HkMWl \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "155267983",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "155267983",
+                    "id_str": "155267983",
+                    "created_at": "Sun Jun 13 17:00:18 +0000 2010",
+                    "name": "Sadie Collins",
+                    "screen_name": "sootydupre",
+                    "url": "https://t.co/qAnbvlDJvQ",
+                    "description": "Yo everyone! This is a passionate digital creator passionate about Data Science. Always learning ✨",
+                    "location": "Little Rock",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/qAnbvlDJvQ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2342,
+                    "followers_count": 118,
+                    "friends_count": 227,
+                    "media_count": 17,
+                    "normal_followers_count": 118,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155267983/1761574335",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982812241473789952/omJfhuE9_normal.png",
+                    "protected": false,
+                    "statuses_count": 21547,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989003184392794148",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989003184392794148",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Abdulla01865733/status/1989003184392794148",
+                "view_count": "1",
+                "conversation_id_str": "1989003184392794148",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:11:27 +0000 2025",
+                "full_text": "2boGK ك&amp;#x624;ب&amp;#x624;ن YINA ك&amp;#x624;د pRrrG خ&amp;#x635;م▬ا&amp;#x64A;هرب sfoBq ايه&amp;#x64A;رب 8k7X \n▬ك&amp;#x624;ب&amp;#x624;ن 4WXPm ك&amp;#x648;د 9uqs خ&amp;#x635;م RfIFC ن&amp;#x648;ن 96m0u \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1165690657006116865",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1165690657006116865",
+                    "id_str": "1165690657006116865",
+                    "created_at": "Sun Aug 25 18:21:45 +0000 2019",
+                    "name": "Claire Clark",
+                    "screen_name": "Abdulla01865733",
+                    "url": "https://t.co/aFzcJ61iUk",
+                    "description": "Hey world! I am a enthusiastic tech enthusiast who loves Crypto. DM open 🔥",
+                    "location": "Jefferson City",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/aFzcJ61iUk"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 210987,
+                    "followers_count": 242,
+                    "friends_count": 62,
+                    "media_count": 1,
+                    "normal_followers_count": 242,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165690657006116865/1761578163",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982828612572073984/cTu3iLKy_normal.png",
+                    "protected": false,
+                    "statuses_count": 3279,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989002968834924980",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989002968834924980",
+                "retweeted_status_result": null,
+                "url": "https://x.com/sootydupre/status/1989002968834924980",
+                "view_count": null,
+                "conversation_id_str": "1989002968834924980",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:10:36 +0000 2025",
+                "full_text": "0I9W ك&amp;#x624;ب&amp;#x624;ن R24K ك&amp;#x624;د sn5nO خ&amp;#x635;م▬ا&amp;#x64A;هرب jzrRZ ايه&amp;#x64A;رب TOkzK \n▬ك&amp;#x624;ب&amp;#x624;ن Oinr ك&amp;#x648;د tdUA خ&amp;#x635;م MKpoU ن&amp;#x648;ن▬\n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "155267983",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "155267983",
+                    "id_str": "155267983",
+                    "created_at": "Sun Jun 13 17:00:18 +0000 2010",
+                    "name": "Sadie Collins",
+                    "screen_name": "sootydupre",
+                    "url": "https://t.co/qAnbvlDJvQ",
+                    "description": "Yo everyone! This is a passionate digital creator passionate about Data Science. Always learning ✨",
+                    "location": "Little Rock",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/qAnbvlDJvQ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2342,
+                    "followers_count": 118,
+                    "friends_count": 227,
+                    "media_count": 17,
+                    "normal_followers_count": 118,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155267983/1761574335",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982812241473789952/omJfhuE9_normal.png",
+                    "protected": false,
+                    "statuses_count": 21547,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989002908852187158",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989002908852187158",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Abdulla01865733/status/1989002908852187158",
+                "view_count": null,
+                "conversation_id_str": "1989002908852187158",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:10:22 +0000 2025",
+                "full_text": "xPabI ك&amp;#x624;ب&amp;#x624;ن ROig ك&amp;#x624;د 3KEeX خ&amp;#x635;م▬ا&amp;#x64A;هرب bGr8 ايه&amp;#x64A;رب zJ2P \n▬ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x648;د BD7Fm خ&amp;#x635;م UvnI ن&amp;#x648;ن tA0Vy \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1165690657006116865",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1165690657006116865",
+                    "id_str": "1165690657006116865",
+                    "created_at": "Sun Aug 25 18:21:45 +0000 2019",
+                    "name": "Claire Clark",
+                    "screen_name": "Abdulla01865733",
+                    "url": "https://t.co/aFzcJ61iUk",
+                    "description": "Hey world! I am a enthusiastic tech enthusiast who loves Crypto. DM open 🔥",
+                    "location": "Jefferson City",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/aFzcJ61iUk"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 210987,
+                    "followers_count": 242,
+                    "friends_count": 62,
+                    "media_count": 1,
+                    "normal_followers_count": 242,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165690657006116865/1761578163",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982828612572073984/cTu3iLKy_normal.png",
+                    "protected": false,
+                    "statuses_count": 3279,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989001756446191971",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989001756446191971",
+                "retweeted_status_result": null,
+                "url": "https://x.com/sootydupre/status/1989001756446191971",
+                "view_count": "6",
+                "conversation_id_str": "1989001756446191971",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:05:47 +0000 2025",
+                "full_text": "FztK ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x624;د SlMYu خ&amp;#x635;م▬ا&amp;#x64A;هرب mLWHU ايه&amp;#x64A;رب▬\n R71Y ك&amp;#x624;ب&amp;#x624;ن 5qU2 ك&amp;#x648;د 3Va5l خ&amp;#x635;م UJZ6n ن&amp;#x648;ن yiLw \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "155267983",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "155267983",
+                    "id_str": "155267983",
+                    "created_at": "Sun Jun 13 17:00:18 +0000 2010",
+                    "name": "Sadie Collins",
+                    "screen_name": "sootydupre",
+                    "url": "https://t.co/qAnbvlDJvQ",
+                    "description": "Yo everyone! This is a passionate digital creator passionate about Data Science. Always learning ✨",
+                    "location": "Little Rock",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/qAnbvlDJvQ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2342,
+                    "followers_count": 118,
+                    "friends_count": 227,
+                    "media_count": 17,
+                    "normal_followers_count": 118,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155267983/1761574335",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982812241473789952/omJfhuE9_normal.png",
+                    "protected": false,
+                    "statuses_count": 21547,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1989001516024463672",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989001516024463672",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Stinkhorn11/status/1989001516024463672",
+                "view_count": "15",
+                "conversation_id_str": "1809242547333505024",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:04:49 +0000 2025",
+                "full_text": "@ken_caudle @CatManitarMike @HarryWorp @ianfmusgrave @Not_yourpilot @katwellair @surfpurzel @jpvanhoy @sly_sparkane @8getoveritman8 @MaxQHellcat @ThatGuyM77 @AlwaysWrightDM @locky82903378 @haprho @PannyTickles @4dots899721 @Skink101 @First_Won_ @newbsharp @xyphophor @CalmLogical @Alvamiga @Copernicium1473 @Evil_MerlinX @ImNux @Notaspud_ @GlobeSlay3r @mrjaybeevee @TheSilverWave @Marjori88206011 @guitardude42 @Rudeboymessiah @FooleryT @PiPiPyuPyu @theSGM78 @birp234 @cryptonian7665 @AustralisPiper @RealAceFox1 @Popthecann13288 @PMADDOGMAC @andjo888 @Frankrypto @egolder256 @CavemanModer @ItsNotFlat603 @CoralBlob @StopHatingMe88 Don't you see that this explanation produces the nonlinear distance-elevation relationship that is at odds with what we actually observe? Try representing it visually. Mark equidistant intervals along a plane, and plot the sight line for each position.",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "990975892498284546",
+                            "name": "Kenbo",
+                            "screen_name": "ken_caudle"
+                        },
+                        {
+                            "id_str": "990898090017079297",
+                            "name": "The Mandelbrot Set",
+                            "screen_name": "CatManitarMike"
+                        },
+                        {
+                            "id_str": "1634096770073636866",
+                            "name": "Harry Worp",
+                            "screen_name": "HarryWorp"
+                        },
+                        {
+                            "id_str": "53609015",
+                            "name": "💧 Ian \"Engaging and Scary Lecturer\" 🍩 🐀Musgrave",
+                            "screen_name": "ianfmusgrave"
+                        },
+                        {
+                            "id_str": "1811052154972688385",
+                            "name": "Tyler",
+                            "screen_name": "Not_yourpilot"
+                        },
+                        {
+                            "id_str": "1777093416427360256",
+                            "name": "Katwellair & Satwellair",
+                            "screen_name": "katwellair"
+                        },
+                        {
+                            "id_str": "3254527367",
+                            "name": "Surfpurzel",
+                            "screen_name": "surfpurzel"
+                        },
+                        {
+                            "id_str": "14690630",
+                            "name": "The Dread Bunny",
+                            "screen_name": "jpvanhoy"
+                        },
+                        {
+                            "id_str": "942172087191506945",
+                            "name": "𝗦𝗟𝗬 𝗦𝗣𝗔𝗥𝗞𝗔𝗡𝗘",
+                            "screen_name": "sly_sparkane"
+                        },
+                        {
+                            "id_str": "1922723177563815938",
+                            "name": "Nick Cagee VII",
+                            "screen_name": "8getoveritman8"
+                        },
+                        {
+                            "id_str": "1649883218496356352",
+                            "name": "F6F \"Hellcat\"",
+                            "screen_name": "MaxQHellcat"
+                        },
+                        {
+                            "id_str": "231268303",
+                            "name": "T.M",
+                            "screen_name": "ThatGuyM77"
+                        },
+                        {
+                            "id_str": "1458289798737764359",
+                            "name": "Chris Wright 🇺🇸🌎",
+                            "screen_name": "AlwaysWrightDM"
+                        },
+                        {
+                            "id_str": "1212935332192112640",
+                            "name": "loksta!🗣 ❤️. .",
+                            "screen_name": "locky82903378"
+                        },
+                        {
+                            "id_str": "5794002",
+                            "name": "Hap Rho",
+                            "screen_name": "haprho"
+                        },
+                        {
+                            "id_str": "421363289",
+                            "name": "PancakeTickler",
+                            "screen_name": "PannyTickles"
+                        },
+                        {
+                            "id_str": "1676409973604077568",
+                            "name": "4dots",
+                            "screen_name": "4dots899721"
+                        },
+                        {
+                            "id_str": "569287732",
+                            "name": "Rob H 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧",
+                            "screen_name": "Skink101"
+                        },
+                        {
+                            "id_str": "1558216692857073664",
+                            "name": "FirstWon",
+                            "screen_name": "First_Won_"
+                        },
+                        {
+                            "id_str": "1959364623380926464",
+                            "name": "B Sharp",
+                            "screen_name": "newbsharp"
+                        },
+                        {
+                            "id_str": "1239309907230425089",
+                            "name": "Xyphophorus",
+                            "screen_name": "xyphophor"
+                        },
+                        {
+                            "id_str": "1667240350191067152",
+                            "name": "A Bee Larenks",
+                            "screen_name": "CalmLogical"
+                        },
+                        {
+                            "id_str": "383140533",
+                            "name": "Alvamiga 🇬🇧♂️🐧 🐦🦣🦋",
+                            "screen_name": "Alvamiga"
+                        },
+                        {
+                            "id_str": "1500229984434237441",
+                            "name": "Copernicium",
+                            "screen_name": "Copernicium1473"
+                        },
+                        {
+                            "id_str": "381551148",
+                            "name": "Evil_Merlin",
+                            "screen_name": "Evil_MerlinX"
+                        },
+                        {
+                            "id_str": "1027392022620135427",
+                            "name": "Nux",
+                            "screen_name": "ImNux"
+                        },
+                        {
+                            "id_str": "1564253134662340608",
+                            "name": "🥔",
+                            "screen_name": "Notaspud_"
+                        },
+                        {
+                            "id_str": "1784233160512827392",
+                            "name": "ʛɭ๏ცє รɭคץєг",
+                            "screen_name": "GlobeSlay3r"
+                        },
+                        {
+                            "id_str": "1444566933492338688",
+                            "name": "jaybeevee",
+                            "screen_name": "mrjaybeevee"
+                        },
+                        {
+                            "id_str": "1966856638532386816",
+                            "name": "V",
+                            "screen_name": "TheSilverWave"
+                        },
+                        {
+                            "id_str": "1516082497414746116",
+                            "name": "Marjorie Bishop",
+                            "screen_name": "Marjori88206011"
+                        },
+                        {
+                            "id_str": "230910637",
+                            "name": "Slay3rSlayer",
+                            "screen_name": "guitardude42"
+                        },
+                        {
+                            "id_str": "1821641344730955776",
+                            "name": "Rudeboy",
+                            "screen_name": "Rudeboymessiah"
+                        },
+                        {
+                            "id_str": "953884323286953985",
+                            "name": "𝕏oolery 𝕏om",
+                            "screen_name": "FooleryT"
+                        },
+                        {
+                            "id_str": "1915087966789332993",
+                            "name": "PowFish",
+                            "screen_name": "PiPiPyuPyu"
+                        },
+                        {
+                            "id_str": "1561352816815472647",
+                            "name": "theSGM",
+                            "screen_name": "theSGM78"
+                        },
+                        {
+                            "id_str": "1549032576471498753",
+                            "name": "Birp234",
+                            "screen_name": "birp234"
+                        },
+                        {
+                            "id_str": "1596695097445613569",
+                            "name": "cemmec",
+                            "screen_name": "cryptonian7665"
+                        },
+                        {
+                            "id_str": "1104935582558412800",
+                            "name": "Piper australis",
+                            "screen_name": "AustralisPiper"
+                        },
+                        {
+                            "id_str": "3178243258",
+                            "name": "By Grabthar's Hammer",
+                            "screen_name": "RealAceFox1"
+                        },
+                        {
+                            "id_str": "1900572594761277440",
+                            "name": "🔥Popthecannon🔥",
+                            "screen_name": "Popthecann13288"
+                        },
+                        {
+                            "id_str": "1452932024126173188",
+                            "name": "MADDOG",
+                            "screen_name": "PMADDOGMAC"
+                        },
+                        {
+                            "id_str": "1462047605517697034",
+                            "name": "Awake",
+                            "screen_name": "andjo888"
+                        },
+                        {
+                            "id_str": "896041345831317506",
+                            "name": "FrankLy",
+                            "screen_name": "Frankrypto"
+                        },
+                        {
+                            "id_str": "12867592",
+                            "name": "EGolder",
+                            "screen_name": "egolder256"
+                        },
+                        {
+                            "id_str": "1924938899077443584",
+                            "name": "ModerCavemanTraveler",
+                            "screen_name": "CavemanModer"
+                        },
+                        {
+                            "id_str": "1628926160464642049",
+                            "name": "Kenny",
+                            "screen_name": "ItsNotFlat603"
+                        },
+                        {
+                            "id_str": "1194764660119146496",
+                            "name": "GaryH",
+                            "screen_name": "CoralBlob"
+                        },
+                        {
+                            "id_str": "1817845485186772992",
+                            "name": "Brian Sweet IV",
+                            "screen_name": "StopHatingMe88"
+                        }
+                    ]
+                },
+                "favorite_count": 3,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1273539424777895936",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1273539424777895936",
+                    "id_str": "1273539424777895936",
+                    "created_at": "Thu Jun 18 08:54:42 +0000 2020",
+                    "name": "Stinkhorn",
+                    "screen_name": "Stinkhorn11",
+                    "url": null,
+                    "description": "Semisentient fungus",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 4199,
+                    "followers_count": 133,
+                    "friends_count": 1138,
+                    "media_count": 459,
+                    "normal_followers_count": 133,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": null,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1972719606809661440/2Y__i03T_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 9603,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1988964140635881512",
+                "in_reply_to_screen_name": "ken_caudle",
+                "in_reply_to_user_id_str": "990975892498284546"
+            }
+        },
+        {
+            "entryId": "tweet-1989001430053564638",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989001430053564638",
+                "retweeted_status_result": null,
+                "url": "https://x.com/NotDorseyJack1/status/1989001430053564638",
+                "view_count": "8",
+                "conversation_id_str": "1931409842712744116",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:04:29 +0000 2025",
+                "full_text": "@MagaPhoenix73 @yanksteel @Christo63320593 @ScarlettKBasset @JPopiden55707 @TorrieTruth @scottstocker4 @GrantLiermann @momvogt1 @Fueldog3 @kcinor @UndeC08 @clockwork584043 @TRUSTGOD2020 @Beautyjunkie21 @gigiishere2024 @tearoses3 @George_Boole3 @Eilis654279 @America1Eagle1 @jazonuxlay @NanetteDonnelly @nicher66 @j_olsen0606 @CatWomanVonni @mccuan_lois @FriendOfThurlow @Quin4Trump @S51781902 @PPPTCE @DeplorableNew @pmackdaddy @1eyedwilly56 @traveler002 @MrUltraMarin @GeorgeSPatton_ @UnburdenedAgain @tnolwene @boogdoc7 @CivilLost @rocketjane1 @Brad54089715168 @jeffsmith0000 @IZMKS44 @zypisfy @fm49685690 @ChloeBrook63 @wildflowers1172 @Wynter__Rayne @POTUS I'm fine with it. I even tell people to use it\nNo worries this end.\nPlease relax",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1594006318326730753",
+                            "name": "ManOnFire",
+                            "screen_name": "MagaPhoenix73"
+                        },
+                        {
+                            "id_str": "1429269199868895234",
+                            "name": "@yanksteel",
+                            "screen_name": "yanksteel"
+                        },
+                        {
+                            "id_str": "1960324136070496256",
+                            "name": "Christopher",
+                            "screen_name": "Christo63320593"
+                        },
+                        {
+                            "id_str": "1970673035750580225",
+                            "name": "Scarlett Bassett",
+                            "screen_name": "ScarlettKBasset"
+                        },
+                        {
+                            "id_str": "1790478552237744128",
+                            "name": "Joe Popiden",
+                            "screen_name": "JPopiden55707"
+                        },
+                        {
+                            "id_str": "1637702017953955843",
+                            "name": "TruthPirate",
+                            "screen_name": "TorrieTruth"
+                        },
+                        {
+                            "id_str": "1076256681334632448",
+                            "name": "scot",
+                            "screen_name": "scottstocker4"
+                        },
+                        {
+                            "id_str": "1982835457282228224",
+                            "name": "Calif Jewish✡️ Native 6th Generation",
+                            "screen_name": "GrantLiermann"
+                        },
+                        {
+                            "id_str": "1586719422491893760",
+                            "name": "KatJ ✝🇺🇸",
+                            "screen_name": "momvogt1"
+                        },
+                        {
+                            "id_str": "1360247671584399369",
+                            "name": "Fueldog",
+                            "screen_name": "Fueldog3"
+                        },
+                        {
+                            "id_str": "749644270483566593",
+                            "name": "Keith",
+                            "screen_name": "kcinor"
+                        },
+                        {
+                            "id_str": "1593709320251785220",
+                            "name": "Chrissy",
+                            "screen_name": "UndeC08"
+                        },
+                        {
+                            "id_str": "1874226815847587840",
+                            "name": "clockwork",
+                            "screen_name": "clockwork584043"
+                        },
+                        {
+                            "id_str": "324570036",
+                            "name": "GG",
+                            "screen_name": "TRUSTGOD2020"
+                        },
+                        {
+                            "id_str": "237616094",
+                            "name": "MamaBear2",
+                            "screen_name": "Beautyjunkie21"
+                        },
+                        {
+                            "id_str": "1840096303164116992",
+                            "name": "Gigiishere😺",
+                            "screen_name": "gigiishere2024"
+                        },
+                        {
+                            "id_str": "1409240324409544705",
+                            "name": "tearoses",
+                            "screen_name": "tearoses3"
+                        },
+                        {
+                            "id_str": "1647418593208942593",
+                            "name": "Charles Babbage #3",
+                            "screen_name": "George_Boole3"
+                        },
+                        {
+                            "id_str": "1736142976668098561",
+                            "name": "Eilis",
+                            "screen_name": "Eilis654279"
+                        },
+                        {
+                            "id_str": "801096571509161984",
+                            "name": "Country Jeans",
+                            "screen_name": "America1Eagle1"
+                        },
+                        {
+                            "id_str": "799542226288345089",
+                            "name": "Jason",
+                            "screen_name": "jazonuxlay"
+                        },
+                        {
+                            "id_str": "233768462",
+                            "name": "NRD🍊",
+                            "screen_name": "NanetteDonnelly"
+                        },
+                        {
+                            "id_str": "703631194601222145",
+                            "name": "DEE RIVERA",
+                            "screen_name": "nicher66"
+                        },
+                        {
+                            "id_str": "1764972509001371648",
+                            "name": "Jamie Olsen",
+                            "screen_name": "j_olsen0606"
+                        },
+                        {
+                            "id_str": "1570493774614216704",
+                            "name": "Yvonne Car",
+                            "screen_name": "CatWomanVonni"
+                        },
+                        {
+                            "id_str": "1520464495214305285",
+                            "name": "Lois",
+                            "screen_name": "mccuan_lois"
+                        },
+                        {
+                            "id_str": "345000881",
+                            "name": "Owen Lovejoy",
+                            "screen_name": "FriendOfThurlow"
+                        },
+                        {
+                            "id_str": "3083325002",
+                            "name": "The Future is Red (not blue) 👍🇺🇸👍🇺🇸👍🇺🇸👍",
+                            "screen_name": "Quin4Trump"
+                        },
+                        {
+                            "id_str": "1433552020087074856",
+                            "name": "RalphS",
+                            "screen_name": "S51781902"
+                        },
+                        {
+                            "id_str": "54057190",
+                            "name": "Calvin Polite",
+                            "screen_name": "PPPTCE"
+                        },
+                        {
+                            "id_str": "850732390972522496",
+                            "name": "New York Deplorable🇺🇸🇺🇸🇺🇸🇺🇸",
+                            "screen_name": "DeplorableNew"
+                        },
+                        {
+                            "id_str": "41515875",
+                            "name": "PMackdaddy",
+                            "screen_name": "pmackdaddy"
+                        },
+                        {
+                            "id_str": "1811980964706537472",
+                            "name": "Deplorable Bubba",
+                            "screen_name": "1eyedwilly56"
+                        },
+                        {
+                            "id_str": "36789992",
+                            "name": "🌄🇺🇸Garry (Froggy)",
+                            "screen_name": "traveler002"
+                        },
+                        {
+                            "id_str": "1001936281750949889",
+                            "name": "MR ULTRA. STATUS: PRAYERS NEEDED 4 USA 🙏",
+                            "screen_name": "MrUltraMarin"
+                        },
+                        {
+                            "id_str": "1616229066968801280",
+                            "name": "American Viper",
+                            "screen_name": "GeorgeSPatton_"
+                        },
+                        {
+                            "id_str": "1863311588414959616",
+                            "name": "Dems made Trump King of America 🤭",
+                            "screen_name": "UnburdenedAgain"
+                        },
+                        {
+                            "id_str": "1156585712134889472",
+                            "name": "Nolwene",
+                            "screen_name": "tnolwene"
+                        },
+                        {
+                            "id_str": "1334119652",
+                            "name": "Ryan Watson",
+                            "screen_name": "boogdoc7"
+                        },
+                        {
+                            "id_str": "1001784814398197761",
+                            "name": "Civil Society Lost",
+                            "screen_name": "CivilLost"
+                        },
+                        {
+                            "id_str": "1294247818627031042",
+                            "name": "mizpersnickety",
+                            "screen_name": "rocketjane1"
+                        },
+                        {
+                            "id_str": "1823585597614604288",
+                            "name": "Concepts of a Plan",
+                            "screen_name": "Brad54089715168"
+                        },
+                        {
+                            "id_str": "1649002389188546560",
+                            "name": "Jeff",
+                            "screen_name": "jeffsmith0000"
+                        },
+                        {
+                            "id_str": "1507931308374200326",
+                            "name": "44Flower",
+                            "screen_name": "IZMKS44"
+                        },
+                        {
+                            "id_str": "3434704705",
+                            "name": "kiuku",
+                            "screen_name": "zypisfy"
+                        },
+                        {
+                            "id_str": "1154069391077781504",
+                            "name": "fran",
+                            "screen_name": "fm49685690"
+                        },
+                        {
+                            "id_str": "1757583924132225024",
+                            "name": "Chloe Brook",
+                            "screen_name": "ChloeBrook63"
+                        },
+                        {
+                            "id_str": "939003129860726785",
+                            "name": "sherry",
+                            "screen_name": "wildflowers1172"
+                        },
+                        {
+                            "id_str": "1959885781595459584",
+                            "name": "Love ❤️ Winter Spring Summer & Autumn Time Rain",
+                            "screen_name": "Wynter__Rayne"
+                        },
+                        {
+                            "id_str": "1879650942410481666",
+                            "name": "President Donald J. Trump",
+                            "screen_name": "POTUS"
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1449323311612276739",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1449323311612276739",
+                    "id_str": "1449323311612276739",
+                    "created_at": "Sat Oct 16 10:37:15 +0000 2021",
+                    "name": "Manchester forever",
+                    "screen_name": "NotDorseyJack1",
+                    "url": null,
+                    "description": "The Red and Blue City of Manchester, England\nBrexiteer\nOpinion\n\n#PoliceAreFarLeftThugs\n#FreeLucyConnolly\nKeep Britain Great\nMAGA",
+                    "location": "Northern England",
+                    "entities": {
+                        "description": {
+                            "hashtags": [
+                                "PoliceAreFarLeftThugs",
+                                "FreeLucyConnolly"
+                            ],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 54487,
+                    "followers_count": 4157,
+                    "friends_count": 4140,
+                    "media_count": 12665,
+                    "normal_followers_count": 4157,
+                    "pinned_tweet_ids_str": [
+                        "1958196773630955537"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1449323311612276739/1754222201",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882966037005520896/1vpQDU57_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 58004,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1988987252912046357",
+                "in_reply_to_screen_name": "MagaPhoenix73",
+                "in_reply_to_user_id_str": "1594006318326730753"
+            }
+        },
+        {
+            "entryId": "tweet-1989001061202554989",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989001061202554989",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Missy8008135/status/1989001061202554989",
+                "view_count": "23",
+                "conversation_id_str": "1941826648791302314",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:03:01 +0000 2025",
+                "full_text": "@aurvandill19999 @PembrokeMeg @gvnzng @TakesToez @Jennie_SC1 @AllTheThings79 @CookieMnstr1975 @ALibsBabaYaga @sammy_bivens @BigSpud18 @NotSoSilentBob1 @JAG1575100 @lijareturnz @basil_ireton @RAM0667 @Gudjulaseamless @42Gnome @nikkisixx12266 @gdoughdoc2 @Clarity_Esper @TuleRain @GojiraStompz @VinceGottalotta @Jasontwodollars @Bruh888888888 @doonslayer @odktiger @Not_Jack_2024 @ScarlettKBasset @Pete_Woodward @cow_cousin @proundpapaof3 @_Kel_Varnsen_ @1eyedwilly56 @SquidMang0 @ColinRoberts843 @2457klhu @rolo_tomase @crashbus67 @MotherFNAmericA @lulzyalldumbAF @Krensharpaw @skratch_karma @Nicoleg425 @TreatHunterDog @AngryMemasGhost @FixinYourUglies @TheAnaBraga @FromageDuTrump Do what is the dem’s plan now? Just let it all go to sheet and then say “ we told you so”?",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1951641959959003136",
+                            "name": "MariSamuel",
+                            "screen_name": "aurvandill19999"
+                        },
+                        {
+                            "id_str": "2967011433",
+                            "name": "Meg",
+                            "screen_name": "PembrokeMeg"
+                        },
+                        {
+                            "id_str": "1384199470645014536",
+                            "name": "Gvnzng - personification of chaos - Time Traveler",
+                            "screen_name": "gvnzng"
+                        },
+                        {
+                            "id_str": "1955740406010011651",
+                            "name": "PurdyBigPaws",
+                            "screen_name": "TakesToez"
+                        },
+                        {
+                            "id_str": "3103293436",
+                            "name": "Jen",
+                            "screen_name": "Jennie_SC1"
+                        },
+                        {
+                            "id_str": "1923627617493581824",
+                            "name": "Artax",
+                            "screen_name": "AllTheThings79"
+                        },
+                        {
+                            "id_str": "2445988844",
+                            "name": "Cookie Group Think Monster 🇨🇦🏳️‍🌈🏳️‍⚧️🏴‍☠️",
+                            "screen_name": "CookieMnstr1975"
+                        },
+                        {
+                            "id_str": "1931950315630452736",
+                            "name": "BabaYaga",
+                            "screen_name": "ALibsBabaYaga"
+                        },
+                        {
+                            "id_str": "1594232632975425536",
+                            "name": "Sammy Bivens",
+                            "screen_name": "sammy_bivens"
+                        },
+                        {
+                            "id_str": "1636728851752517632",
+                            "name": "Spud",
+                            "screen_name": "BigSpud18"
+                        },
+                        {
+                            "id_str": "127613900",
+                            "name": "Bob",
+                            "screen_name": "NotSoSilentBob1"
+                        },
+                        {
+                            "id_str": "1925257811556278275",
+                            "name": "MRJAGSTER",
+                            "screen_name": "JAG1575100"
+                        },
+                        {
+                            "id_str": "1851914411310505985",
+                            "name": "lijareturnz 🇺🇸",
+                            "screen_name": "lijareturnz"
+                        },
+                        {
+                            "id_str": "880227624475402240",
+                            "name": "Baz🪄🍉 Radical Honey Monster™~3.5%🗿🏳️‍🌈🇪🇺",
+                            "screen_name": "basil_ireton"
+                        },
+                        {
+                            "id_str": "861280751115018241",
+                            "name": "❌Michael Rutter❌ QFD banned",
+                            "screen_name": "RAM0667"
+                        },
+                        {
+                            "id_str": "1796974220640919554",
+                            "name": "Gudjulaseamless",
+                            "screen_name": "Gudjulaseamless"
+                        },
+                        {
+                            "id_str": "725189192003805185",
+                            "name": "The Gnome 💙💛",
+                            "screen_name": "42Gnome"
+                        },
+                        {
+                            "id_str": "1891237656321044480",
+                            "name": "chuck Mcsparky",
+                            "screen_name": "nikkisixx12266"
+                        },
+                        {
+                            "id_str": "1564833006694440960",
+                            "name": "Guy M. Courtney",
+                            "screen_name": "gdoughdoc2"
+                        },
+                        {
+                            "id_str": "1905353123658338304",
+                            "name": "Clarity 🕊️",
+                            "screen_name": "Clarity_Esper"
+                        },
+                        {
+                            "id_str": "1973635867643355139",
+                            "name": "Tule Rain",
+                            "screen_name": "TuleRain"
+                        },
+                        {
+                            "id_str": "1756391444187586561",
+                            "name": "Gojira",
+                            "screen_name": "GojiraStompz"
+                        },
+                        {
+                            "id_str": "2904460977",
+                            "name": "🇺🇸 Vin 🇺🇸",
+                            "screen_name": "VinceGottalotta"
+                        },
+                        {
+                            "id_str": "1325456456",
+                            "name": "Jason $2",
+                            "screen_name": "Jasontwodollars"
+                        },
+                        {
+                            "id_str": "1636027846031208451",
+                            "name": "ΜΟΛΩΝ ΛΑΒΕ",
+                            "screen_name": "Bruh888888888"
+                        },
+                        {
+                            "id_str": "1114225480071299072",
+                            "name": "🇺🇸🇺🇸🇺🇸🇮🇪Mike Doonslayer🇺🇸🇺🇸🇺🇸🇮🇪",
+                            "screen_name": "doonslayer"
+                        },
+                        {
+                            "id_str": "1041204120",
+                            "name": "Larry T🌊🌊🇺🇸",
+                            "screen_name": "odktiger"
+                        },
+                        {
+                            "id_str": "1776875716358889472",
+                            "name": "Missouri Madman",
+                            "screen_name": "Not_Jack_2024"
+                        },
+                        {
+                            "id_str": "1970673035750580225",
+                            "name": "Scarlett Bassett",
+                            "screen_name": "ScarlettKBasset"
+                        },
+                        {
+                            "id_str": "23912681",
+                            "name": "Pete woodward",
+                            "screen_name": "Pete_Woodward"
+                        },
+                        {
+                            "id_str": "1301639726378684416",
+                            "name": "Devin Cow's Brown Cousin",
+                            "screen_name": "cow_cousin"
+                        },
+                        {
+                            "id_str": "1529955375230820352",
+                            "name": "Doctor Thomas Sowell fan",
+                            "screen_name": "proundpapaof3"
+                        },
+                        {
+                            "id_str": "732768811",
+                            "name": "Kel Varnsen 🇺🇸 🦅🌮🌮🌮",
+                            "screen_name": "_Kel_Varnsen_"
+                        },
+                        {
+                            "id_str": "1811980964706537472",
+                            "name": "Deplorable Bubba",
+                            "screen_name": "1eyedwilly56"
+                        },
+                        {
+                            "id_str": "1934393315002318848",
+                            "name": "Paige D'Winter",
+                            "screen_name": "SquidMang0"
+                        },
+                        {
+                            "id_str": "1958931661149667328",
+                            "name": "Colin Roberts",
+                            "screen_name": "ColinRoberts843"
+                        },
+                        {
+                            "id_str": "2436369728",
+                            "name": "Larry",
+                            "screen_name": "2457klhu"
+                        },
+                        {
+                            "id_str": "952226948",
+                            "name": "rollo tomasi",
+                            "screen_name": "rolo_tomase"
+                        },
+                        {
+                            "id_str": "1586198888221810688",
+                            "name": "Bubba the 17th",
+                            "screen_name": "crashbus67"
+                        },
+                        {
+                            "id_str": "1873220105703677952",
+                            "name": "MotherFNamericA",
+                            "screen_name": "MotherFNAmericA"
+                        },
+                        {
+                            "id_str": "1587877397893988357",
+                            "name": "Sup Broskis! Gimme a brewski!",
+                            "screen_name": "lulzyalldumbAF"
+                        },
+                        {
+                            "id_str": "1480980613",
+                            "name": "Krensharpaw",
+                            "screen_name": "Krensharpaw"
+                        },
+                        {
+                            "id_str": "1658544339574743044",
+                            "name": "SXRATCH",
+                            "screen_name": "skratch_karma"
+                        },
+                        {
+                            "id_str": "547677853",
+                            "name": "mightymousecutie425 ☺️",
+                            "screen_name": "Nicoleg425"
+                        },
+                        {
+                            "id_str": "1338962016388706309",
+                            "name": "Dog The Treat Hunter 🦴🐇",
+                            "screen_name": "TreatHunterDog"
+                        },
+                        {
+                            "id_str": "1834587279962058752",
+                            "name": "Angry Mema's ghost",
+                            "screen_name": "AngryMemasGhost"
+                        },
+                        {
+                            "id_str": "87503460",
+                            "name": "⚫️⚪️ The Comfort Stick™️",
+                            "screen_name": "FixinYourUglies"
+                        },
+                        {
+                            "id_str": "28391425",
+                            "name": "Ana Braga🇧🇷🇲🇽🇨🇦",
+                            "screen_name": "TheAnaBraga"
+                        },
+                        {
+                            "id_str": "1694251870854713344",
+                            "name": "Commander Of Cheese",
+                            "screen_name": "FromageDuTrump"
+                        }
+                    ]
+                },
+                "favorite_count": 2,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1513958941536886787",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1513958941536886787",
+                    "id_str": "1513958941536886787",
+                    "created_at": "Tue Apr 12 19:15:41 +0000 2022",
+                    "name": "Missy",
+                    "screen_name": "Missy8008135",
+                    "url": null,
+                    "description": "Not the nicest Canadian. Running for Prime Minister of Canada. Team Normal. #WomenAgainstPoilievre",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [
+                                "WomenAgainstPoilievre"
+                            ],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 90194,
+                    "followers_count": 1365,
+                    "friends_count": 1510,
+                    "media_count": 5454,
+                    "normal_followers_count": 1365,
+                    "pinned_tweet_ids_str": [
+                        "1583606311388078080"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513958941536886787/1649861839",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1798452785685389312/CO0pHUNt_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 159312,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1989000715499405674",
+                "in_reply_to_screen_name": "aurvandill19999",
+                "in_reply_to_user_id_str": "1951641959959003136"
+            }
+        },
+        {
+            "entryId": "tweet-1989000861205360761",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1989000861205360761",
+                "retweeted_status_result": null,
+                "url": "https://x.com/sootydupre/status/1989000861205360761",
+                "view_count": null,
+                "conversation_id_str": "1989000861205360761",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 16:02:13 +0000 2025",
+                "full_text": "▬ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x624;د 9BxH خ&amp;#x635;م ZgJP ا&amp;#x64A;هرب▬ايه&amp;#x64A;رب zKkO1 \n▬ك&amp;#x624;ب&amp;#x624;ن oOYM2 ك&amp;#x648;د I7XD خ&amp;#x635;م Kqq5q ن&amp;#x648;ن▬\n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "155267983",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "155267983",
+                    "id_str": "155267983",
+                    "created_at": "Sun Jun 13 17:00:18 +0000 2010",
+                    "name": "Sadie Collins",
+                    "screen_name": "sootydupre",
+                    "url": "https://t.co/qAnbvlDJvQ",
+                    "description": "Yo everyone! This is a passionate digital creator passionate about Data Science. Always learning ✨",
+                    "location": "Little Rock",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/qAnbvlDJvQ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2342,
+                    "followers_count": 118,
+                    "friends_count": 227,
+                    "media_count": 17,
+                    "normal_followers_count": 118,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155267983/1761574335",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982812241473789952/omJfhuE9_normal.png",
+                    "protected": false,
+                    "statuses_count": 21547,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1988999990249976133",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1988999990249976133",
+                "retweeted_status_result": null,
+                "url": "https://x.com/sootydupre/status/1988999990249976133",
+                "view_count": null,
+                "conversation_id_str": "1988999990249976133",
+                "bookmark_count": 0,
+                "created_at": "Thu Nov 13 15:58:46 +0000 2025",
+                "full_text": "LgcI ك&amp;#x624;ب&amp;#x624;ن▬ك&amp;#x624;د▬خ&amp;#x635;م RvJh0 ا&amp;#x64A;هرب BGjE4 ايه&amp;#x64A;رب y7jH \n Gl7vt ك&amp;#x624;ب&amp;#x624;ن 7UPb9 ك&amp;#x648;د gBv8y خ&amp;#x635;م 92sOA ن&amp;#x648;ن FlnR1 \n\n⎐ٺوٺ⎐\n⊵RRX4⊴\n\n⎐ابهررب⎐\n⊵CNU3074⊴",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "155267983",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "155267983",
+                    "id_str": "155267983",
+                    "created_at": "Sun Jun 13 17:00:18 +0000 2010",
+                    "name": "Sadie Collins",
+                    "screen_name": "sootydupre",
+                    "url": "https://t.co/qAnbvlDJvQ",
+                    "description": "Yo everyone! This is a passionate digital creator passionate about Data Science. Always learning ✨",
+                    "location": "Little Rock",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://www.google.com",
+                                    "display_url": "google.com",
+                                    "url": "https://t.co/qAnbvlDJvQ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 2342,
+                    "followers_count": 118,
+                    "friends_count": 227,
+                    "media_count": 17,
+                    "normal_followers_count": 118,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155267983/1761574335",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1982812241473789952/omJfhuE9_normal.png",
+                    "protected": false,
+                    "statuses_count": 21547,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        }
+    ],
+    "cursor_top": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHNXBkUGFTYnNWZ0tBQUlibWxqejlScnhSUUFJQUFJQUFBQUJDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJtbDF1bjhBbkVBb0FCaHVhWFc2ZnY5andBQUEiLCJfcXVlcnlJZCI6ImZhMjY4NmNlLTYzNzYtNGExMi05OThkLTA0ODA3NDVmZWQwZiJ9",
+    "cursor_bottom": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHNXBkUGFTYnNWZ0tBQUlibWxqejlScnhSUUFJQUFJQUFBQUNDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJtbDF1bjhBbkVBb0FCaHVhWFc2ZnY5andBQUEiLCJfcXVlcnlJZCI6ImZhMjY4NmNlLTYzNzYtNGExMi05OThkLTA0ODA3NDVmZWQwZiJ9"
+}

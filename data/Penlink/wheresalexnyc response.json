@@ -1,0 +1,2098 @@
+{
+  "tweets": [
+    {
+      "entryId": "tweet-1996277820985602127",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1996277820985602127",
+        "retweeted_status_result": null,
+        "url": "https://x.com/nycfactory/status/1996277820985602127",
+        "view_count": "3",
+        "conversation_id_str": "1996277820985602127",
+        "bookmark_count": 0,
+        "created_at": "Wed Dec 03 17:58:16 +0000 2025",
+        "full_text": "5 star review from Trevor Aeschliman: NYC has been nothing but amazing https://t.co/CUj1GzFapQ",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            "https://nycfactory.com"
+          ],
+          "info_urls": [
+            {
+              "shortened_url": "https://t.co/CUj1GzFapQ",
+              "expanded_url": "https://nycfactory.com",
+              "display_url": "nycfactory.com"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "20025784",
+        "possibly_sensitive": false,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "20025784",
+          "id_str": "20025784",
+          "created_at": "Wed Feb 04 03:42:45 +0000 2009",
+          "name": "nycfactory.com",
+          "screen_name": "nycfactory",
+          "url": "http://t.co/KD3IEZpgUI",
+          "description": "Website selling Official New York Apparel & Accessories. Buy great gifts or gear up with our products to show your love for the best city in the world!",
+          "location": "New York",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "http://nycfactory.com",
+                  "display_url": "nycfactory.com",
+                  "url": "http://t.co/KD3IEZpgUI"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 1040,
+          "followers_count": 251,
+          "friends_count": 749,
+          "media_count": 170,
+          "normal_followers_count": 251,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20025784/1402675055",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/477478647381508096/QzHmlrFQ_normal.jpeg",
+          "protected": false,
+          "statuses_count": 1099,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "tweet_card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=800x419",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=280x150",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "description",
+              "text": "Get unique NYC apparel, custom shirts & officially licensed tees! I ❤ NY, FDNY, NYPD + more. Free US shipping over $75. Family-owned, eco-friendly.",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "domain",
+              "text": "nycfactory.com",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=600x600",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_small",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=386x202",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_original",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=orig",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=386x202",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=800x419",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_small",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=144x144",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=2048x2048_2_exp",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=orig",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "vanity_url",
+              "text": "nycfactory.com",
+              "image_url": null,
+              "scribe_key": "vanity_url",
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=600x314",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_color",
+              "text": null,
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "title",
+              "text": "I Love NY Tees, FDNY & NYPD Official Apparel | NYC Factory Since 2008",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_color",
+              "text": null,
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=2048x2048_2_exp",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=600x314",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "text": null,
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=2048x2048_2_exp",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "card_url",
+              "text": "https://t.co/CUj1GzFapQ",
+              "image_url": null,
+              "scribe_key": "card_url",
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_original",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996277383419072513/2K1h4JK7?format=png&name=orig",
+              "scribe_key": null,
+              "user_id": null
+            }
+          ],
+          "user_refs_results": [],
+          "name": "summary_large_image",
+          "url": "https://t.co/CUj1GzFapQ"
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-1996210084511088823",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1996210084511088823",
+        "retweeted_status_result": null,
+        "url": "https://x.com/xyster1111/status/1996210084511088823",
+        "view_count": "13",
+        "conversation_id_str": "1996210084511088823",
+        "bookmark_count": 0,
+        "created_at": "Wed Dec 03 13:29:06 +0000 2025",
+        "full_text": "@macroaggressio3 \nSup Charlie.....👊👊\nNever be afraid to call it what it is.....\nNYC is a shithole city....\nTrash is EVERYWHERE HERE...\nI live in Long Island and bitch about it daily...",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1231634797530796032",
+              "name": "Macroaggressions Podcast with Charlie Robinson",
+              "screen_name": "macroaggressio3"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "463964554",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "463964554",
+          "id_str": "463964554",
+          "created_at": "Sat Jan 14 17:43:26 +0000 2012",
+          "name": "Joffo",
+          "screen_name": "xyster1111",
+          "url": null,
+          "description": "XYSTER   u.s....   Xysting metal since 86..\ndemos Overture of Death 87 and Religion of Nuclearism 87........this isnt over....",
+          "location": "",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 7053,
+          "followers_count": 561,
+          "friends_count": 1420,
+          "media_count": 331,
+          "normal_followers_count": 561,
+          "pinned_tweet_ids_str": [
+            "741213676888326144"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/463964554/1462827750",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/729778601445462016/EnJAPk49_normal.jpg",
+          "protected": false,
+          "statuses_count": 5197,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null,
+        "in_reply_to_screen_name": "macroaggressio3",
+        "in_reply_to_user_id_str": "1231634797530796032"
+      }
+    },
+    {
+      "entryId": "tweet-1996176198918119511",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1996176198918119511",
+        "retweeted_status_result": null,
+        "url": "https://x.com/DCreyke/status/1996176198918119511",
+        "view_count": "123",
+        "conversation_id_str": "1995959624881897959",
+        "bookmark_count": 0,
+        "created_at": "Wed Dec 03 11:14:27 +0000 2025",
+        "full_text": "@washghost1 Fuck living there is my takeaway from every New York City post.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "717847958432124929",
+              "name": "Washingtons ghost",
+              "screen_name": "washghost1"
+            }
+          ]
+        },
+        "favorite_count": 4,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "2157829222",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "2157829222",
+          "id_str": "2157829222",
+          "created_at": "Mon Oct 28 22:32:11 +0000 2013",
+          "name": "David Creyke",
+          "screen_name": "DCreyke",
+          "url": null,
+          "description": "Artist, collision repair painter, maker of cool short videos. DMV lifer. Motorcycle and pop/lock enthusiast, Dad,Veteran: 3rd ID 85-91",
+          "location": "Bethesda, MD",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 23502,
+          "followers_count": 1220,
+          "friends_count": 524,
+          "media_count": 3837,
+          "normal_followers_count": 1220,
+          "pinned_tweet_ids_str": [
+            "1995127492315631941"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2157829222/1758679102",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1993951777406726144/EMjlkEIu_normal.jpg",
+          "protected": false,
+          "statuses_count": 29491,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995959624881897959",
+        "in_reply_to_screen_name": "washghost1",
+        "in_reply_to_user_id_str": "717847958432124929"
+      }
+    },
+    {
+      "entryId": "tweet-1996047636588285979",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1996047636588285979",
+        "retweeted_status_result": null,
+        "url": "https://x.com/fx_poet/status/1996047636588285979",
+        "view_count": "8",
+        "conversation_id_str": "1996045622257086846",
+        "bookmark_count": 0,
+        "created_at": "Wed Dec 03 02:43:35 +0000 2025",
+        "full_text": "@salr_nyc indeed, I'm rarely in the city but would make a trip",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "363635837",
+              "name": "The Senior Risk Manager",
+              "screen_name": "salr_nyc"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "419996611",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "419996611",
+          "id_str": "419996611",
+          "created_at": "Thu Nov 24 02:09:23 +0000 2011",
+          "name": "Andy Fately",
+          "screen_name": "fx_poet",
+          "url": "https://t.co/xp3Mzpy9ui",
+          "description": "FX commentator and lyricist, Principal FXP Hedge Consulting (Hedge Better, Perform Better)",
+          "location": "",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "http://fxpoetry.com",
+                  "display_url": "fxpoetry.com",
+                  "url": "https://t.co/xp3Mzpy9ui"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 41863,
+          "followers_count": 1139,
+          "friends_count": 585,
+          "media_count": 94,
+          "normal_followers_count": 1139,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/419996611/1709057477",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442777427516723202/uvldXlkF_normal.jpg",
+          "protected": false,
+          "statuses_count": 9180,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1996047125226930268",
+        "in_reply_to_screen_name": "salr_nyc",
+        "in_reply_to_user_id_str": "363635837"
+      }
+    },
+    {
+      "entryId": "tweet-1996002231745745136",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1996002231745745136",
+        "retweeted_status_result": null,
+        "url": "https://x.com/meetsierralex/status/1996002231745745136",
+        "view_count": "11",
+        "conversation_id_str": "1995992855756640506",
+        "bookmark_count": 0,
+        "created_at": "Tue Dec 02 23:43:10 +0000 2025",
+        "full_text": "@covixhawk69 Eeee this is the reaction I was hoping for, from you especially!!",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1672644449929932800",
+              "name": "Brontobyte",
+              "screen_name": "covixhawk69"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1631007341377212423",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1631007341377212423",
+          "id_str": "1631007341377212423",
+          "created_at": "Wed Mar 01 19:04:15 +0000 2023",
+          "name": "Sierra Lex • PHL & NYC",
+          "screen_name": "meetsierralex",
+          "url": "https://t.co/gA0b58hNip",
+          "description": "Philadelphia’s Heart for Hire • 30 • 5’8” • Split Tongue • Independent • Cash App: $ierraLex",
+          "location": "Philadelphia | NYC | FMTY",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://www.sierralex.com",
+                  "display_url": "sierralex.com",
+                  "url": "https://t.co/gA0b58hNip"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [
+                "ierraLex"
+              ],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 3415,
+          "followers_count": 1830,
+          "friends_count": 395,
+          "media_count": 551,
+          "normal_followers_count": 1830,
+          "pinned_tweet_ids_str": [
+            "1989557470956507641"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1631007341377212423/1677700397",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1631007545631408129/w4ORNXII_normal.jpg",
+          "protected": false,
+          "statuses_count": 3681,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995994850924396860",
+        "in_reply_to_screen_name": "covixhawk69",
+        "in_reply_to_user_id_str": "1672644449929932800"
+      }
+    },
+    {
+      "entryId": "tweet-1995963125636780280",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995963125636780280",
+        "retweeted_status_result": null,
+        "url": "https://x.com/dAlto04646689/status/1995963125636780280",
+        "view_count": "34",
+        "conversation_id_str": "1995953784523292697",
+        "bookmark_count": 0,
+        "created_at": "Tue Dec 02 21:07:47 +0000 2025",
+        "full_text": "@mayemusk NYC is a shithole of crime. Why does she stay? What could possibly be worth putting up with it?",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "14171401",
+              "name": "Maye Musk",
+              "screen_name": "mayemusk"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1599167188858015746",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1599167188858015746",
+          "id_str": "1599167188858015746",
+          "created_at": "Sat Dec 03 22:22:51 +0000 2022",
+          "name": "d'Alto",
+          "screen_name": "dAlto04646689",
+          "url": null,
+          "description": "",
+          "location": "",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 8862,
+          "followers_count": 539,
+          "friends_count": 835,
+          "media_count": 133,
+          "normal_followers_count": 539,
+          "pinned_tweet_ids_str": [
+            "1939457071172452544"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599167188858015746/1671417504",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1604666712485466113/Yb_Out6A_normal.jpg",
+          "protected": false,
+          "statuses_count": 16269,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995953784523292697",
+        "in_reply_to_screen_name": "mayemusk",
+        "in_reply_to_user_id_str": "14171401"
+      }
+    },
+    {
+      "entryId": "tweet-1995888639231082983",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995888639231082983",
+        "retweeted_status_result": null,
+        "url": "https://x.com/slutylex/status/1995888639231082983",
+        "view_count": "1653",
+        "conversation_id_str": "1995888639231082983",
+        "bookmark_count": 1,
+        "created_at": "Tue Dec 02 16:11:48 +0000 2025",
+        "full_text": "NYC gotta have the most complicated men ever🧍🏽‍♂️when I was in SC I NEVER had an issue with guys sending face pic but here it’s like a back and forth &amp; a no &amp; then I hit with “NOT INTERESTED” cause I’m NOT changing MY RULES to appease you all.! No throat for you hoe bout that🤭",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 2,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "888771073994608642",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "888771073994608642",
+          "id_str": "888771073994608642",
+          "created_at": "Sat Jul 22 14:41:51 +0000 2017",
+          "name": "Slutylex👅",
+          "screen_name": "slutylex",
+          "url": "https://t.co/Y5ImK77eC5",
+          "description": "22 || 📲: 843-400-2617 || Insta: Alexhernan127 || Pics are REQUIRED for a response from me🤝",
+          "location": "New York, NY",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://linktr.ee/Alexxxis.6",
+                  "display_url": "linktr.ee/Alexxxis.6",
+                  "url": "https://t.co/Y5ImK77eC5"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 72953,
+          "followers_count": 35501,
+          "friends_count": 354,
+          "media_count": 136,
+          "normal_followers_count": 35501,
+          "pinned_tweet_ids_str": [
+            "1992254675312382043"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/888771073994608642/1560665269",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1884783852591165440/giD8AC_t_normal.jpg",
+          "protected": false,
+          "statuses_count": 14827,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-1995847668053201252",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995847668053201252",
+        "retweeted_status_result": null,
+        "url": "https://x.com/SamanthaBXgirl/status/1995847668053201252",
+        "view_count": "10",
+        "conversation_id_str": "1995580881566880113",
+        "bookmark_count": 0,
+        "created_at": "Tue Dec 02 13:28:59 +0000 2025",
+        "full_text": "@RepJeffries You rep NY, stay on your side of the Hudson",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "467823431",
+              "name": "Hakeem Jeffries",
+              "screen_name": "RepJeffries"
+            }
+          ]
+        },
+        "favorite_count": 2,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1762526740599959554",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1762526740599959554",
+          "id_str": "1762526740599959554",
+          "created_at": "Tue Feb 27 17:23:37 +0000 2024",
+          "name": "Samantha",
+          "screen_name": "SamanthaBXgirl",
+          "url": null,
+          "description": "Pronouns are part of grammar. Mean tweets are part of life. Humans are filthy & kids are sticky. Go wash your hands.\n\nBearer of Truth & sometimes enlightenment.",
+          "location": "NYC",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 22599,
+          "followers_count": 1102,
+          "friends_count": 727,
+          "media_count": 1835,
+          "normal_followers_count": 1102,
+          "pinned_tweet_ids_str": [
+            "1854885000132329971"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762526740599959554/1757858550",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762552702981005312/3mt4kFWb_normal.jpg",
+          "protected": false,
+          "statuses_count": 28601,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995580881566880113",
+        "in_reply_to_screen_name": "RepJeffries",
+        "in_reply_to_user_id_str": "467823431"
+      }
+    },
+    {
+      "entryId": "tweet-1995703327238271382",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995703327238271382",
+        "retweeted_status_result": null,
+        "url": "https://x.com/Quackseen/status/1995703327238271382",
+        "view_count": "19",
+        "conversation_id_str": "1992380322642600089",
+        "bookmark_count": 0,
+        "created_at": "Tue Dec 02 03:55:26 +0000 2025",
+        "full_text": "@TheFP NYC is a hellhole. Not worth the rents there.\nGlad I moved upstate, very far away.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1582466002113249282",
+              "name": "The Free Press",
+              "screen_name": "TheFP"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1169365357724872705",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1169365357724872705",
+          "id_str": "1169365357724872705",
+          "created_at": "Wed Sep 04 21:43:36 +0000 2019",
+          "name": "Noah",
+          "screen_name": "Quackseen",
+          "url": null,
+          "description": "Meteorologist. Scientist. Conservative. Anti-sheeple.",
+          "location": "Otsego Co. NY",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 17304,
+          "followers_count": 334,
+          "friends_count": 212,
+          "media_count": 1538,
+          "normal_followers_count": 334,
+          "pinned_tweet_ids_str": [
+            "1988242137247347175"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169365357724872705/1569454708",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1595661280064438272/fiqIQONJ_normal.jpg",
+          "protected": false,
+          "statuses_count": 20502,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1992380322642600089",
+        "in_reply_to_screen_name": "TheFP",
+        "in_reply_to_user_id_str": "1582466002113249282"
+      }
+    },
+    {
+      "entryId": "tweet-1995676488478392335",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995676488478392335",
+        "retweeted_status_result": null,
+        "url": "https://x.com/35Pzellador/status/1995676488478392335",
+        "view_count": "30",
+        "conversation_id_str": "1995522369784570271",
+        "bookmark_count": 0,
+        "created_at": "Tue Dec 02 02:08:47 +0000 2025",
+        "full_text": "@JalishaPaz I love NYC with all my heart and it’s my home, I legitimately think it’s an amazing place to live, buuuuut it smells BAD haha",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1599755376",
+              "name": "Jalisha Paz 🎹 songwriter & kaigai idol 💚🪽",
+              "screen_name": "JalishaPaz"
+            }
+          ]
+        },
+        "favorite_count": 2,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1686372717132496896",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1686372717132496896",
+          "id_str": "1686372717132496896",
+          "created_at": "Tue Aug 01 13:46:25 +0000 2023",
+          "name": "ZelladorPico🌸|👽🥒|🐏|🔮💢|🐕⛩️🌺|🌼🐤|💀",
+          "screen_name": "35Pzellador",
+          "url": null,
+          "description": "NYC 35P, PiaPickle, Watamate, Dead Beat, Lamia Imp, and Corgster of the Corgi Crew. I guess you can call me a 35PP 🩷💚. Member of「」 (uchishi-in-training).",
+          "location": "New York, NY",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 32609,
+          "followers_count": 728,
+          "friends_count": 1082,
+          "media_count": 3062,
+          "normal_followers_count": 728,
+          "pinned_tweet_ids_str": [
+            "1827906373864071371"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686372717132496896/1752362771",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1952957375649918977/4Shard6R_normal.jpg",
+          "protected": false,
+          "statuses_count": 14136,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995571873586061394",
+        "in_reply_to_screen_name": "JalishaPaz",
+        "in_reply_to_user_id_str": "1599755376"
+      }
+    },
+    {
+      "entryId": "tweet-1995562998270758931",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995562998270758931",
+        "retweeted_status_result": null,
+        "url": "https://x.com/refestramus/status/1995562998270758931",
+        "view_count": "81",
+        "conversation_id_str": "1995562998270758931",
+        "bookmark_count": 0,
+        "created_at": "Mon Dec 01 18:37:49 +0000 2025",
+        "full_text": "Hell or NYC? might sounds like a bad yelp review about New York City… but it’s more of a bad yelp review about corporate life and burn out culture. \n\nOr we just have a love hate relationship with the beautiful but scary city 😝 \n\n#progressiverock #indie… https://t.co/OFW7ohYS4d",
+        "entities": {
+          "hashtags": [
+            "progressiverock",
+            "indie"
+          ],
+          "symbols": [],
+          "urls": [
+            "https://instagr.am/p/DRuyihuktwK/"
+          ],
+          "info_urls": [
+            {
+              "shortened_url": "https://t.co/OFW7ohYS4d",
+              "expanded_url": "https://instagr.am/p/DRuyihuktwK/",
+              "display_url": "instagr.am/p/DRuyihuktwK/"
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1466880223136333829",
+        "possibly_sensitive": false,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1466880223136333829",
+          "id_str": "1466880223136333829",
+          "created_at": "Fri Dec 03 21:21:39 +0000 2021",
+          "name": "Refestramus",
+          "screen_name": "refestramus",
+          "url": "https://t.co/VUFi6Rkd1v",
+          "description": "Progressive hard rock band from Chicago, IL. Their debut album combines influences from traditional gypsy, flamenco and Slavic styles with modern #progrock",
+          "location": "Chicago, IL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://refestramus.bandcamp.com/",
+                  "display_url": "refestramus.bandcamp.com",
+                  "url": "https://t.co/VUFi6Rkd1v"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [
+                "progrock"
+              ],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 2904,
+          "followers_count": 6125,
+          "friends_count": 4341,
+          "media_count": 291,
+          "normal_followers_count": 6125,
+          "pinned_tweet_ids_str": [
+            "1855275956346204588"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1466880223136333829/1720488457",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1723395464937021440/1cYzjF8J_normal.jpg",
+          "protected": false,
+          "statuses_count": 1449,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "tweet_card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=386x202",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=280x280",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "domain",
+              "text": "www.instagram.com",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=600x600",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_small",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=800x419",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_original",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=orig",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "site",
+              "text": null,
+              "image_url": null,
+              "scribe_key": "publisher_id",
+              "user_id": "180505807"
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=800x419",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=386x202",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_small",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=144x144",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=png&name=2048x2048_2_exp",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=orig",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "vanity_url",
+              "text": "instagram.com",
+              "image_url": null,
+              "scribe_key": "vanity_url",
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=386x202",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "thumbnail_image_color",
+              "text": null,
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "title",
+              "text": "Refestramus (@refestramus) • Instagram reel",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_color",
+              "text": null,
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=png&name=2048x2048_2_exp",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=386x202",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "text": null,
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=png&name=2048x2048_2_exp",
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "card_url",
+              "text": "https://t.co/OFW7ohYS4d",
+              "image_url": null,
+              "scribe_key": "card_url",
+              "user_id": null
+            },
+            {
+              "key": "summary_photo_image_original",
+              "text": null,
+              "image_url": "https://pbs.twimg.com/card_img/1996319849581023232/tGTHYhMm?format=jpg&name=orig",
+              "scribe_key": null,
+              "user_id": null
+            }
+          ],
+          "user_refs_results": [
+            {
+              "__typename": "User",
+              "legacy": {
+                "id_str": "180505807",
+                "screen_name": "instagram",
+                "name": "Instagram",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1526231349354303489/3Bg-2ZsT_normal.jpg",
+                "verified": false,
+                "protected": false
+              }
+            }
+          ],
+          "name": "summary_large_image",
+          "url": "https://t.co/OFW7ohYS4d"
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-1995524913021546559",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995524913021546559",
+        "retweeted_status_result": null,
+        "url": "https://x.com/luxerubbish/status/1995524913021546559",
+        "view_count": "52",
+        "conversation_id_str": "1995524913021546559",
+        "bookmark_count": 0,
+        "created_at": "Mon Dec 01 16:06:28 +0000 2025",
+        "full_text": "Objectively funny thing to respond to the *New York* post https://t.co/ihLWXE6kkb",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 3,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "51857537",
+        "possibly_sensitive": false,
+        "extended_entities": {
+          "media": [
+            {
+              "additional_media_info": {},
+              "expanded_url": "https://x.com/luxerubbish/status/1995524913021546559/photo/1",
+              "id_str": "1995524910039363585",
+              "media_url_https": "https://pbs.twimg.com/media/G7GHVTtW8AEm8WJ.jpg",
+              "original_info": {
+                "width": 942,
+                "height": 2048
+              },
+              "type": "photo",
+              "url": "https://t.co/ihLWXE6kkb"
+            }
+          ]
+        },
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "51857537",
+          "id_str": "51857537",
+          "created_at": "Sun Jun 28 21:57:05 +0000 2009",
+          "name": "STEVIE NIX 👻",
+          "screen_name": "luxerubbish",
+          "url": "https://t.co/xlyBMGuBvw",
+          "description": "senior commerce editor @purewow. she/her. find me in @guestofaguest @VICE @137pm @tastingtable & more; co-founder @plastercocktail zine; 🌹",
+          "location": "new yawk city, born & bred",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://instagram.com/luxerubbish",
+                  "display_url": "instagram.com/luxerubbish",
+                  "url": "https://t.co/xlyBMGuBvw"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "purewow"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "guestofaguest"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "VICE"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "137pm"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "tastingtable"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "plastercocktail"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 74596,
+          "followers_count": 1652,
+          "friends_count": 2378,
+          "media_count": 3363,
+          "normal_followers_count": 1652,
+          "pinned_tweet_ids_str": [
+            "1083289606018269184"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/51857537/1627083193",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1466624630442053633/HySXCh5M_normal.jpg",
+          "protected": false,
+          "statuses_count": 44061,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-1995290772439187672",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995290772439187672",
+        "retweeted_status_result": null,
+        "url": "https://x.com/HapaGirl_77/status/1995290772439187672",
+        "view_count": "6",
+        "conversation_id_str": "1994917286160077004",
+        "bookmark_count": 0,
+        "created_at": "Mon Dec 01 00:36:05 +0000 2025",
+        "full_text": "@SalazarSenate NYC is such a dump. For those that enjoy it, great. My days of visiting there are over. I'll only miss Ellen's Stardust Diner.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "981309087764934661",
+              "name": "NYS Senator Julia Salazar",
+              "screen_name": "SalazarSenate"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1784287576310087680",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1784287576310087680",
+          "id_str": "1784287576310087680",
+          "created_at": "Sat Apr 27 18:25:10 +0000 2024",
+          "name": "HapaGirl77",
+          "screen_name": "HapaGirl_77",
+          "url": null,
+          "description": "",
+          "location": "",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 10696,
+          "followers_count": 279,
+          "friends_count": 287,
+          "media_count": 679,
+          "normal_followers_count": 279,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784287576310087680/1716962162",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1868537632655028224/V9dOLXx6_normal.jpg",
+          "protected": false,
+          "statuses_count": 2672,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1994917286160077004",
+        "in_reply_to_screen_name": "SalazarSenate",
+        "in_reply_to_user_id_str": "981309087764934661"
+      }
+    },
+    {
+      "entryId": "tweet-1995265135422697724",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995265135422697724",
+        "retweeted_status_result": null,
+        "url": "https://x.com/jissell_espinal/status/1995265135422697724",
+        "view_count": "253",
+        "conversation_id_str": "1995265135422697724",
+        "bookmark_count": 0,
+        "created_at": "Sun Nov 30 22:54:13 +0000 2025",
+        "full_text": "You disrespect another human’ privacy. \n\nWe, NewYorkers, don’t give a Fu€k about those personal religious practices. Obviously you do; So get out of NY!!!",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 0,
+        "is_quote_status": true,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "40285018",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "40285018",
+          "id_str": "40285018",
+          "created_at": "Fri May 15 17:15:37 +0000 2009",
+          "name": "Callmehuman",
+          "screen_name": "jissell_espinal",
+          "url": "https://t.co/tYWopKKKbC",
+          "description": "Humana imperfecta, Aprendiz. Entusiasmada con la vida. Eternamente enamorada del conocimiento",
+          "location": "",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://www.elcaribe.com.do/autor/jissellespinal/",
+                  "display_url": "elcaribe.com.do/autor/jisselle…",
+                  "url": "https://t.co/tYWopKKKbC"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 209195,
+          "followers_count": 22687,
+          "friends_count": 13452,
+          "media_count": 9952,
+          "normal_followers_count": 22687,
+          "pinned_tweet_ids_str": [
+            "1996346289664201068"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/40285018/1764692236",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1995889968632262658/ghmOXS5x_normal.jpg",
+          "protected": false,
+          "statuses_count": 100477,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {
+          "result": {
+            "__typename": "Tweet",
+            "rest_id": "1994563086049784197",
+            "retweeted_status_result": null,
+            "url": "https://x.com/Betar_USA/status/1994563086049784197",
+            "view_count": "1354758",
+            "conversation_id_str": "1994563086049784197",
+            "bookmark_count": 163,
+            "created_at": "Sat Nov 29 00:24:31 +0000 2025",
+            "full_text": "Penn station, nyc https://t.co/PWtVALd0BV",
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            },
+            "favorite_count": 350,
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 197,
+            "reply_count": 989,
+            "retweet_count": 45,
+            "retweeted": false,
+            "user_id_str": "1834678653470621696",
+            "possibly_sensitive": false,
+            "extended_entities": {
+              "media": [
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/Betar_USA/status/1994563086049784197/video/1",
+                  "id_str": "1994563025722822656",
+                  "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1994563025722822656/img/qd621AH5Hp-a1HtF.jpg",
+                  "original_info": {
+                    "width": 576,
+                    "height": 1024
+                  },
+                  "type": "video",
+                  "url": "https://t.co/PWtVALd0BV",
+                  "video_info": {
+                    "duration_millis": 20000,
+                    "variants": [
+                      {
+                        "url": "https://video.twimg.com/amplify_video/1994563025722822656/pl/jtuy9WD-iWtXlcQu.m3u8?v=cfc",
+                        "content_type": "application/x-mpegURL"
+                      },
+                      {
+                        "url": "https://video.twimg.com/amplify_video/1994563025722822656/vid/avc1/320x568/D1iJpdRFNjXAgY7J.mp4",
+                        "content_type": "video/mp4"
+                      },
+                      {
+                        "url": "https://video.twimg.com/amplify_video/1994563025722822656/vid/avc1/480x852/b7ZgBKg7ZaU-dQtN.mp4",
+                        "content_type": "video/mp4"
+                      },
+                      {
+                        "url": "https://video.twimg.com/amplify_video/1994563025722822656/vid/avc1/576x1024/GJThCcbDPygQEltm.mp4",
+                        "content_type": "video/mp4"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "user_details": {
+              "__typename": "User",
+              "rest_id": "1834678653470621696",
+              "id_str": "1834678653470621696",
+              "created_at": "Fri Sep 13 19:40:59 +0000 2024",
+              "name": "Betar Worldwide",
+              "screen_name": "Betar_USA",
+              "url": "https://t.co/xVly9yQuTK",
+              "description": "Betar Zionist activist movement of Zeev Jabotinsky, founded in 1923. Proud fierce Zionists. Based in Israel, Chapters worldwide.",
+              "location": "Israel",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "expanded_url": "http://www.betar.org",
+                      "display_url": "betar.org",
+                      "url": "https://t.co/xVly9yQuTK"
+                    }
+                  ]
+                },
+                "description": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "info_urls": [],
+                  "user_mentions": []
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 5298,
+              "followers_count": 34544,
+              "friends_count": 1144,
+              "media_count": 10153,
+              "normal_followers_count": 34544,
+              "pinned_tweet_ids_str": [
+                "1886058212220076450"
+              ],
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834678653470621696/1732112173",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1916581689444155392/NuwtScI0_normal.jpg",
+              "protected": false,
+              "statuses_count": 28697,
+              "verified": true,
+              "withheld_in_countries": [],
+              "verified_type": "Blue",
+              "is_blue_verified": true,
+              "affiliates_highlighted_label": {},
+              "super_followed_by": false,
+              "super_following": false,
+              "private_super_following": false,
+              "exclusive_tweet_following": false
+            },
+            "quoted_status_result": {},
+            "is_retweet": false,
+            "is_reply": false,
+            "community_note": null
+          }
+        },
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-1995256685305213104",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995256685305213104",
+        "retweeted_status_result": null,
+        "url": "https://x.com/BobSmith94123/status/1995256685305213104",
+        "view_count": "240",
+        "conversation_id_str": "1995235882253623398",
+        "bookmark_count": 0,
+        "created_at": "Sun Nov 30 22:20:38 +0000 2025",
+        "full_text": "@nypost You’re getting fleeced on every item and/or service you purchase in NYC",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "17469289",
+              "name": "New York Post",
+              "screen_name": "nypost"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1823453134372438016",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1823453134372438016",
+          "id_str": "1823453134372438016",
+          "created_at": "Tue Aug 13 20:15:02 +0000 2024",
+          "name": "Bob Smith",
+          "screen_name": "BobSmith94123",
+          "url": null,
+          "description": "Hands up, don’t Trayvon DMs=BLOCK!!!",
+          "location": "Yet another blue place",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 5545,
+          "followers_count": 450,
+          "friends_count": 1548,
+          "media_count": 599,
+          "normal_followers_count": 450,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823453134372438016/1744480752",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1836470919461588992/IEyBOIkS_normal.jpg",
+          "protected": false,
+          "statuses_count": 12260,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995235882253623398",
+        "in_reply_to_screen_name": "nypost",
+        "in_reply_to_user_id_str": "17469289"
+      }
+    },
+    {
+      "entryId": "tweet-1995136358915117189",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1995136358915117189",
+        "retweeted_status_result": null,
+        "url": "https://x.com/FrotKing347/status/1995136358915117189",
+        "view_count": "25",
+        "conversation_id_str": "1995135455399235894",
+        "bookmark_count": 0,
+        "created_at": "Sun Nov 30 14:22:30 +0000 2025",
+        "full_text": "@Isleof_Pisces Only if it comes from a good place I can take constructive criticism",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1257094750026555392",
+              "name": "Horn Knee",
+              "screen_name": "Isleof_Pisces"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1504982547977097221",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1504982547977097221",
+          "id_str": "1504982547977097221",
+          "created_at": "Sat Mar 19 00:46:35 +0000 2022",
+          "name": "NYCFrottage",
+          "screen_name": "FrotKing347",
+          "url": null,
+          "description": "Keeping the art of B8 & Frot Alive….#Frottable#side#bator",
+          "location": "Queens, NY",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 91963,
+          "followers_count": 26550,
+          "friends_count": 19721,
+          "media_count": 1318,
+          "normal_followers_count": 26550,
+          "pinned_tweet_ids_str": [
+            "1962706113419170215"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504982547977097221/1735627226",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1873982482254622720/mzJQmNeq_normal.jpg",
+          "protected": false,
+          "statuses_count": 34779,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1995136027275509787",
+        "in_reply_to_screen_name": "Isleof_Pisces",
+        "in_reply_to_user_id_str": "1257094750026555392"
+      }
+    },
+    {
+      "entryId": "tweet-1994935532112286094",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1994935532112286094",
+        "retweeted_status_result": null,
+        "url": "https://x.com/Sugarsnapthese/status/1994935532112286094",
+        "view_count": "9",
+        "conversation_id_str": "1994825931387711959",
+        "bookmark_count": 0,
+        "created_at": "Sun Nov 30 01:04:29 +0000 2025",
+        "full_text": "@DianaforQueens New York is a cesspool. Everyone needs to be removed.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1939826295652892672",
+              "name": "Diana Moreno",
+              "screen_name": "DianaforQueens"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1855804433424113664",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1855804433424113664",
+          "id_str": "1855804433424113664",
+          "created_at": "Mon Nov 11 02:47:42 +0000 2024",
+          "name": "Sugarsnap1",
+          "screen_name": "Sugarsnapthese",
+          "url": null,
+          "description": "🇺🇲 More Proud to be Bigger Better MAGA. I Stand With Patriots And Trump! I Do Not Reply To DMs.",
+          "location": "Tennessee, USA",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 35600,
+          "followers_count": 2836,
+          "friends_count": 3098,
+          "media_count": 104,
+          "normal_followers_count": 2836,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": null,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1963815978875183104/MES_q6mX_normal.jpg",
+          "protected": false,
+          "statuses_count": 6762,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1994825931387711959",
+        "in_reply_to_screen_name": "DianaforQueens",
+        "in_reply_to_user_id_str": "1939826295652892672"
+      }
+    },
+    {
+      "entryId": "tweet-1994424659517775934",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1994424659517775934",
+        "retweeted_status_result": null,
+        "url": "https://x.com/Twinky019187133/status/1994424659517775934",
+        "view_count": "15",
+        "conversation_id_str": "1994259133885723055",
+        "bookmark_count": 0,
+        "created_at": "Fri Nov 28 15:14:28 +0000 2025",
+        "full_text": "@laralogan YP IS NYC 💩🤡💩🤡💩🤡💩🤡💩🤡💩👊💀💀💀💀💀💀💀💀💀💀💀💀💀\n\nCONSIDER THE SOURCE. 💩🤡💀",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1098091506886471680",
+              "name": "Lara Logan",
+              "screen_name": "laralogan"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "retweeted": false,
+        "user_id_str": "1706441713533747200",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1706441713533747200",
+          "id_str": "1706441713533747200",
+          "created_at": "Mon Sep 25 22:53:15 +0000 2023",
+          "name": "Twinky019",
+          "screen_name": "Twinky019187133",
+          "url": null,
+          "description": "",
+          "location": "Texas",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 54812,
+          "followers_count": 5069,
+          "friends_count": 3749,
+          "media_count": 2139,
+          "normal_followers_count": 5069,
+          "pinned_tweet_ids_str": [
+            "1969880388358078879"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706441713533747200/1745867747",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1870480005601308672/TNTFczpW_normal.jpg",
+          "protected": false,
+          "statuses_count": 86310,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1994259133885723055",
+        "in_reply_to_screen_name": "laralogan",
+        "in_reply_to_user_id_str": "1098091506886471680"
+      }
+    }
+  ],
+  "cursor_top": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHN1NhWWNFYmdKb0tBQUlickpvNVZoZlJRZ0FJQUFJQUFBQUJDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJ0VDVGWjBBbkVBb0FCaHUxUGtWblA5andBQUEiLCJfcXVlcnlJZCI6IjAxOTkzYzI2LWM3NjEtNDA3OC05ZDYxLTlmMDAwNzZlMTI1NyJ9",
+  "cursor_bottom": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHN1NhWWNFYmdKb0tBQUlickpvNVZoZlJRZ0FJQUFJQUFBQUNDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJ0VDVGWjBBbkVBb0FCaHUxUGtWblA5andBQUEiLCJfcXVlcnlJZCI6IjAxOTkzYzI2LWM3NjEtNDA3OC05ZDYxLTlmMDAwNzZlMTI1NyJ9"
+}

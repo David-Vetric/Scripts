@@ -1,0 +1,711 @@
+{
+  "results": {
+    "featured": [],
+    "pinned": [],
+    "feed": [
+      {
+        "__typename": "Story",
+        "id": "UzpfSTEwMDA5MzA1NDcyNDgxMzpWSzoxMDM1MzYyMTk0MjQ4Njk=",
+        "post_id": "103536219424869",
+        "creation_time": 1761022333,
+        "message": null,
+        "message_entity_ranges": null,
+        "url": null,
+        "actors": [
+          {
+            "id": "100093054724813",
+            "name": "محمود طبيل",
+            "gender": "MALE",
+            "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/417446714_280709441707545_5561209758844370481_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx960x960&ctp=s120x120&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8NUB-jMeJtQQ7kNvwEV0is9&_nc_oc=Adlbm9PFjVCQmPXDWNT7PUP20Z1BqLhAm4PMb5FsaCZv5SfPMEM0SrPFvyf6c9XETp7ylItcc_EZAy-3sN5YYlHe&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfdXYv_0gPdEI96noMn78EYqAHGQqvZVNaEYokrjfSaCrg&oe=68FCFD24",
+            "is_verified": false,
+            "is_plus_actor": false,
+            "is_additional_profile_plus": false,
+            "url": "https://m.facebook.com/mhmwd.tbyl.2025/",
+            "__typename": "User"
+          }
+        ],
+        "collaborators": [],
+        "attachments": [
+          {
+            "title": "",
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.facebook.com/undefined/",
+            "instagram_user": null,
+            "owner": {},
+            "target": null,
+            "media": null,
+            "attachment_type": "OmittedStoryAttachment"
+          }
+        ],
+        "attached_story": null,
+        "privacy_scope": null,
+        "edit_history": 0,
+        "is_anonymous": false,
+        "explicit_place": null,
+        "implicit_place": null,
+        "to": null,
+        "album": null,
+        "with_tags": {
+          "nodes": []
+        },
+        "titleFromRenderLocation": "‎محمود طبيل‎",
+        "source_language": "English",
+        "sponsored_data": null,
+        "is_sponsored": false
+      },
+      {
+        "__typename": "Story",
+        "id": "UzpfSTEwMDA5MzA1NDcyNDgxMzo3MTYyMDI0MzgxNTgyNDE6NzE2MjAyNDM4MTU4MjQx",
+        "post_id": "716202438158241",
+        "creation_time": 1760461885,
+        "message": "لا حنين لمن لا يَحنْ \nولا رحمه لمن لا يستعمل الرحمه.",
+        "message_entity_ranges": [],
+        "url": "https://m.facebook.com/story.php?story_fbid=pfbid0m1SW94ikxJzYRS7xsWo1ufcfR9ABBv4bzdz7UR4942XqPYP6PWNT1ybQ9f9L4rsl&id=100093054724813",
+        "actors": [
+          {
+            "id": "100093054724813",
+            "name": "محمود طبيل",
+            "gender": "MALE",
+            "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/417446714_280709441707545_5561209758844370481_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx960x960&ctp=s120x120&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8NUB-jMeJtQQ7kNvwEV0is9&_nc_oc=Adlbm9PFjVCQmPXDWNT7PUP20Z1BqLhAm4PMb5FsaCZv5SfPMEM0SrPFvyf6c9XETp7ylItcc_EZAy-3sN5YYlHe&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfdXYv_0gPdEI96noMn78EYqAHGQqvZVNaEYokrjfSaCrg&oe=68FCFD24",
+            "is_verified": false,
+            "is_plus_actor": false,
+            "is_additional_profile_plus": false,
+            "url": "https://m.facebook.com/mhmwd.tbyl.2025/",
+            "__typename": "User"
+          }
+        ],
+        "collaborators": [],
+        "attachments": [],
+        "attached_story": null,
+        "privacy_scope": "Public",
+        "edit_history": 0,
+        "is_anonymous": false,
+        "explicit_place": null,
+        "implicit_place": null,
+        "to": null,
+        "album": null,
+        "with_tags": {
+          "nodes": []
+        },
+        "feedback": {
+          "thread_id": "ZmVlZGJhY2s6NzE2MjAyNDM4MTU4MjQx",
+          "legacy_api_post_id": "716202438158241",
+          "reaction_count": 11,
+          "comment_count": 3,
+          "total_count": 3,
+          "sub_comment_count": null,
+          "like_count": 10,
+          "share_count": 0,
+          "reactions": [
+            {
+              "reaction_count": 10,
+              "id": "1635855486666999"
+            },
+            {
+              "reaction_count": 1,
+              "id": "1678524932434102"
+            }
+          ]
+        },
+        "source_language": "Arabic",
+        "sponsored_data": null,
+        "is_sponsored": false
+      },
+      {
+        "__typename": "Story",
+        "id": "UzpfSTEwMDA5MzA1NDcyNDgxMzo3MTUzNDQ2NTQ5MTA2ODY6NzE1MzQ0NjU0OTEwNjg2",
+        "post_id": "715344654910686",
+        "creation_time": 1760371952,
+        "message": "عدد الأسرى لدى الاحتلال قبل الطوفان : 5200 أسير\nعدد الأسرى ما بعد الطوفان : 11,100 أسير\nما سيتم الافراج عنهم :\n2200 أسير ، و1700 ممن آسروا ما بعد 7 اكتوبر\n\nعدد من سيبقوا في السجون : 7200 أسير\n\nطوفان تحرير الأسرى وتبييض السجون ❤️",
+        "message_entity_ranges": [],
+        "url": "https://m.facebook.com/story.php?story_fbid=pfbid0gMhvcdNoQd7DVEjXEeCXFHuLg2j2WTzTJ6jVjQNrcPiEPH2DFfSste5kxmexKNWKl&id=100093054724813",
+        "actors": [
+          {
+            "id": "100093054724813",
+            "name": "محمود طبيل",
+            "gender": "MALE",
+            "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/417446714_280709441707545_5561209758844370481_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx960x960&ctp=s120x120&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8NUB-jMeJtQQ7kNvwEV0is9&_nc_oc=Adlbm9PFjVCQmPXDWNT7PUP20Z1BqLhAm4PMb5FsaCZv5SfPMEM0SrPFvyf6c9XETp7ylItcc_EZAy-3sN5YYlHe&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfdXYv_0gPdEI96noMn78EYqAHGQqvZVNaEYokrjfSaCrg&oe=68FCFD24",
+            "is_verified": false,
+            "is_plus_actor": false,
+            "is_additional_profile_plus": false,
+            "url": "https://m.facebook.com/mhmwd.tbyl.2025/",
+            "__typename": "User"
+          }
+        ],
+        "collaborators": [],
+        "attachments": [],
+        "attached_story": null,
+        "privacy_scope": "Public",
+        "edit_history": 0,
+        "is_anonymous": false,
+        "explicit_place": null,
+        "implicit_place": null,
+        "to": null,
+        "album": null,
+        "with_tags": {
+          "nodes": []
+        },
+        "feedback": {
+          "thread_id": "ZmVlZGJhY2s6NzE1MzQ0NjU0OTEwNjg2",
+          "legacy_api_post_id": "715344654910686",
+          "reaction_count": 13,
+          "comment_count": 5,
+          "total_count": 5,
+          "sub_comment_count": null,
+          "like_count": 10,
+          "share_count": 0,
+          "reactions": [
+            {
+              "reaction_count": 10,
+              "id": "1635855486666999"
+            },
+            {
+              "reaction_count": 2,
+              "id": "908563459236466"
+            },
+            {
+              "reaction_count": 1,
+              "id": "613557422527858"
+            }
+          ]
+        },
+        "source_language": "Arabic",
+        "sponsored_data": null,
+        "is_sponsored": false
+      },
+      {
+        "__typename": "Story",
+        "id": "UzpfSTEwMDA5MzA1NDcyNDgxMzo3MTUzMTQ4NzE1ODAzMzE6NzE1MzE0ODcxNTgwMzMx",
+        "post_id": "715314871580331",
+        "creation_time": 1760370226,
+        "message": "الله يهونها ويفك أسرك ي ابو العبد 💔😢 \nحسبنا الله ونعم الوكيل نسال الله الفرج القريب العاجل 🤲",
+        "message_entity_ranges": [],
+        "url": "https://m.facebook.com/story.php?story_fbid=pfbid023nWxvzG4FW3s1RJy5zXxTJxAfvaoAhPBW4xo6B8MjEBCN4vcVDr9u5bGaaFCen5gl&id=100093054724813",
+        "actors": [
+          {
+            "id": "100093054724813",
+            "name": "محمود طبيل",
+            "gender": "MALE",
+            "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/417446714_280709441707545_5561209758844370481_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx960x960&ctp=s120x120&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8NUB-jMeJtQQ7kNvwEV0is9&_nc_oc=Adlbm9PFjVCQmPXDWNT7PUP20Z1BqLhAm4PMb5FsaCZv5SfPMEM0SrPFvyf6c9XETp7ylItcc_EZAy-3sN5YYlHe&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfdXYv_0gPdEI96noMn78EYqAHGQqvZVNaEYokrjfSaCrg&oe=68FCFD24",
+            "is_verified": false,
+            "is_plus_actor": false,
+            "is_additional_profile_plus": false,
+            "url": "https://m.facebook.com/mhmwd.tbyl.2025/",
+            "__typename": "User"
+          }
+        ],
+        "collaborators": [],
+        "attachments": [
+          {
+            "id": "715314838247001",
+            "title": "",
+            "subtitle": null,
+            "description": {
+              "text": "الله يهونها ويفك أسرك ي ابو العبد 💔😢 \nحسبنا الله ونعم الوكيل نسال الله الفرج القريب العاجل 🤲",
+              "ranges": [],
+              "delight_ranges": [],
+              "image_ranges": []
+            },
+            "url": "https://m.facebook.com/photo.php?fbid=715314838247001&id=100093054724813&set=a.105152169263274",
+            "instagram_user": null,
+            "preview_image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/564191552_715314841580334_829484154630659414_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1J3qd3sL_TwQ7kNvwH9bZrU&_nc_oc=AdnnZFuci5VAifZmyO14fgn_Gj46bgo4mTPvmLiMKBGe45IwVTXxYsJdZwCQSeaLHUKmuPQreIih_ToedJ078H6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_Aff77U9Iik3fFanV7KytLMKsMvWBiq3e7EXHUVbw1Q9IMQ&oe=68FD16ED",
+            "videoUrl": null,
+            "owner": {
+              "id": "100093054724813",
+              "name": "محمود طبيل"
+            },
+            "target": {
+              "__typename": "Photo",
+              "strong_id__": "715314838247001",
+              "id": "715314838247001"
+            },
+            "media": {
+              "__typename": "Photo",
+              "id": "715314838247001",
+              "image": {
+                "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/564191552_715314841580334_829484154630659414_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1J3qd3sL_TwQ7kNvwH9bZrU&_nc_oc=AdnnZFuci5VAifZmyO14fgn_Gj46bgo4mTPvmLiMKBGe45IwVTXxYsJdZwCQSeaLHUKmuPQreIih_ToedJ078H6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_Aff77U9Iik3fFanV7KytLMKsMvWBiq3e7EXHUVbw1Q9IMQ&oe=68FD16ED",
+                "width": 960,
+                "height": 960
+              },
+              "imageHigh": {
+                "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/564191552_715314841580334_829484154630659414_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x1080&ctp=s1080x1080&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1J3qd3sL_TwQ7kNvwH9bZrU&_nc_oc=AdnnZFuci5VAifZmyO14fgn_Gj46bgo4mTPvmLiMKBGe45IwVTXxYsJdZwCQSeaLHUKmuPQreIih_ToedJ078H6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_Aff77U9Iik3fFanV7KytLMKsMvWBiq3e7EXHUVbw1Q9IMQ&oe=68FD16ED",
+                "width": 1080,
+                "height": 1080
+              },
+              "imageLow": {
+                "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/564191552_715314841580334_829484154630659414_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x1080&ctp=s380x380&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1J3qd3sL_TwQ7kNvwH9bZrU&_nc_oc=AdnnZFuci5VAifZmyO14fgn_Gj46bgo4mTPvmLiMKBGe45IwVTXxYsJdZwCQSeaLHUKmuPQreIih_ToedJ078H6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_Aff77U9Iik3fFanV7KytLMKsMvWBiq3e7EXHUVbw1Q9IMQ&oe=68FD16ED",
+                "width": 380,
+                "height": 380
+              },
+              "imageMedium": {
+                "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/564191552_715314841580334_829484154630659414_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x1080&ctp=s540x540&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1J3qd3sL_TwQ7kNvwH9bZrU&_nc_oc=AdnnZFuci5VAifZmyO14fgn_Gj46bgo4mTPvmLiMKBGe45IwVTXxYsJdZwCQSeaLHUKmuPQreIih_ToedJ078H6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_Aff77U9Iik3fFanV7KytLMKsMvWBiq3e7EXHUVbw1Q9IMQ&oe=68FD16ED",
+                "width": 540,
+                "height": 540
+              },
+              "playableUrlHdString": null,
+              "owner": {
+                "__typename": "User",
+                "strong_id__": "100093054724813",
+                "id": "100093054724813",
+                "name": "محمود طبيل"
+              },
+              "feedback": {
+                "id": "ZmVlZGJhY2s6NzE1MzE0ODcxNTgwMzMx",
+                "top_level_comments": {
+                  "count": 13
+                },
+                "likers": {
+                  "count": 16
+                },
+                "reshares": {
+                  "count": 1
+                },
+                "reactors": {
+                  "count": 22
+                }
+              },
+              "isFactChecked": false,
+              "was_live": false
+            },
+            "isFactChecked": false,
+            "feedback": {
+              "id": "ZmVlZGJhY2s6NzE1MzE0ODcxNTgwMzMx",
+              "top_level_comments": {
+                "count": 13
+              },
+              "likers": {
+                "count": 16
+              },
+              "reshares": {
+                "count": 1
+              },
+              "reactors": {
+                "count": 22
+              }
+            },
+            "was_live": false,
+            "attachment_type": "MediaAttachment"
+          }
+        ],
+        "attached_story": null,
+        "privacy_scope": "Public",
+        "edit_history": 2,
+        "is_anonymous": false,
+        "explicit_place": null,
+        "implicit_place": null,
+        "to": null,
+        "album": null,
+        "with_tags": {
+          "nodes": []
+        },
+        "feedback": {
+          "thread_id": "ZmVlZGJhY2s6NzE1MzE0ODcxNTgwMzMx",
+          "legacy_api_post_id": "715314871580331",
+          "reaction_count": 22,
+          "comment_count": 13,
+          "total_count": 13,
+          "sub_comment_count": null,
+          "like_count": 16,
+          "share_count": 1,
+          "reactions": [
+            {
+              "reaction_count": 16,
+              "id": "1635855486666999"
+            },
+            {
+              "reaction_count": 5,
+              "id": "908563459236466"
+            },
+            {
+              "reaction_count": 1,
+              "id": "613557422527858"
+            }
+          ]
+        },
+        "source_language": "Arabic",
+        "sponsored_data": null,
+        "is_sponsored": false
+      },
+      {
+        "__typename": "Story",
+        "id": "UzpfSTEwMDA5MzA1NDcyNDgxMzo3MTUzMDkzMDE1ODA4ODg6NzE1MzA5MzAxNTgwODg4",
+        "post_id": "715309301580888",
+        "creation_time": 1760369707,
+        "message": "الله يفك أسرك ابو العبد 💔",
+        "message_entity_ranges": [],
+        "url": "https://m.facebook.com/story.php?story_fbid=pfbid02SuQ71LtvmoMfBXeNuaDtCUouMYtrWSNziijdCLrUDirx5tMT3r3Cuh54AfH9NScCl&id=100093054724813",
+        "actors": [
+          {
+            "id": "100093054724813",
+            "name": "محمود طبيل",
+            "gender": "MALE",
+            "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/417446714_280709441707545_5561209758844370481_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx960x960&ctp=s120x120&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8NUB-jMeJtQQ7kNvwEV0is9&_nc_oc=Adlbm9PFjVCQmPXDWNT7PUP20Z1BqLhAm4PMb5FsaCZv5SfPMEM0SrPFvyf6c9XETp7ylItcc_EZAy-3sN5YYlHe&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfdXYv_0gPdEI96noMn78EYqAHGQqvZVNaEYokrjfSaCrg&oe=68FCFD24",
+            "is_verified": false,
+            "is_plus_actor": false,
+            "is_additional_profile_plus": false,
+            "url": "https://m.facebook.com/mhmwd.tbyl.2025/",
+            "__typename": "User"
+          }
+        ],
+        "collaborators": [],
+        "attachments": [],
+        "attached_story": {
+          "__typename": "Story",
+          "id": "UzpfSTEwMDAwMzkwMjU4NDA0MTo0NDg0ODczMjgxNjUyNzE0OjQ0ODQ4NzMyODE2NTI3MTQ=",
+          "post_id": "4484873281652714",
+          "creation_time": 1760354701,
+          "url": "https://m.facebook.com/story.php?story_fbid=pfbid0iRQCAkZnu86mEuwLyruV8KJ3CwfDi4NMa9mf3BUuhf1C1UQb4Lbe2qmYoUDzjnvxl&id=100003902584041",
+          "message": {
+            "text": "يوم ما تعرضنا للقصف وبترت يد ست الكل ام عمر واستشهدت اعز الناس اختي الحجة واصبت انا اصابة بليغة قالوا لي اللي زيك يا ابو عمر ممنوع يقول آه ، ويوم ما استشهد مهجة قلبي عمر كرروا نفس الجملة انت يا ابو عمر ممنوع تقول آه ، وبالفعل أنا ما بقول آه أبدا أبدا وتاريخي يشهد بذلك\nلكن اليوم لما شفت أبناء القيادات المعرصة واللي الها خطوط مع الاحتلال وفيهم كمان قيادات سواء من الجهاد او حماس بيخرجو من السجن وابن أخي الحبيب أحمد ما طلع بعد رحلة عذاب قلت آه والف آه وايقنت ان هذه التنظيمات غارقة في الوحل وما فيهم واحد محترم علشان هيك بكل ما اوتيت من عزم بقللهم\nتفو على اكبر قائد فيكم\nتفو عليكم حين تصبحون وحين تمسون وحين تسرقون ،،\nملعون شرفكم اذا عندكم شرف\n،\n،\n،\nربنا يفك أسرك يا عم وخلص",
+            "entity_ranges": []
+          },
+          "actors": [
+            {
+              "id": "100003902584041",
+              "name": "مروان طبيل",
+              "gender": "MALE",
+              "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/395434481_3804290909710958_8875667584418915822_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx953x960&ctp=s120x120&_nc_cat=109&ccb=1-7&_nc_sid=1d2534&_nc_ohc=Y19bcMQKjJ4Q7kNvwHR0PKX&_nc_oc=AdlQQgR1oQLt12GUWhV0f7FbmH035A3zqaDn9muDBWDfAYDZ7X9dZE2FjZplxROXWM-AewabgMMvRXntuRybYQZr&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfeB5L7hsElAWmDPjKwWxCn66TDFpA2LxoLkStZWx3CqSQ&oe=68FD1EE2",
+              "is_verified": false,
+              "is_plus_actor": true,
+              "is_additional_profile_plus": false,
+              "url": "https://m.facebook.com/mrwan.tbyl/",
+              "__typename": "User"
+            }
+          ],
+          "collaborators": [],
+          "attachments": [
+            {
+              "id": "4484872968319412",
+              "title": "",
+              "subtitle": null,
+              "description": {
+                "text": "يوم ما تعرضنا للقصف وبترت يد ست الكل ام عمر واستشهدت اعز الناس اختي الحجة واصبت انا اصابة بليغة قالوا لي اللي زيك يا ابو عمر ممنوع يقول آه ، ويوم ما استشهد مهجة قلبي عمر كرروا نفس الجملة انت يا ابو عمر ممنوع تقول آه ، وبالفعل أنا ما بقول آه أبدا أبدا وتاريخي يشهد بذلك\nلكن اليوم لما شفت أبناء القيادات المعرصة واللي الها خطوط مع الاحتلال وفيهم كمان قيادات سواء من الجهاد او حماس بيخرجو من السجن وابن أخي الحبيب أحمد ما طلع بعد رحلة عذاب قلت آه والف آه وايقنت ان هذه التنظيمات غارقة في الوحل وما فيهم واحد محترم علشان هيك بكل ما اوتيت من عزم بقللهم\nتفو على اكبر قائد فيكم\nتفو عليكم حين تصبحون وحين تمسون وحين تسرقون ،،\nملعون شرفكم اذا عندكم شرف\n،\n،\n،\nربنا يفك أسرك يا عم وخلص",
+                "ranges": [],
+                "delight_ranges": [],
+                "image_ranges": []
+              },
+              "url": "https://m.facebook.com/photo.php?fbid=4484872968319412&id=100003902584041&set=a.1359899970816743",
+              "instagram_user": null,
+              "preview_image": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/559437322_4484872971652745_6868919483691969798_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x2340&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qSw-ZM4Zte4Q7kNvwGSTcBG&_nc_oc=Adk66MtUlgJrD_avd5iekQzHzBxoeXdyVyOanpmczply6ukKBUXmZm5WASO7F25Qu9dQNJVt1n3SFgtmAZgazvd6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_AfcVr1fLzJ780Pc_zXZbsJxHyUGyDb8zV1D_a2Qrtd6QpQ&oe=68FD205F",
+              "videoUrl": null,
+              "owner": {
+                "id": "100003902584041",
+                "name": "مروان طبيل"
+              },
+              "target": {
+                "__typename": "Photo",
+                "strong_id__": "4484872968319412",
+                "id": "4484872968319412"
+              },
+              "media": {
+                "__typename": "Photo",
+                "id": "4484872968319412",
+                "image": {
+                  "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/559437322_4484872971652745_6868919483691969798_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x2340&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qSw-ZM4Zte4Q7kNvwGSTcBG&_nc_oc=Adk66MtUlgJrD_avd5iekQzHzBxoeXdyVyOanpmczply6ukKBUXmZm5WASO7F25Qu9dQNJVt1n3SFgtmAZgazvd6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_AfcVr1fLzJ780Pc_zXZbsJxHyUGyDb8zV1D_a2Qrtd6QpQ&oe=68FD205F",
+                  "width": 443,
+                  "height": 960
+                },
+                "imageHigh": {
+                  "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/559437322_4484872971652745_6868919483691969798_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x2340&ctp=p960x960&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qSw-ZM4Zte4Q7kNvwGSTcBG&_nc_oc=Adk66MtUlgJrD_avd5iekQzHzBxoeXdyVyOanpmczply6ukKBUXmZm5WASO7F25Qu9dQNJVt1n3SFgtmAZgazvd6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_AfcVr1fLzJ780Pc_zXZbsJxHyUGyDb8zV1D_a2Qrtd6QpQ&oe=68FD205F",
+                  "width": 960,
+                  "height": 2080
+                },
+                "imageLow": {
+                  "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/559437322_4484872971652745_6868919483691969798_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x2340&ctp=s810x810&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qSw-ZM4Zte4Q7kNvwGSTcBG&_nc_oc=Adk66MtUlgJrD_avd5iekQzHzBxoeXdyVyOanpmczply6ukKBUXmZm5WASO7F25Qu9dQNJVt1n3SFgtmAZgazvd6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_AfcVr1fLzJ780Pc_zXZbsJxHyUGyDb8zV1D_a2Qrtd6QpQ&oe=68FD205F",
+                  "width": 374,
+                  "height": 810
+                },
+                "imageMedium": {
+                  "uri": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/559437322_4484872971652745_6868919483691969798_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1080x2340&ctp=p540x540&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qSw-ZM4Zte4Q7kNvwGSTcBG&_nc_oc=Adk66MtUlgJrD_avd5iekQzHzBxoeXdyVyOanpmczply6ukKBUXmZm5WASO7F25Qu9dQNJVt1n3SFgtmAZgazvd6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&oh=00_AfcVr1fLzJ780Pc_zXZbsJxHyUGyDb8zV1D_a2Qrtd6QpQ&oe=68FD205F",
+                  "width": 540,
+                  "height": 1170
+                },
+                "playableUrlHdString": null,
+                "owner": {
+                  "__typename": "User",
+                  "strong_id__": "100003902584041",
+                  "id": "100003902584041",
+                  "name": "مروان طبيل"
+                },
+                "feedback": {
+                  "id": "ZmVlZGJhY2s6NDQ4NDg3MzI4MTY1MjcxNA==",
+                  "top_level_comments": {
+                    "count": 74
+                  },
+                  "likers": {
+                    "count": 90
+                  },
+                  "reshares": {
+                    "count": 2
+                  },
+                  "reactors": {
+                    "count": 128
+                  }
+                },
+                "isFactChecked": false,
+                "was_live": false
+              },
+              "isFactChecked": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6NDQ4NDg3MzI4MTY1MjcxNA==",
+                "top_level_comments": {
+                  "count": 74
+                },
+                "likers": {
+                  "count": 90
+                },
+                "reshares": {
+                  "count": 2
+                },
+                "reactors": {
+                  "count": 128
+                }
+              },
+              "was_live": false
+            }
+          ],
+          "attached_story": null,
+          "privacy_scope": "Public",
+          "edit_history": 2,
+          "is_anonymous": false,
+          "explicit_place": null,
+          "implicit_place": null,
+          "to": null,
+          "album": null,
+          "with_tags": {
+            "nodes": []
+          },
+          "feedback": {
+            "id": "ZmVlZGJhY2s6NDQ4NDg3MzI4MTY1MjcxNA==",
+            "legacy_api_post_id": "4484873281652714",
+            "reactors": 128,
+            "top_level_comments": {
+              "count": 74
+            },
+            "comments_api_count": {
+              "comments": {
+                "total_count": 81
+              }
+            },
+            "likers": 90,
+            "reshares": 2,
+            "top_reactions": {
+              "edges": [
+                {
+                  "reaction_count": 90,
+                  "node": {
+                    "id": "1635855486666999"
+                  }
+                },
+                {
+                  "reaction_count": 36,
+                  "node": {
+                    "id": "908563459236466"
+                  }
+                },
+                {
+                  "reaction_count": 2,
+                  "node": {
+                    "id": "613557422527858"
+                  }
+                }
+              ]
+            }
+          },
+          "translatability_for_viewer": "Arabic",
+          "tracking": "{\"top_level_post_id\":\"4484873281652714\",\"content_owner_id_new\":\"100003902584041\",\"photo_id\":\"4484872968319412\",\"story_location\":4,\"story_attachment_style\":\"photo\",\"ent_attachement_type\":\"MediaAttachment\",\"actrs\":\"100003902584041\"}",
+          "sponsored_data": null
+        },
+        "privacy_scope": "Public",
+        "edit_history": 0,
+        "is_anonymous": false,
+        "explicit_place": null,
+        "implicit_place": null,
+        "to": null,
+        "album": null,
+        "with_tags": {
+          "nodes": []
+        },
+        "feedback": {
+          "thread_id": "ZmVlZGJhY2s6NzE1MzA5MzAxNTgwODg4",
+          "legacy_api_post_id": "715309301580888",
+          "reaction_count": 9,
+          "comment_count": 3,
+          "total_count": 3,
+          "sub_comment_count": null,
+          "like_count": 9,
+          "share_count": 0,
+          "reactions": [
+            {
+              "reaction_count": 9,
+              "id": "1635855486666999"
+            }
+          ]
+        },
+        "source_language": "Arabic",
+        "sponsored_data": null,
+        "is_sponsored": false
+      },
+      {
+        "__typename": "Story",
+        "id": "UzpfSTEwMDA5MzA1NDcyNDgxMzo3MTI2OTMyMDg1MDkxNjQ6NzEyNjkzMjA4NTA5MTY0",
+        "post_id": "712693208509164",
+        "creation_time": 1760117254,
+        "message": "✌️✌️✌️",
+        "message_entity_ranges": [],
+        "url": "https://m.facebook.com/story.php?story_fbid=pfbid0WJk3CnbqmVcng9RTGPqqErmwzjEyq6P4jNkbEjcAswCePhsHzh4Z1mCWA6VpBgGdl&id=100093054724813",
+        "actors": [
+          {
+            "id": "100093054724813",
+            "name": "محمود طبيل",
+            "gender": "MALE",
+            "profile_picture": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-1/417446714_280709441707545_5561209758844370481_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx960x960&ctp=s120x120&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=8NUB-jMeJtQQ7kNvwEV0is9&_nc_oc=Adlbm9PFjVCQmPXDWNT7PUP20Z1BqLhAm4PMb5FsaCZv5SfPMEM0SrPFvyf6c9XETp7ylItcc_EZAy-3sN5YYlHe&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-lhr6-1.xx&oh=00_AfdXYv_0gPdEI96noMn78EYqAHGQqvZVNaEYokrjfSaCrg&oe=68FCFD24",
+            "is_verified": false,
+            "is_plus_actor": false,
+            "is_additional_profile_plus": false,
+            "url": "https://m.facebook.com/mhmwd.tbyl.2025/",
+            "__typename": "User"
+          }
+        ],
+        "collaborators": [],
+        "attachments": [
+          {
+            "id": "712693158509169",
+            "title": "",
+            "subtitle": null,
+            "description": {
+              "text": "✌️✌️✌️",
+              "ranges": [],
+              "delight_ranges": [],
+              "image_ranges": []
+            },
+            "url": "https://m.facebook.com/photo.php?fbid=712693158509169&id=100093054724813&set=a.105152169263274",
+            "instagram_user": null,
+            "preview_image": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558882581_712693165175835_432882071993203924_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1365x1801&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=miXIvvqZ2oIQ7kNvwFvnQ9R&_nc_oc=AdnP8JbfzBf9rDBCBIJ4iE2wIvISgoU3A7qtc6ijColQNVm98mTvW-NO5C-SmLlw0waqkpfI-MRHsoPsOtkZeoWm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfcUj4HILtg5xvUTdzugocKqiACivBTlXcJR15nrTKHJSw&oe=68FD26B0",
+            "videoUrl": null,
+            "owner": {
+              "id": "100093054724813",
+              "name": "محمود طبيل"
+            },
+            "target": {
+              "__typename": "Photo",
+              "strong_id__": "712693158509169",
+              "id": "712693158509169"
+            },
+            "media": {
+              "__typename": "Photo",
+              "id": "712693158509169",
+              "image": {
+                "uri": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558882581_712693165175835_432882071993203924_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1365x1801&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=miXIvvqZ2oIQ7kNvwFvnQ9R&_nc_oc=AdnP8JbfzBf9rDBCBIJ4iE2wIvISgoU3A7qtc6ijColQNVm98mTvW-NO5C-SmLlw0waqkpfI-MRHsoPsOtkZeoWm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfcUj4HILtg5xvUTdzugocKqiACivBTlXcJR15nrTKHJSw&oe=68FD26B0",
+                "width": 728,
+                "height": 960
+              },
+              "imageHigh": {
+                "uri": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558882581_712693165175835_432882071993203924_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1365x1801&ctp=p1080x1080&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=miXIvvqZ2oIQ7kNvwFvnQ9R&_nc_oc=AdnP8JbfzBf9rDBCBIJ4iE2wIvISgoU3A7qtc6ijColQNVm98mTvW-NO5C-SmLlw0waqkpfI-MRHsoPsOtkZeoWm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfcUj4HILtg5xvUTdzugocKqiACivBTlXcJR15nrTKHJSw&oe=68FD26B0",
+                "width": 1080,
+                "height": 1425
+              },
+              "imageLow": {
+                "uri": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558882581_712693165175835_432882071993203924_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1365x1801&ctp=s480x480&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=miXIvvqZ2oIQ7kNvwFvnQ9R&_nc_oc=AdnP8JbfzBf9rDBCBIJ4iE2wIvISgoU3A7qtc6ijColQNVm98mTvW-NO5C-SmLlw0waqkpfI-MRHsoPsOtkZeoWm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfcUj4HILtg5xvUTdzugocKqiACivBTlXcJR15nrTKHJSw&oe=68FD26B0",
+                "width": 364,
+                "height": 480
+              },
+              "imageMedium": {
+                "uri": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/558882581_712693165175835_432882071993203924_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&cstp=mx1365x1801&ctp=p540x540&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=miXIvvqZ2oIQ7kNvwFvnQ9R&_nc_oc=AdnP8JbfzBf9rDBCBIJ4iE2wIvISgoU3A7qtc6ijColQNVm98mTvW-NO5C-SmLlw0waqkpfI-MRHsoPsOtkZeoWm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&oh=00_AfcUj4HILtg5xvUTdzugocKqiACivBTlXcJR15nrTKHJSw&oe=68FD26B0",
+                "width": 540,
+                "height": 712
+              },
+              "playableUrlHdString": null,
+              "owner": {
+                "__typename": "User",
+                "strong_id__": "100093054724813",
+                "id": "100093054724813",
+                "name": "محمود طبيل"
+              },
+              "feedback": {
+                "id": "ZmVlZGJhY2s6NzEyNjkzMjA4NTA5MTY0",
+                "top_level_comments": {
+                  "count": 0
+                },
+                "likers": {
+                  "count": 5
+                },
+                "reshares": {
+                  "count": 0
+                },
+                "reactors": {
+                  "count": 7
+                }
+              },
+              "isFactChecked": false,
+              "was_live": false
+            },
+            "isFactChecked": false,
+            "feedback": {
+              "id": "ZmVlZGJhY2s6NzEyNjkzMjA4NTA5MTY0",
+              "top_level_comments": {
+                "count": 0
+              },
+              "likers": {
+                "count": 5
+              },
+              "reshares": {
+                "count": 0
+              },
+              "reactors": {
+                "count": 7
+              }
+            },
+            "was_live": false,
+            "attachment_type": "MediaAttachment"
+          }
+        ],
+        "attached_story": null,
+        "privacy_scope": "Public",
+        "edit_history": 0,
+        "is_anonymous": false,
+        "explicit_place": null,
+        "implicit_place": null,
+        "to": null,
+        "album": null,
+        "with_tags": {
+          "nodes": []
+        },
+        "feedback": {
+          "thread_id": "ZmVlZGJhY2s6NzEyNjkzMjA4NTA5MTY0",
+          "legacy_api_post_id": "712693208509164",
+          "reaction_count": 7,
+          "comment_count": 0,
+          "total_count": 0,
+          "sub_comment_count": null,
+          "like_count": 5,
+          "share_count": 0,
+          "reactions": [
+            {
+              "reaction_count": 5,
+              "id": "1635855486666999"
+            },
+            {
+              "reaction_count": 1,
+              "id": "115940658764963"
+            },
+            {
+              "reaction_count": 1,
+              "id": "908563459236466"
+            }
+          ]
+        },
+        "source_language": "English",
+        "sponsored_data": null,
+        "is_sponsored": false
+      }
+    ]
+  },
+  "page_info": {
+    "start_cursor": "Cg8Ob3JnYW5pY19jdXJzb3IPr0FRSFNydnJiM1pKb2VkRlpqTWJ1WTY1dlAyMDJuNHJlTmpZY3h4RGdSQ3RBZjRfSkh5czM1SDlVWUtPemV1WTFCaEUwcjJLSlRvZ3plR2lON09nTkx3SWhlY0t4cEtzQ1JtZVdMVDNTV3QtUzRWTlN1MGRQdGlBeVIzUzF0MG5IajEydjJXRmFvZG82OUVFZlN0bE9YTnpsRXc1R0lpV0pScmxmY21tQmwwUUxoU2cPCWFkX2N1cnNvcg4PD2dsb2JhbF9wb3NpdGlvbgIADwZvZmZzZXQCAA8QbGFzdF9hZF9wb3NpdGlvbgL/AQ==",
+    "end_cursor": "Cg8Ob3JnYW5pY19jdXJzb3IJAAACBEFRSFNzcWFwVU1RYlZleFk4VjlPUlhvaDJsUlRmZlA2b21IQ1dBb2xYY2YzelBfZk5vWU92SHJPQ1FaRHI2R3FXU1I4S0tkbEhKUXpXR3pJTkFOUjJscy03MlJSRlNqTW40MllsakRvSVFSaFhjT0w1S0I0aHZVNHdpdlBXQ0JJLVlQbjdLRnJKbVYydXJGUHlMSFI4TVJnX2o4SlplRnRtckI1VEp1RWpiUjZWZDZuanJPQUV3d0tBX0VFTlRMRkJpdWxkeXFqQnQ4VE1qZDRSSENMT0tPamZZMVVWanFfMWt1VU1iU3VtTnh2SFhueV9fNW4zTjQtRkVHR1VOQ2Z0MEtFemRKUGJVS1FoanBTcDVXRFJTT3NrbFhtYnFkT2NYZ1F1Mkgwd3V1U1VFVzBabGM1THNUWlN0cmFmdFc1R3NzdVplbnNHNlozMzRlRlJrc3dpbjBiY1UtSmY2UjZaMkpYMkpScHlsLVkxcmJvQ3lMa3BTRF96bGdqQnFxYmFRWlllcWpGNmRlZHlMc2dzODJ1TWFnUW8tUHc5THYxSlhEZVBtTFpwT2gyOVBWaVpqZUttQmlPZ0hFSkJvMUJwVEdDTGJmVnZNbmRNQkxJQU1OYTJLcE5nX0w3aF9YZXVQOXdWcV9hbmhjbm9paEdUSGtVSmhiZDhvT0V0M1BMOC1kQg8JYWRfY3Vyc29yDg8PZ2xvYmFsX3Bvc2l0aW9uAgAPBm9mZnNldAIADxBsYXN0X2FkX3Bvc2l0aW9uAv8B",
+    "has_previous_page": false,
+    "has_next_page": true
+  }
+}

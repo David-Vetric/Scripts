@@ -1,0 +1,195 @@
+{
+	"__typename": "Story",
+	"title": null,
+	"titleFromRenderLocation": null,
+	"creation_time": 1761162873,
+	"url": "https://www.facebook.com/groups/946317639655921/permalink/1842636073357402/",
+	"message": "Reposting with pictures",
+	"post_id": "1842636073357402",
+	"actors": [
+		{
+			"__typename": "User",
+			"id": "1492188892",
+			"gender": "FEMALE",
+			"name": "Becky Jane",
+			"profile_picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-1/510407538_10231107096129427_1115385925071834706_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Nq49aMGpPTwQ7kNvwHQt6Ya&_nc_oc=Admbnz7FaoUgtT1mzvUIxCOssq764Eqc17hXD80rhoQoXVluYd5ZhMS3gUl4Z24uzLFuKUEC9_4tZL1Zl3-43Pk5&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-dfw5-2.xx&oh=00_AfdJFqo0d4OLygbGDjlqia8urnIuedqfOtQsGJYh1KDIqg&oe=68FEFA85",
+			"is_verified": false,
+			"url": "https://m.facebook.com/losthippiechick/"
+		}
+	],
+	"collaborators": [],
+	"attachments": [],
+	"group_post_topic_tags": [],
+	"with_tags": {
+		"nodes": []
+	},
+	"implicit_place": null,
+	"explicit_place": null,
+	"album": null,
+	"feedback": {
+		"reaction_count": 0,
+		"commnet_count": 0,
+		"like_count": 0,
+		"share_count": 0
+	},
+	"feedback_context": {
+		"top_comments": []
+	},
+	"video_attachments": [],
+	"attached_story": {
+		"__typename": "Story",
+		"title": null,
+		"titleFromRenderLocation": null,
+		"creation_time": 1760467441,
+		"url": "https://www.facebook.com/groups/946317639655921/permalink/1835786850708991/",
+		"message": "Update: room is ready other than puttiing up the new ceiling fan/light, decorations and new window dressings 😁\n\nRoom for rent with attached private bathroom \nLargo, quiet family neighborhood. 10 minutes from Indian Rocks Beach, and close to all amenities. \n\n3 bedroom, 2 bath house. Only renting 1 room, preferably just 1 female,  willing to consider a male if the right fit. Pets considered, I already have 3 so just depends. Must have steady employment.\n\nJust me, 1 dog and 2 cats.\n\nBathroom and bedroom fully remodeled \n\nBedroom is 13'X15' - bathroom attached - furnished room with closet, bed (twin or 2 to make king), futon couch, dresser,  side tables, smart TV and storage shelves. Furniture can be removed if needed. \n\nHouse has central, and room has window unit to set at preferred temperature.  \n\nAll bedrooms are on separate ends of house for privacy.\n\nOff street parking. \n\nYou would have access to all common areas and washer and dryer. Utilities and wifi included, unless bills go up too much, then an additional 50$ per month to help offset, electric and water are usually fairly low though.\n\nAbout me..I am a healthcare professional,  work from home, full time student, love live music, and a calm peaceful energy in my home. Life can be stressful, my home is my sanctuary. \n\nSmoking outside, 420 allowed inside (I do not partake, but enjoy the smell 😁). LGBTQ+ friendly. \n\n$1000 a month, $500 deposit. Long or short lease negotiable. \n\nIf interested send me a message, let me know you sent it, and we can chat and see if a good fit 🙂\n\nAdding pictures,  still working on decorations, arrangement, and window dressings. Will get more later.",
+		"post_id": "1835786850708991",
+		"actors": [
+			{
+				"__typename": "User",
+				"id": "1492188892",
+				"gender": "FEMALE",
+				"name": "Becky Jane",
+				"profile_picture": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-1/510407538_10231107096129427_1115385925071834706_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Nq49aMGpPTwQ7kNvwHQt6Ya&_nc_oc=Admbnz7FaoUgtT1mzvUIxCOssq764Eqc17hXD80rhoQoXVluYd5ZhMS3gUl4Z24uzLFuKUEC9_4tZL1Zl3-43Pk5&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-dfw5-2.xx&oh=00_AfdJFqo0d4OLygbGDjlqia8urnIuedqfOtQsGJYh1KDIqg&oe=68FEFA85",
+				"is_verified": false,
+				"url": "https://m.facebook.com/losthippiechick/"
+			}
+		],
+		"collaborators": [],
+		"attachments": [
+			{
+				"title": "Photos from Becky Jane's post",
+				"subtitle": null,
+				"url": "https://m.facebook.com/dcb/tcnle/?t=j86f93of7iao1ab&set=pcb.1835786850708991&type=1",
+				"target": {
+					"__typename": "MediaContainerMediaSet",
+					"feedback": null,
+					"media": {
+						"image": null,
+						"is_playable": null,
+						"preferredPlayableUrlString": null,
+						"playable_duration_in_ms": null,
+						"feedback": null
+					},
+					"options": null,
+					"owner": null
+				},
+				"is_poll_closed": null,
+				"text": null,
+				"media": {
+					"image": {
+						"uri": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/571151836_10232938471992679_1371114718629050489_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ESNODlsbpS4Q7kNvwHo5CJR&_nc_oc=AdlMrlyNHMP2cP_jSXj2gT3CfvvJMCH4YJbkRagkh2SRph5UWGmVsHqZGt8Ci_WMWxbUL1GfNIwjyhFTUlYNDjwE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&oh=00_AfcR6HPHHCUglT-gnI9MjuKrHXNgpCVRKbZBNKrLJk_7Iw&oe=68FF0B90",
+						"width": 960,
+						"height": 540
+					},
+					"is_playable": false,
+					"preferredPlayableUrlString": null,
+					"playable_duration_in_ms": 0,
+					"feedback": {
+						"reaction_count": 0,
+						"commnet_count": 0,
+						"like_count": 0,
+						"share_count": 0
+					}
+				},
+				"subattachments": [
+					{
+						"title": "",
+						"subattachment_type": "Photo",
+						"media": {
+							"image": {
+								"uri": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/571151836_10232938471992679_1371114718629050489_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ESNODlsbpS4Q7kNvwHo5CJR&_nc_oc=AdlMrlyNHMP2cP_jSXj2gT3CfvvJMCH4YJbkRagkh2SRph5UWGmVsHqZGt8Ci_WMWxbUL1GfNIwjyhFTUlYNDjwE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&oh=00_AfcR6HPHHCUglT-gnI9MjuKrHXNgpCVRKbZBNKrLJk_7Iw&oe=68FF0B90",
+								"width": 960,
+								"height": 540
+							},
+							"is_playable": false,
+							"preferredPlayableUrlString": null,
+							"playable_duration_in_ms": 0,
+							"feedback": {
+								"reaction_count": 0,
+								"commnet_count": 0,
+								"like_count": 0,
+								"share_count": 0
+							}
+						}
+					},
+					{
+						"title": "",
+						"subattachment_type": "Photo",
+						"media": {
+							"image": {
+								"uri": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/571128388_10232938473072706_1913790742956107417_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=R-hBxvhzk64Q7kNvwEQebOt&_nc_oc=Adlm4wluf87eOO88ThR4rd8cKs2gkrXk-HcWrJMAOiLaKgQGs_xGjkClfSc8OmwCcH8j3e6oQDfxMgjp78cuMfJu&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&oh=00_AfeYqUHiaY3-PS1Fw9zJmJKWj3VHQkM7Cusl6kiaUlRMzQ&oe=68FF17D5",
+								"width": 960,
+								"height": 540
+							},
+							"is_playable": false,
+							"preferredPlayableUrlString": null,
+							"playable_duration_in_ms": 0,
+							"feedback": {
+								"reaction_count": 0,
+								"commnet_count": 0,
+								"like_count": 0,
+								"share_count": 0
+							}
+						}
+					},
+					{
+						"title": "",
+						"subattachment_type": "Photo",
+						"media": {
+							"image": {
+								"uri": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/569078007_10232938473432715_1879127375335092270_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SyQNZh0BN-MQ7kNvwGhQv9q&_nc_oc=Adnr-OgzpKO73q9F9DfhBykHcNntoaLxck8cAL7usI0wFv7eFzz7866ttaseRaY_EQwl1JTb1DEaJ9yYiTDk_DAA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&oh=00_AfeA5bBFMYhpBrNXc7BNOlH1J3jSAirs5HNyvlb8M3YNyQ&oe=68FF19F2",
+								"width": 960,
+								"height": 540
+							},
+							"is_playable": false,
+							"preferredPlayableUrlString": null,
+							"playable_duration_in_ms": 0,
+							"feedback": {
+								"reaction_count": 0,
+								"commnet_count": 0,
+								"like_count": 0,
+								"share_count": 0
+							}
+						}
+					},
+					{
+						"title": "",
+						"subattachment_type": "Photo",
+						"media": {
+							"image": {
+								"uri": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/571279683_10232938667357563_4841274698762703512_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NFKouLk-GvgQ7kNvwH_B9e7&_nc_oc=Adk5q2GseITdru2OSFlzHtDrV7QR0SaaWbmC-6n8UCklgIVc4p6kIFWDo1xVYpxe3EvWM7SUKjZtby9N9HHRahMD&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&oh=00_AfeCXF3aUvji0ZAxx5hSyJ3hc9J7YeIMcZesd4T_O0bhZg&oe=68FF27B5",
+								"width": 527,
+								"height": 960
+							},
+							"is_playable": false,
+							"preferredPlayableUrlString": null,
+							"playable_duration_in_ms": 0,
+							"feedback": {
+								"reaction_count": 0,
+								"commnet_count": 0,
+								"like_count": 0,
+								"share_count": 0
+							}
+						}
+					}
+				]
+			}
+		],
+		"group_post_topic_tags": [],
+		"with_tags": {
+			"nodes": []
+		},
+		"implicit_place": null,
+		"explicit_place": null,
+		"album": null,
+		"feedback": {
+			"reaction_count": 4,
+			"commnet_count": 2,
+			"like_count": 3,
+			"share_count": 2
+		},
+		"feedback_context": {},
+		"video_attachments": []
+	}
+}

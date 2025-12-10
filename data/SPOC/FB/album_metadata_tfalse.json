@@ -1,0 +1,236 @@
+{
+    "data": {
+        "album": {
+            "id": "5427027857336285",
+            "owner": {
+                "__typename": "Page",
+                "strong_id__": "141225109249946",
+                "id": "141225109249946",
+                "name": "Canon",
+                "profile_picture": {
+                    "uri": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-1/525394742_1171167548377098_2770894040361093996_n.jpg?stp=cp0_dst-jpg_e15_q65_s64x64_tt6&_nc_cat=1&ccb=1-7&_nc_sid=11a88f&_nc_ohc=8oZQwlhBfjIQ7kNvwG_ZBVK&_nc_oc=AdmE4bwjs62j7wsn0fJd5nfTv60F1HE6H_EZ82NrZOOEKihjqr8JjpaIesH_JUqZcV4&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-mia3-2.xx&oh=00_Afbp3VmYLz2LfpAZVGm5CExoI6TyVN0YmBZ3mmhhbI4xRg&oe=68D1B5EA"
+                }
+            },
+            "title": {
+                "text": "Dejando Huella - Canon y Fundación Vizacaya"
+            },
+            "privacy_scope": {
+                "privacy_write_id": "cHJpdmFjeV9zY29wZV9yZW5kZXJlcjp7ImlkIjo1NDI3MDI3ODU3MzM2Mjg1fQ",
+                "extended_description": "Canon set who can see what's posted in this album.",
+                "label": "Public",
+                "icon_image": {
+                    "name": "everyone",
+                    "uri": "https://static.xx.fbcdn.net/rsrc.php/v4/yp/r/--soLpMIbaJ.png"
+                },
+                "description": "Public",
+                "selected_privacy_option": {
+                    "edges": []
+                },
+                "privacy_options": {
+                    "edges": []
+                }
+            },
+            "media_owner_object": {
+                "__typename": "Page",
+                "strong_id__": "141225109249946",
+                "id": "141225109249946",
+                "is_page_or_profile_plus_actor": true,
+                "name": "Canon",
+                "profile_picture": {
+                    "uri": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-1/525394742_1171167548377098_2770894040361093996_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=1&ccb=1-7&_nc_sid=11a88f&_nc_ohc=8oZQwlhBfjIQ7kNvwG_ZBVK&_nc_oc=AdmE4bwjs62j7wsn0fJd5nfTv60F1HE6H_EZ82NrZOOEKihjqr8JjpaIesH_JUqZcV4&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-mia3-2.xx&oh=00_AfZ52iUfvWqcNvxyi9CsALXkGgLaszn3wWfPMMg6uQ3QDw&oe=68D1B5EA"
+                }
+            },
+            "can_upload": false,
+            "album_type": "NORMAL",
+            "contributors": [
+                {
+                    "__typename": "Page",
+                    "strong_id__": "141225109249946",
+                    "id": "141225109249946",
+                    "name": "Canon",
+                    "profile_picture": {
+                        "uri": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-1/525394742_1171167548377098_2770894040361093996_n.jpg?stp=cp0_dst-jpg_e15_q65_s64x64_tt6&_nc_cat=1&ccb=1-7&_nc_sid=11a88f&_nc_ohc=8oZQwlhBfjIQ7kNvwG_ZBVK&_nc_oc=AdmE4bwjs62j7wsn0fJd5nfTv60F1HE6H_EZ82NrZOOEKihjqr8JjpaIesH_JUqZcV4&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-mia3-2.xx&oh=00_Afbp3VmYLz2LfpAZVGm5CExoI6TyVN0YmBZ3mmhhbI4xRg&oe=68D1B5EA",
+                        "height": 64,
+                        "width": 64
+                    }
+                }
+            ],
+            "message": null,
+            "is_featured_on_profile": false,
+            "can_viewer_feature_on_profile": false,
+            "can_viewer_unfeature_from_profile": false,
+            "allow_contributors": false,
+            "explicit_place": null,
+            "url": "https://www.facebook.com/media/set/?set=a.5427027857336285&type=3",
+            "album_cover_focused_image": {
+                "image": {
+                    "__typename": "Photo",
+                    "strong_id__": "5427029174002820",
+                    "id": "5427029174002820",
+                    "image": {
+                        "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-6/486123826_9553150241390672_8778206455310629732_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_ohc=NQNVD3y_Eh0Q7kNvwHCm6TV&_nc_oc=AdnVlRs7o3jxgqZzktaem4VrdbANicCXZll-K1d7vndKW6e-ODPTnUDv3p3tyUFdPks&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mia5-1.xx&oh=00_AfYBASoQbBrxFSPvtW9vccZTUeEbzNokBCLP7U0QkPmnsw&oe=68D1A4D6"
+                    }
+                },
+                "focus": {
+                    "x": 0.5,
+                    "y": 0.33
+                }
+            },
+            "media": {
+                "count": 549
+            },
+            "photo_items": {
+                "count": 549
+            },
+            "modified_time": 1660579453,
+            "viewer_follow_status": "FOLLOW",
+            "can_viewer_edit_follow_status": false,
+            "can_viewer_see_contained_post_stories_feed": false,
+            "can_viewer_edit_cover_photo": false,
+            "can_viewer_transfer_photos": false,
+            "feedback": {
+                "id": "ZmVlZGJhY2s6NTQyNzAyNzg1NzMzNjI4NQ==",
+                "does_viewer_like": false,
+                "if_viewer_can_see_voice_switcher": null,
+                "can_page_viewer_invite_post_likers": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "can_viewer_set_comment_moderation_filter": false,
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_subscribe": true,
+                "feedback_target_type": "OTHER",
+                "is_viewer_subscribed": false,
+                "legacy_api_post_id": "5427027857336285",
+                "viewer_acts_as_page": null,
+                "owning_profile": {
+                    "__typename": "Page",
+                    "strong_id__": "141225109249946",
+                    "id": "141225109249946",
+                    "name": "Canon"
+                },
+                "can_see_voice_indicator": false,
+                "custom_sticker_pack": null,
+                "custom_sticker_pack_nux_content": null,
+                "personalized_ufi_config": {
+                    "expanded_actions": [],
+                    "buttons": [
+                        {
+                            "__typename": "XFBUFIReactButton",
+                            "strong_id__": null,
+                            "type": "REACT",
+                            "display_mode": "LABEL"
+                        },
+                        {
+                            "__typename": "XFBUFICommentButton",
+                            "strong_id__": null,
+                            "type": "COMMENT",
+                            "display_mode": "LABEL"
+                        },
+                        {
+                            "__typename": "XFBUFIShareButton",
+                            "strong_id__": null,
+                            "type": "SHARE",
+                            "display_mode": "LABEL"
+                        }
+                    ]
+                },
+                "viewer_feedback_reaction_info": null,
+                "important_reactors": {
+                    "nodes": []
+                },
+                "supported_reaction_infos": [
+                    {
+                        "id": "1635855486666999"
+                    },
+                    {
+                        "id": "1678524932434102"
+                    },
+                    {
+                        "id": "613557422527858"
+                    },
+                    {
+                        "id": "115940658764963"
+                    },
+                    {
+                        "id": "478547315650144"
+                    },
+                    {
+                        "id": "908563459236466"
+                    },
+                    {
+                        "id": "444813342392137"
+                    }
+                ],
+                "reactors": {
+                    "count": 54
+                },
+                "top_reactions": {
+                    "edges": [
+                        {
+                            "reaction_count": 34,
+                            "visible_in_bling_bar": true,
+                            "node": {
+                                "id": "1635855486666999"
+                            }
+                        },
+                        {
+                            "reaction_count": 15,
+                            "visible_in_bling_bar": true,
+                            "node": {
+                                "id": "1678524932434102"
+                            }
+                        },
+                        {
+                            "reaction_count": 3,
+                            "visible_in_bling_bar": true,
+                            "node": {
+                                "id": "613557422527858"
+                            }
+                        },
+                        {
+                            "reaction_count": 2,
+                            "visible_in_bling_bar": false,
+                            "node": {
+                                "id": "478547315650144"
+                            }
+                        }
+                    ]
+                },
+                "reaction_display_config": {
+                    "reaction_display_strategy": "NONE",
+                    "reaction_string_with_viewer": null,
+                    "reaction_string_without_viewer": null,
+                    "reaction_sheet_explanation_string": null
+                },
+                "top_level_comments": {
+                    "count": 1,
+                    "total_count": 1
+                },
+                "likers": {
+                    "count": 34
+                },
+                "reshares": {
+                    "count": 16
+                },
+                "associated_group": null,
+                "is_viewer_or_post_comment_rate_limited": false,
+                "comment_rate_limit_message": null,
+                "message_action": null
+            },
+            "group_album_linked_event": null,
+            "group_album_event_message": null
+        }
+    },
+    "extensions": {
+        "server_metadata": {
+            "request_start_time_ms": 1758194916590,
+            "time_at_flush_ms": 1758194916770
+        },
+        "is_final": true
+    }
+}

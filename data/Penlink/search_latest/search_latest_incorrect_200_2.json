@@ -1,0 +1,1990 @@
+{
+    "tweets": [
+        {
+            "entryId": "tweet-1998268158340468792",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1998268158340468792",
+                "retweeted_status_result": null,
+                "url": "https://x.com/TikNance/status/1998268158340468792",
+                "view_count": "96",
+                "conversation_id_str": "1998268158340468792",
+                "bookmark_count": 0,
+                "created_at": "Tue Dec 09 05:47:09 +0000 2025",
+                "full_text": "9kLaQux5x9YuLnPX5rZPUKp86NSzoQs9FN7mGzJNqqg7",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": true,
+                "lang": "in",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1882149242103357441",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1882149242103357441",
+                    "id_str": "1882149242103357441",
+                    "created_at": "Wed Jan 22 19:32:18 +0000 2025",
+                    "name": "i₿rain",
+                    "screen_name": "TikNance",
+                    "url": null,
+                    "description": "2017 class - i bought Bitcoin at $2800 $BTC",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [
+                                "BTC"
+                            ],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 9230,
+                    "followers_count": 622,
+                    "friends_count": 1083,
+                    "media_count": 961,
+                    "normal_followers_count": 622,
+                    "pinned_tweet_ids_str": [
+                        "1992211326110757041"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882149242103357441/1741425732",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1970162795044798465/NPTg8116_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 5432,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {
+                    "result": {
+                        "__typename": "Tweet",
+                        "rest_id": "1998267112130044072",
+                        "retweeted_status_result": null,
+                        "url": "https://x.com/GordonGekko/status/1998267112130044072",
+                        "view_count": "33700",
+                        "conversation_id_str": "1998267112130044072",
+                        "bookmark_count": 9,
+                        "created_at": "Tue Dec 09 05:43:00 +0000 2025",
+                        "full_text": "589",
+                        "entities": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        },
+                        "favorite_count": 523,
+                        "is_quote_status": false,
+                        "lang": "qst",
+                        "quote_count": 12,
+                        "reply_count": 187,
+                        "retweet_count": 47,
+                        "retweeted": false,
+                        "user_id_str": "1354400126857605121",
+                        "possibly_sensitive": null,
+                        "extended_entities": null,
+                        "user_details": {
+                            "__typename": "User",
+                            "rest_id": "1354400126857605121",
+                            "id_str": "1354400126857605121",
+                            "created_at": "Wed Jan 27 12:05:38 +0000 2021",
+                            "name": "Gordon 🐂",
+                            "screen_name": "GordonGekko",
+                            "url": "https://t.co/QI2DDzFfpk",
+                            "description": "From $0 to Crypto multi millionaire in 3 years, I’ll show you how💰 Follow @crypto_crib_ to always stay ahead of the market! 🤝",
+                            "location": "",
+                            "entities": {
+                                "url": {
+                                    "urls": [
+                                        {
+                                            "expanded_url": "http://cryptocrib.substack.com",
+                                            "display_url": "cryptocrib.substack.com",
+                                            "url": "https://t.co/QI2DDzFfpk"
+                                        }
+                                    ]
+                                },
+                                "description": {
+                                    "hashtags": [],
+                                    "symbols": [],
+                                    "urls": [],
+                                    "info_urls": [],
+                                    "user_mentions": [
+                                        {
+                                            "id_str": "0",
+                                            "name": "",
+                                            "screen_name": "crypto_crib_"
+                                        }
+                                    ]
+                                }
+                            },
+                            "fast_followers_count": 0,
+                            "favourites_count": 325289,
+                            "followers_count": 845421,
+                            "friends_count": 728,
+                            "media_count": 17356,
+                            "normal_followers_count": 845421,
+                            "pinned_tweet_ids_str": [],
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354400126857605121/1748346066",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1745081671756472320/PBIlV2do_normal.jpg",
+                            "protected": false,
+                            "statuses_count": 137748,
+                            "verified": true,
+                            "withheld_in_countries": [],
+                            "verified_type": "Blue",
+                            "is_blue_verified": true,
+                            "affiliates_highlighted_label": {
+                                "label": {
+                                    "badge": {
+                                        "url": "https://pbs.twimg.com/profile_images/1980397752455438336/dmWH1fz1_bigger.jpg"
+                                    },
+                                    "userLabelType": "BusinessLabel",
+                                    "description": "Glyde",
+                                    "url": {
+                                        "urlType": "DeepLink",
+                                        "url": "https://twitter.com/GlydeGG"
+                                    },
+                                    "userLabelDisplayType": "Badge"
+                                }
+                            },
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "private_super_following": false,
+                            "exclusive_tweet_following": false
+                        },
+                        "quoted_status_result": {},
+                        "is_retweet": false,
+                        "is_reply": false,
+                        "community_note": null
+                    }
+                },
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1998027278614441985",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1998027278614441985",
+                "retweeted_status_result": null,
+                "url": "https://x.com/tykimikk1211/status/1998027278614441985",
+                "view_count": "36",
+                "conversation_id_str": "1998016699698733225",
+                "bookmark_count": 0,
+                "created_at": "Mon Dec 08 13:49:59 +0000 2025",
+                "full_text": "@qaxcs5 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1480577778215010304",
+                            "name": "فهد",
+                            "screen_name": "qaxcs5"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1875912084208160768",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1875912084208160768",
+                    "id_str": "1875912084208160768",
+                    "created_at": "Sun Jan 05 14:28:00 +0000 2025",
+                    "name": "tyki mikk",
+                    "screen_name": "tykimikk1211",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 0,
+                    "followers_count": 111,
+                    "friends_count": 18,
+                    "media_count": 142,
+                    "normal_followers_count": 111,
+                    "pinned_tweet_ids_str": [
+                        "1978505707990257665"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875912084208160768/1736089464",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1981413802106052608/i4qj16T6_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 2463,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1998024478618738790",
+                "in_reply_to_screen_name": "qaxcs5",
+                "in_reply_to_user_id_str": "1480577778215010304"
+            }
+        },
+        {
+            "entryId": "tweet-1997740593552978341",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997740593552978341",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1997740593552978341",
+                "view_count": "197",
+                "conversation_id_str": "1997738617754853690",
+                "bookmark_count": 0,
+                "created_at": "Sun Dec 07 18:50:48 +0000 2025",
+                "full_text": "@5wr6_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1034198850750357505",
+                            "name": "16",
+                            "screen_name": "5wr6_"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1997738617754853690",
+                "in_reply_to_screen_name": "5wr6_",
+                "in_reply_to_user_id_str": "1034198850750357505"
+            }
+        },
+        {
+            "entryId": "tweet-1997395418712268805",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997395418712268805",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1997395418712268805",
+                "view_count": "117",
+                "conversation_id_str": "1997388870766166421",
+                "bookmark_count": 0,
+                "created_at": "Sat Dec 06 19:59:12 +0000 2025",
+                "full_text": "@5wr6_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1034198850750357505",
+                            "name": "16",
+                            "screen_name": "5wr6_"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1997388870766166421",
+                "in_reply_to_screen_name": "5wr6_",
+                "in_reply_to_user_id_str": "1034198850750357505"
+            }
+        },
+        {
+            "entryId": "tweet-1997388218765824464",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997388218765824464",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1997388218765824464",
+                "view_count": "65",
+                "conversation_id_str": "1997387972744794302",
+                "bookmark_count": 0,
+                "created_at": "Sat Dec 06 19:30:35 +0000 2025",
+                "full_text": "@5wr6_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1034198850750357505",
+                            "name": "16",
+                            "screen_name": "5wr6_"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1997387972744794302",
+                "in_reply_to_screen_name": "5wr6_",
+                "in_reply_to_user_id_str": "1034198850750357505"
+            }
+        },
+        {
+            "entryId": "tweet-1997130084554306029",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997130084554306029",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Za_wo_/status/1997130084554306029",
+                "view_count": "487",
+                "conversation_id_str": "1995464503601820132",
+                "bookmark_count": 0,
+                "created_at": "Sat Dec 06 02:24:51 +0000 2025",
+                "full_text": "since:2025-12-06 until:2025-12-07 from:za_wo_",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 3,
+                "is_quote_status": false,
+                "lang": "en",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1878084447108792320",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1878084447108792320",
+                    "id_str": "1878084447108792320",
+                    "created_at": "Sat Jan 11 14:20:11 +0000 2025",
+                    "name": "蔵王山",
+                    "screen_name": "Za_wo_",
+                    "url": "https://t.co/1LUhnCa4qJ",
+                    "description": "鉄アレイで思い切り頭を殴ると死んでしまう@elmwoodmine",
+                    "location": "",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "http://mond.how/ja/za_wo_",
+                                    "display_url": "mond.how/ja/za_wo_",
+                                    "url": "https://t.co/1LUhnCa4qJ"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "elmwoodmine"
+                                }
+                            ]
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 33982,
+                    "followers_count": 176,
+                    "friends_count": 278,
+                    "media_count": 1872,
+                    "normal_followers_count": 176,
+                    "pinned_tweet_ids_str": [
+                        "1997258908822552715"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878084447108792320/1737593656",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1882231123448922112/3oM6XiKx_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 22798,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1995467434279490046",
+                "in_reply_to_screen_name": "Za_wo_",
+                "in_reply_to_user_id_str": "1878084447108792320"
+            }
+        },
+        {
+            "entryId": "tweet-1997102290105520247",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997102290105520247",
+                "retweeted_status_result": null,
+                "url": "https://x.com/tclp1001/status/1997102290105520247",
+                "view_count": "916",
+                "conversation_id_str": "1997102290105520247",
+                "bookmark_count": 0,
+                "created_at": "Sat Dec 06 00:34:24 +0000 2025",
+                "full_text": "❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 3,
+                "is_quote_status": true,
+                "lang": "art",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1468733754881773568",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1468733754881773568",
+                    "id_str": "1468733754881773568",
+                    "created_at": "Thu Dec 09 00:06:33 +0000 2021",
+                    "name": "YU",
+                    "screen_name": "tclp1001",
+                    "url": null,
+                    "description": "",
+                    "location": "#TEN",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 18996,
+                    "followers_count": 1806,
+                    "friends_count": 1632,
+                    "media_count": 138,
+                    "normal_followers_count": 1806,
+                    "pinned_tweet_ids_str": [
+                        "1528975755253669888"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468733754881773568/1639012831",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1726413544902811648/Vmcl9J1P_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 19650,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {
+                    "result": {
+                        "__typename": "TweetWithVisibilityResults",
+                        "rest_id": "1996617613322179024",
+                        "retweeted_status_result": null,
+                        "url": "https://x.com/peaceoften_/status/1996617613322179024",
+                        "view_count": "97544",
+                        "conversation_id_str": "1996617613322179024",
+                        "bookmark_count": 343,
+                        "created_at": "Thu Dec 04 16:28:29 +0000 2025",
+                        "full_text": "아 못참겠다 진짜 \n아니. 여기 텐 춤사위가 뭔 득도한 도인처럼 \n동작 개바쁜데 물 흐르듯 흘러가고 가뿐하고 보고도 안믿기네 https://t.co/6sr8TztJQY",
+                        "entities": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        },
+                        "favorite_count": 2352,
+                        "is_quote_status": false,
+                        "lang": "ko",
+                        "quote_count": 71,
+                        "reply_count": 0,
+                        "retweet_count": 1501,
+                        "retweeted": false,
+                        "user_id_str": "1894032841769693185",
+                        "possibly_sensitive": false,
+                        "extended_entities": {
+                            "media": [
+                                {
+                                    "additional_media_info": {},
+                                    "expanded_url": "https://x.com/peaceoften_/status/1996617613322179024/video/1",
+                                    "id_str": "1996617522762874880",
+                                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1996617522762874880/img/IHtJRlWv20xVeyur.jpg",
+                                    "original_info": {
+                                        "width": 2160,
+                                        "height": 2386
+                                    },
+                                    "type": "video",
+                                    "url": "https://t.co/6sr8TztJQY",
+                                    "video_info": {
+                                        "duration_millis": 17033,
+                                        "variants": [
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1996617522762874880/pl/fzrj4drAM8I3lvsi.m3u8?v=cfc",
+                                                "content_type": "application/x-mpegURL"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1996617522762874880/vid/avc1/320x352/ic_GG7E1H1al3MD-.mp4",
+                                                "content_type": "video/mp4"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1996617522762874880/vid/avc1/480x530/pkCSRKZ4ypcESGYK.mp4",
+                                                "content_type": "video/mp4"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1996617522762874880/vid/avc1/720x794/9x3KPF0fgKRBdhrk.mp4",
+                                                "content_type": "video/mp4"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1996617522762874880/vid/avc1/1080x1192/w1ExpgsHL4d62CMV.mp4",
+                                                "content_type": "video/mp4"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1996617522762874880/vid/avc1/2160x2386/NWZEWB56FpwScTXY.mp4",
+                                                "content_type": "video/mp4"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        "user_details": {
+                            "__typename": "User",
+                            "rest_id": "1894032841769693185",
+                            "id_str": "1894032841769693185",
+                            "created_at": "Mon Feb 24 14:33:20 +0000 2025",
+                            "name": "︎⌖⁺+",
+                            "screen_name": "peaceoften_",
+                            "url": null,
+                            "description": "",
+                            "location": "",
+                            "entities": {
+                                "description": {
+                                    "hashtags": [],
+                                    "symbols": [],
+                                    "urls": [],
+                                    "info_urls": [],
+                                    "user_mentions": []
+                                }
+                            },
+                            "fast_followers_count": 0,
+                            "favourites_count": 192,
+                            "followers_count": 4276,
+                            "friends_count": 49,
+                            "media_count": 3115,
+                            "normal_followers_count": 4276,
+                            "pinned_tweet_ids_str": [],
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894032841769693185/1764716694",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1996022788398989312/AwAChpsO_normal.jpg",
+                            "protected": false,
+                            "statuses_count": 5294,
+                            "verified": true,
+                            "withheld_in_countries": [],
+                            "verified_type": "Blue",
+                            "is_blue_verified": true,
+                            "affiliates_highlighted_label": {},
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "private_super_following": false,
+                            "exclusive_tweet_following": false
+                        },
+                        "quoted_status_result": {},
+                        "is_retweet": false,
+                        "is_reply": false,
+                        "community_note": null
+                    }
+                },
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1997081613780603264",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997081613780603264",
+                "retweeted_status_result": null,
+                "url": "https://x.com/__opywpy__/status/1997081613780603264",
+                "view_count": "1580",
+                "conversation_id_str": "1997081009222046044",
+                "bookmark_count": 2,
+                "created_at": "Fri Dec 05 23:12:15 +0000 2025",
+                "full_text": "📌 https://t.co/NAtEOWICGz\n📌 https://t.co/pXfULO5OM9\n📌 https://t.co/jcrvnsnZXZ\n📌 https://t.co/8WTragJJPn\n📌 https://t.co/u92jLmtQnj\n📌 https://t.co/SR130bPxxR\n📌 https://t.co/BFwYnZPVz6\n📌 https://t.co/qLmzu60zxo\n📌 https://t.co/miPimK3BHE\n📌 https://t.co/mNJ0R6GUDH\n📌 https://t.co/3CkxLWkx3R\n📌 https://t.co/V2szg0BImw\n📌 https://t.co/bOno2I0tWg\n📌 https://t.co/Z3VIkOUVQU\n📌 https://t.co/UonE40gwH0",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222514",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222511",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222510",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222513",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-women-in-cinema-during-red-sea-international-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250205679",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-women-in-cinema-during-red-sea-international-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250198560",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/faye-peraya-and-win-metawin-attend-women-in-cinema-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250198499",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/faye-peraya-and-win-metawin-attend-women-in-cinema-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250198502",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-women-in-cinema-during-red-sea-international-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250197793",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-nichapat-suphap-and-faye-peraya-attend-women-in-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250196759"
+                    ],
+                    "info_urls": [
+                        {
+                            "shortened_url": "https://t.co/8Hi5wthMhT",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222514",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/5d8GLPRIql",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222511",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/qWJ9e2CLpW",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222510",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/1meQWged1D",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-the-women-in-cinema-event-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250222513",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/nIY7YBVJ17",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-women-in-cinema-during-red-sea-international-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250205679",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/SJMgwoEceZ",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-women-in-cinema-during-red-sea-international-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250198560",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/7icGctUv8A",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/faye-peraya-and-win-metawin-attend-women-in-cinema-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250198499",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/Ulr4qFSbRQ",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/faye-peraya-and-win-metawin-attend-women-in-cinema-during-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250198502",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/6wqaUdYVQZ",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-attends-women-in-cinema-during-red-sea-international-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250197793",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/2Y2EioWGqa",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/win-metawin-nichapat-suphap-and-faye-peraya-attend-women-in-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250196759",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 50,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 37,
+                "retweeted": false,
+                "user_id_str": "1230465473025757184",
+                "possibly_sensitive": false,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1230465473025757184",
+                    "id_str": "1230465473025757184",
+                    "created_at": "Thu Feb 20 12:13:34 +0000 2020",
+                    "name": "🅞🅟🅨✨",
+                    "screen_name": "__opywpy__",
+                    "url": null,
+                    "description": "🇹🇼 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 ❣️@winmetawin 🐰",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "winmetawin"
+                                }
+                            ]
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 4405,
+                    "followers_count": 171695,
+                    "friends_count": 40,
+                    "media_count": 114324,
+                    "normal_followers_count": 171695,
+                    "pinned_tweet_ids_str": [
+                        "1366958422902538242"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230465473025757184/1719539241",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1806372865299910660/coHFu_Fr_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 223757,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "tweet_card": {
+                    "binding_values": [
+                        {
+                            "key": "photo_image_full_size_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=800x419",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=240x240",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "description",
+                            "text": "Win Metawin attends the Women In Cinema event during Red Sea International Film Festival 2025 on December 05, 2025 in Jeddah, Saudi Arabia.",
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "domain",
+                            "text": "www.gettyimages.hk",
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=400x400",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_small",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=386x202",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_original",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=orig",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "site",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": "publisher_id",
+                            "user_id": "40297195"
+                        },
+                        {
+                            "key": "photo_image_full_size_small",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=386x202",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=800x419",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_small",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=100x100",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_x_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=png&name=2048x2048_2_exp",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size_original",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=orig",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "vanity_url",
+                            "text": "gettyimages.hk",
+                            "image_url": null,
+                            "scribe_key": "vanity_url",
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=800x419",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_color",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "title",
+                            "text": "Win Metawin attends the Women In Cinema event during Red Sea...",
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_color",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_x_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=png&name=2048x2048_2_exp",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=800x419",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size_color",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size_x_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=png&name=2048x2048_2_exp",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "card_url",
+                            "text": "https://t.co/8Hi5wthMhT",
+                            "image_url": null,
+                            "scribe_key": "card_url",
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_original",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1997081143959867394/kVKbSRIZ?format=jpg&name=orig",
+                            "scribe_key": null,
+                            "user_id": null
+                        }
+                    ],
+                    "user_refs_results": [
+                        {
+                            "__typename": "User",
+                            "legacy": {
+                                "id_str": "40297195",
+                                "screen_name": "GettyImages",
+                                "name": "Getty Images",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1693676504612257794/165fBF42_normal.jpg",
+                                "verified": false,
+                                "protected": false
+                            }
+                        }
+                    ],
+                    "name": "summary_large_image",
+                    "url": "https://t.co/8Hi5wthMhT"
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1997081051244777793",
+                "in_reply_to_screen_name": "__opywpy__",
+                "in_reply_to_user_id_str": "1230465473025757184"
+            }
+        },
+        {
+            "entryId": "tweet-1997019304533918120",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997019304533918120",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1997019304533918120",
+                "view_count": "52",
+                "conversation_id_str": "1997019061574582679",
+                "bookmark_count": 0,
+                "created_at": "Fri Dec 05 19:04:39 +0000 2025",
+                "full_text": "@5wr6_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1034198850750357505",
+                            "name": "16",
+                            "screen_name": "5wr6_"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1997019061574582679",
+                "in_reply_to_screen_name": "5wr6_",
+                "in_reply_to_user_id_str": "1034198850750357505"
+            }
+        },
+        {
+            "entryId": "tweet-1996982764135166178",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1996982764135166178",
+                "retweeted_status_result": null,
+                "url": "https://x.com/__opywpy__/status/1996982764135166178",
+                "view_count": "1568",
+                "conversation_id_str": "1996981904802042261",
+                "bookmark_count": 4,
+                "created_at": "Fri Dec 05 16:39:27 +0000 2025",
+                "full_text": "📌 https://t.co/xHefrwhQ61\n📌 https://t.co/CG3iN221s8\n📌 https://t.co/iZauRzyXHn\n📌 https://t.co/e5NwKuONzs\n📌 https://t.co/K5btLsPckN\n📌 https://t.co/D3dn5i2clP\n📌 https://t.co/RQExLjJlcj\n📌 https://t.co/1ailPHd4g0\n📌 https://t.co/FGMByzpccD\n📌 https://t.co/4JiQ4YCxWv\n📌 https://t.co/RuCm3jwvwv\n📌 https://t.co/FJKNbpL3WO\n📌 https://t.co/z4EUEA2poM\n📌 https://t.co/YPT9sc5u3P\n📌 https://t.co/8AODO2x5U5\n📌 https://t.co/OM4UBuNR9W\n📌 https://t.co/lDXyqaGWaB",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142648",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142538",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142470",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142471",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141733",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141717",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141674",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141494",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141426",
+                        "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250140606"
+                    ],
+                    "info_urls": [
+                        {
+                            "shortened_url": "https://t.co/fpQdIMyjgF",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142648",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/rC0kwaSw3i",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142538",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/DyzHLr5atQ",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142470",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/UrAUEbHHBd",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250142471",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/0INiGs87MK",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141733",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/BSugnNI6ZD",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141717",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/tbMeTzEvuW",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141674",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/AEFVi76zb8",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141494",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/3TXi5ELZlx",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250141426",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        },
+                        {
+                            "shortened_url": "https://t.co/n8Q4TKPHTV",
+                            "expanded_url": "https://www.gettyimages.hk/detail/%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/metawin-opas-iamkajorn-poses-for-the-photographer-at-the-red-sea-%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87/2250140606",
+                            "display_url": "gettyimages.hk/detail/%E6%96%…"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 50,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 39,
+                "retweeted": false,
+                "user_id_str": "1230465473025757184",
+                "possibly_sensitive": false,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1230465473025757184",
+                    "id_str": "1230465473025757184",
+                    "created_at": "Thu Feb 20 12:13:34 +0000 2020",
+                    "name": "🅞🅟🅨✨",
+                    "screen_name": "__opywpy__",
+                    "url": null,
+                    "description": "🇹🇼 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 ❣️@winmetawin 🐰",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "winmetawin"
+                                }
+                            ]
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 4405,
+                    "followers_count": 171695,
+                    "friends_count": 40,
+                    "media_count": 114324,
+                    "normal_followers_count": 171695,
+                    "pinned_tweet_ids_str": [
+                        "1366958422902538242"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230465473025757184/1719539241",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1806372865299910660/coHFu_Fr_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 223757,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "tweet_card": {
+                    "binding_values": [
+                        {
+                            "key": "photo_image_full_size_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=600x314",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=240x240",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "description",
+                            "text": "Metawin Opas-iamkajorn poses for the photographer at the Red Sea International Film Festival 2025 on December 05, 2025 in Jeddah, Saudi Arabia.",
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "domain",
+                            "text": "www.gettyimages.hk",
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=1000x1000",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_small",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=386x202",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_original",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=orig",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "site",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": "publisher_id",
+                            "user_id": "40297195"
+                        },
+                        {
+                            "key": "photo_image_full_size_small",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=386x202",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=600x314",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_small",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=100x100",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_x_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=png&name=2048x2048_2_exp",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size_original",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=orig",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "vanity_url",
+                            "text": "gettyimages.hk",
+                            "image_url": null,
+                            "scribe_key": "vanity_url",
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=600x314",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "thumbnail_image_color",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "title",
+                            "text": "Metawin Opas-iamkajorn poses for the photographer at the Red Sea...",
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_color",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_x_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=png&name=2048x2048_2_exp",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=600x314",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size_color",
+                            "text": null,
+                            "image_url": null,
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "photo_image_full_size_x_large",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=png&name=2048x2048_2_exp",
+                            "scribe_key": null,
+                            "user_id": null
+                        },
+                        {
+                            "key": "card_url",
+                            "text": "https://t.co/fpQdIMyjgF",
+                            "image_url": null,
+                            "scribe_key": "card_url",
+                            "user_id": null
+                        },
+                        {
+                            "key": "summary_photo_image_original",
+                            "text": null,
+                            "image_url": "https://pbs.twimg.com/card_img/1996982051522990082/5d4prVhl?format=jpg&name=orig",
+                            "scribe_key": null,
+                            "user_id": null
+                        }
+                    ],
+                    "user_refs_results": [
+                        {
+                            "__typename": "User",
+                            "legacy": {
+                                "id_str": "40297195",
+                                "screen_name": "GettyImages",
+                                "name": "Getty Images",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1693676504612257794/165fBF42_normal.jpg",
+                                "verified": false,
+                                "protected": false
+                            }
+                        }
+                    ],
+                    "name": "summary_large_image",
+                    "url": "https://t.co/fpQdIMyjgF"
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1996981946568921282",
+                "in_reply_to_screen_name": "__opywpy__",
+                "in_reply_to_user_id_str": "1230465473025757184"
+            }
+        },
+        {
+            "entryId": "tweet-1996954104686694860",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1996954104686694860",
+                "retweeted_status_result": null,
+                "url": "https://x.com/ttttttttksl/status/1996954104686694860",
+                "view_count": "165",
+                "conversation_id_str": "1996954104686694860",
+                "bookmark_count": 0,
+                "created_at": "Fri Dec 05 14:45:34 +0000 2025",
+                "full_text": "😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "art",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "518546582",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "518546582",
+                    "id_str": "518546582",
+                    "created_at": "Thu Mar 08 14:31:11 +0000 2012",
+                    "name": "𝘁𝘁𝘁𝘁𝘁𝘁𝘁𝘁𝗸𝘀𝗹♡. -.-",
+                    "screen_name": "ttttttttksl",
+                    "url": null,
+                    "description": "jungkook - ꒰ muon ꒱ - gboy ᯓ🐰🐅ᰔ #8treview",
+                    "location": "Thailand",
+                    "entities": {
+                        "description": {
+                            "hashtags": [
+                                "8treview"
+                            ],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 4530,
+                    "followers_count": 340,
+                    "friends_count": 196,
+                    "media_count": 1126,
+                    "normal_followers_count": 340,
+                    "pinned_tweet_ids_str": [
+                        "1974644163842122128"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/518546582/1688225810",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1675166837083086848/Da2M86bu_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 22652,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1996759636050137548",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1996759636050137548",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1996759636050137548",
+                "view_count": "388",
+                "conversation_id_str": "1996548031001633111",
+                "bookmark_count": 0,
+                "created_at": "Fri Dec 05 01:52:49 +0000 2025",
+                "full_text": "@YRMFC_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1696525967458791424",
+                            "name": "Y!",
+                            "screen_name": "YRMFC_"
+                        }
+                    ]
+                },
+                "favorite_count": 2,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1996548031001633111",
+                "in_reply_to_screen_name": "YRMFC_",
+                "in_reply_to_user_id_str": "1696525967458791424"
+            }
+        },
+        {
+            "entryId": "tweet-1996757494148821199",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1996757494148821199",
+                "retweeted_status_result": null,
+                "url": "https://x.com/OwL4EyEz/status/1996757494148821199",
+                "view_count": "14",
+                "conversation_id_str": "1996755475333845385",
+                "bookmark_count": 0,
+                "created_at": "Fri Dec 05 01:44:19 +0000 2025",
+                "full_text": "CYwB7wJe9yKczHwbZcPA2wuqvqpTuFE3cnUuKr8Epump",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "et",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1700710904642351104",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1700710904642351104",
+                    "id_str": "1700710904642351104",
+                    "created_at": "Sun Sep 10 03:21:09 +0000 2023",
+                    "name": "👁️OwLEyEz👁️",
+                    "screen_name": "OwL4EyEz",
+                    "url": null,
+                    "description": "WiseOwl | OldSoul | X Spaces 🫶🏻 | Stay Curious Folks | SFM",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 312,
+                    "followers_count": 106,
+                    "friends_count": 358,
+                    "media_count": 63,
+                    "normal_followers_count": 106,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700710904642351104/1694326681",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921657692386373632/vF2ndueY_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 528,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1996755475333845385",
+                "in_reply_to_screen_name": "OwL4EyEz",
+                "in_reply_to_user_id_str": "1700710904642351104"
+            }
+        },
+        {
+            "entryId": "tweet-1996706652385673461",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1996706652385673461",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1996706652385673461",
+                "view_count": "140",
+                "conversation_id_str": "1996706226663838147",
+                "bookmark_count": 0,
+                "created_at": "Thu Dec 04 22:22:17 +0000 2025",
+                "full_text": "@5wr6_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1034198850750357505",
+                            "name": "16",
+                            "screen_name": "5wr6_"
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1996706226663838147",
+                "in_reply_to_screen_name": "5wr6_",
+                "in_reply_to_user_id_str": "1034198850750357505"
+            }
+        },
+        {
+            "entryId": "tweet-1995952806306648223",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1995952806306648223",
+                "retweeted_status_result": null,
+                "url": "https://x.com/qp121p/status/1995952806306648223",
+                "view_count": "141",
+                "conversation_id_str": "1995951829180711370",
+                "bookmark_count": 0,
+                "created_at": "Tue Dec 02 20:26:46 +0000 2025",
+                "full_text": "@5wr6_ 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1034198850750357505",
+                            "name": "16",
+                            "screen_name": "5wr6_"
+                        }
+                    ]
+                },
+                "favorite_count": 1,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1774499038928240640",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1774499038928240640",
+                    "id_str": "1774499038928240640",
+                    "created_at": "Sun Mar 31 18:09:18 +0000 2024",
+                    "name": "T",
+                    "screen_name": "qp121p",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 14719,
+                    "followers_count": 24565,
+                    "friends_count": 343,
+                    "media_count": 10557,
+                    "normal_followers_count": 24565,
+                    "pinned_tweet_ids_str": [
+                        "1975915067091845482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774499038928240640/1729681181",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1931923562727608320/iMk9dvWP_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 212437,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1995951829180711370",
+                "in_reply_to_screen_name": "5wr6_",
+                "in_reply_to_user_id_str": "1034198850750357505"
+            }
+        }
+    ],
+    "cursor_top": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHN3RHVFhfYmtEZ0tBQUlic3d5QW1Gb1Fud0FJQUFJQUFBQUJDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJ1NnVZbjBBbkVBb0FCaHU3cTVpZlA5andBQUEiLCJfcXVlcnlJZCI6ImIzMjBiMDIyLTg1ZGEtNDc5Ny04MzQ2LWRkOTE2ODI3NmI1OCJ9",
+    "cursor_bottom": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHN3RHVFhfYmtEZ0tBQUlic3d5QW1Gb1Fud0FJQUFJQUFBQUNDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJ1NnVZbjBBbkVBb0FCaHU3cTVpZlA5andBQUEiLCJfcXVlcnlJZCI6ImIzMjBiMDIyLTg1ZGEtNDc5Ny04MzQ2LWRkOTE2ODI3NmI1OCJ9"
+}

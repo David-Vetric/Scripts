@@ -1,0 +1,130 @@
+{
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "usageByDates": [
+        {
+            "date": "2025-10-01",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-02",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-03",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-04",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-05",
+            "usedQuota": 7
+        },
+        {
+            "date": "2025-10-06",
+            "usedQuota": 3466
+        },
+        {
+            "date": "2025-10-07",
+            "usedQuota": 40848
+        },
+        {
+            "date": "2025-10-08",
+            "usedQuota": 42031
+        },
+        {
+            "date": "2025-10-09",
+            "usedQuota": 40767
+        },
+        {
+            "date": "2025-10-10",
+            "usedQuota": 54527
+        },
+        {
+            "date": "2025-10-11",
+            "usedQuota": 57907
+        },
+        {
+            "date": "2025-10-12",
+            "usedQuota": 58856
+        },
+        {
+            "date": "2025-10-13",
+            "usedQuota": 58328
+        },
+        {
+            "date": "2025-10-14",
+            "usedQuota": 60245
+        },
+        {
+            "date": "2025-10-15",
+            "usedQuota": 17180
+        },
+        {
+            "date": "2025-10-16",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-17",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-18",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-19",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-20",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-21",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-22",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-23",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-24",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-25",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-26",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-27",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-28",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-29",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-30",
+            "usedQuota": 0
+        },
+        {
+            "date": "2025-10-31",
+            "usedQuota": 0
+        }
+    ]
+}

@@ -1,0 +1,630 @@
+{
+    "results": {
+        "featured": [],
+        "pinned": [],
+        "feed": [
+            {
+                "__typename": "Story",
+                "id": "UzpfSTEwMDA3NjM2MDQyODg3Njo0ODc5OTk1MDM3NTUzOTM6NDg3OTk5NTAzNzU1Mzkz",
+                "post_id": "487999503755393",
+                "creation_time": 1718529507,
+                "message": "Eid Mubarak aan iedereen. Taqabbalallahu minna wa minkum. \n\nMoge Allah jullie goede daden accepteren en jullie allen een fijne, gezegende dag schenken.",
+                "message_entity_ranges": [],
+                "url": "https://m.facebook.com/story.php?story_fbid=pfbid0bAHNbPC2PdTZB423ru3LUm4s9Tyqsdwi5wAcCEQcM8Mq6u6ceLtwvsgUEXRZn46Jl&id=100076360428876",
+                "actors": [
+                    {
+                        "id": "100076360428876",
+                        "name": "Rachid Abu Khuzaymah Al-Metalsi",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/395662544_353982863823725_4661187617494401309_n.jpg?stp=c0.3.691.691a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=1cqIOSiWrMUQ7kNvwEpVktU&_nc_oc=Adk-XtxAN6GTrcn2rCenU-OxcunR8veLdy6O7xHEa8uFjhyPZSioKAokW21XXFKDnBktBub-dL_fgbuEW-9uzFE0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_AffU0-coPb1F-0Txl4kA6fAvdWZsfbcUOiKVS0AhhoBJqw&oe=68F5377D",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "url": "https://m.facebook.com/rachidabukhuzaymah1/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators": [],
+                "attachments": [
+                    {
+                        "id": "487999457088731",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=487999457088731&id=100076360428876&set=a.107493911805956",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/482348206_662238436331498_8315524078399325154_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FIxWSuysF8sQ7kNvwGARqS7&_nc_oc=Adm4QhFS059UKZa1nByLzvZCA1eSwevP9Wh412VKvGDMGSmCFNyn0z1BB0ytgNDoUTZCD_3uAyxmfTFMBU6ogpiC&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&oh=00_AfeMWx1C8Y13qvrgPXsn5dU98k0gPq5PpOjbofPBFrP-SQ&oe=68F51D67",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "MediaAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "feedback": {
+                    "thread_id": "ZmVlZGJhY2s6NDg3OTk5NTAzNzU1Mzkz",
+                    "reaction_count": 57,
+                    "comment_count": 3,
+                    "sub_comment_count": null,
+                    "like_count": 51,
+                    "share_count": 0,
+                    "reactions": [
+                        {
+                            "reaction_count": 51,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 6,
+                            "id": "1678524932434102"
+                        }
+                    ]
+                },
+                "source_language": "Dutch",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTEwMDA3NjM2MDQyODg3Njo0ODc2MTA0MTcxMjc2MzU6NDg3NjEwNDE3MTI3NjM1",
+                "post_id": "487610417127635",
+                "creation_time": 1718469024,
+                "message": "Na jarenlang hard doorwerken (sinds 2021), is 'ie er dan eindelijk: 𝐇𝐞𝐭 𝐁𝐨𝐞𝐤 𝐯𝐚𝐧 𝐝𝐞 𝐒𝐮𝐧𝐧𝐚𝐡: 𝐮𝐢𝐭 𝐝𝐞 𝐕𝐫𝐚𝐚𝐠𝐬𝐭𝐮𝐤𝐤𝐞𝐧 𝐯𝐚𝐧 𝐚𝐥-'𝐈𝐦𝐚𝐦 𝐇𝐚𝐫𝐛 𝐚𝐥-𝐊𝐢𝐫𝐦𝐚𝐧𝐢𝐲𝐲. \n\nHet boek omvat het gedeelte over de geloofsleer uit het oorspronkelijke werk van de auteur, genaamd Masa'il Harb (De Vraagstukken van Harb), en wordt beschouwd als een van de belangrijke bronnen van de Salaf over de geloofsleer. Het is ontnomen uit het origineel door de redacteur ash-Shaykh 'Adil Al Hamdan al-Ghamidi, die bekend staat om zijn redactie van vele boekwerken van de Imams van de Salaf.\n\nHet werk behandelt de belangrijke hoofdfundamenten van de geloofsleer: eerst algemeen en puntsgewijs in het eerste hoofdstuk (dat bekend staat als 'De Geloofsleer van Harb al-Kirmaniyy'), en vervolgens specifieker en diepgaander in de daaropvolgende hoofdstukken. Het onderscheidt zich vooral in het veelvuldig overleveren van de metgezellen en de vroege Imams van Ahl as-Sunnah, wat het boek een uniek karakter geeft.\n\nWe zijn erin geslaagd om de vertaling qua presentie en opmaak dicht bij het Arabische origineel te houden. De overleveringsketens zijn behouden, maar zodanig – o.a. middels kleurgebruik – dat de doorsnee lezer er makkelijk doorheen leest, en het commentaar van de redacteur is grotendeels meegenomen in de voetnoten, gepaard met uitleggingen van verschillende geleerden en biografieën van de geciteerde Imams, waardoor de lezer begeleid wordt in het navigeren en begrijpen van de gepresenteerde kwesties.\n\nOnze kwaliteitseisen werden dan ook volledig en met succes vervuld, met een prachtig eindresultaat dat onze verwachtingen overtrof. Een eindresultaat waar we bescheiden doch stellig over kunnen zeggen dat het een unieke, baanbrekende pionier en latverhogende trendsetter is op de Nederlandstalige islamitische boekenmarkt. \n\nWil je een snelle blik op de opbouw en inhoud van het boek? Check dan de inhoudsopgave:\n\nhttps://islamhuys.nl/wp-content/uploads/2024/06/Het-Boek-van-de-Sunnah-Inhoudsopgave.pdf\n\nWil je een uitgebreide introductie tot de inhoud en de achtergrond van het boek? Lees dan het voorwoord van de vertalers:\n\nhttps://islamhuys.nl/wp-content/uploads/2024/06/Het-Boek-van-de-Sunnah-Voorwoord-van-de-vertalers.pdf\n\nHet boek is de bestellen via: https://islamhuys.nl/product/het-boek-van-de-sunnah-uit-de-vraagstukken-van-al-imam-harb-al-kirmaniyy/\n\nEn alle lof is voor Allah.",
+                "message_entity_ranges": [
+                    {
+                        "__typename": "ExternalUrl",
+                        "offset": 1888,
+                        "length": 88,
+                        "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2lzbGFtaHV5cy5ubC93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9IZXQtQm9lay12YW4tZGUtU3VubmFoLUluaG91ZHNvcGdhdmUucGRmP2ZiY2xpZD1Jd1pYaDBiZ05oWlcwQ01URUFBUjRQVTc4WEVnLU8tRHo3SG91Yk1IQ3J0WVVKSmVkTHoybWVqV2thSjJmaVVVXGJRRGlvXGJNdER0SUlENEZnXGJhZW1cYmp3V0gycTVQRVhZR2V3Vktyc3VyNUE6OkRlZmF1bHQ6Ojo0ODc2MTA0MTcxMjc2MzU=",
+                        "name": "",
+                        "url": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fislamhuys.nl%2Fwp-content%2Fuploads%2F2024%2F06%2FHet-Boek-van-de-Sunnah-Inhoudsopgave.pdf%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR4PU78XEg-O-Dz7HoubMHCrtYUJJedLz2mejWkaJ2fiUU_QDio_MtDtIID4Fg_aem_jwWH2q5PEXYGewVKrsur5A&h=AT1L-PR5oSjM2dQVmLEF1e2Bgy2Gv29pEz2oFdTeeCd8f6eqk6JwdVkTtHVsDmNeBsoljkcYgQVw5vZNQz4Y7PtNTaITYgnG1GNAyIJbODNdgaN14vDCot3Qb62YOOcHaOk9s_sYavkTCPoWSOVBqdZPgqJFTOfb&s=1"
+                    },
+                    {
+                        "__typename": "ExternalUrl",
+                        "offset": 2101,
+                        "length": 101,
+                        "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2lzbGFtaHV5cy5ubC93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9IZXQtQm9lay12YW4tZGUtU3VubmFoLVZvb3J3b29yZC12YW4tZGUtdmVydGFsZXJzLnBkZj9mYmNsaWQ9SXdaWGgwYmdOaFpXMENNVEVBQVI0amdZTHBQcmJPb0JVSkl4czcwM2JxTUF6S25BM2RTZ09pMktGR2JTak9JVlBISEFEWnFiSWY1Z3ZzRGdcYmFlbVxiNElYNmpZVGp2RzY0VXh0RHgxalkyZzo6RGVmYXVsdDo6OjQ4NzYxMDQxNzEyNzYzNQ==",
+                        "name": "",
+                        "url": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fislamhuys.nl%2Fwp-content%2Fuploads%2F2024%2F06%2FHet-Boek-van-de-Sunnah-Voorwoord-van-de-vertalers.pdf%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR4jgYLpPrbOoBUJIxs703bqMAzKnA3dSgOi2KFGbSjOIVPHHADZqbIf5gvsDg_aem_4IX6jYTjvG64UxtDx1jY2g&h=AT0x0KXC7sNLkVbUxIDRqllu9Ng3jOMfo5YUMAJXvT9b94vq8nCSFj1-N6EUf0doRmSwbeTsCgLGX1Znd-KopxBItR2FtcI-yt64PGwKxId3YObmvRrPxANbFluqJIBB5gZWnCSrMncrXpWjghDJmf-FeiijlSpI&s=1"
+                    },
+                    {
+                        "__typename": "ExternalUrl",
+                        "offset": 2234,
+                        "length": 102,
+                        "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2lzbGFtaHV5cy5ubC9wcm9kdWN0L2hldC1ib2VrLXZhbi1kZS1zdW5uYWgtdWl0LWRlLXZyYWFnc3R1a2tlbi12YW4tYWwtaW1hbS1oYXJiLWFsLWtpcm1hbml5eS8/ZmJjbGlkPUl3WlhoMGJnTmhaVzBDTVRFQUFSN0VXa1pYSzd3bTNxMC1CMFAxQkt4WU1udVI3NXpQYnllQXpycDVsRlBJTWJUSnBHNng2WTJtaFkzd3p3XGJhZW1cYnNUSURXM0x1U05FUERxYUQxQWhHVXc6OkRlZmF1bHQ6Ojo0ODc2MTA0MTcxMjc2MzU=",
+                        "name": "",
+                        "url": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fislamhuys.nl%2Fproduct%2Fhet-boek-van-de-sunnah-uit-de-vraagstukken-van-al-imam-harb-al-kirmaniyy%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR7EWkZXK7wm3q0-B0P1BKxYMnuR75zPbyeAzrp5lFPIMbTJpG6x6Y2mhY3wzw_aem_sTIDW3LuSNEPDqaD1AhGUw&h=AT29boopZ7aPNEofxiw2Nzjx7lFmMk-lJvlqL12CmOkQH9HyJa7pv46autY0Sv9rBwISSiCn5mJz5E7xxfDlbyN0aYgPvtVseqWanX3PXyeZ8o9U2C08LuWJfoWh-_drzJTuL3rtFOHEmUqllOjaDg741nVcxahY&s=1"
+                    }
+                ],
+                "url": "https://m.facebook.com/story.php?story_fbid=pfbid0q2izLEZvm3tkvznoQLf6sNkGB354G82MHMdHPr1kc6gsxj3dKCfT9jm8LA4mAe3ml&id=100076360428876",
+                "actors": [
+                    {
+                        "id": "100076360428876",
+                        "name": "Rachid Abu Khuzaymah Al-Metalsi",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/395662544_353982863823725_4661187617494401309_n.jpg?stp=c0.3.691.691a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=1cqIOSiWrMUQ7kNvwEpVktU&_nc_oc=Adk-XtxAN6GTrcn2rCenU-OxcunR8veLdy6O7xHEa8uFjhyPZSioKAokW21XXFKDnBktBub-dL_fgbuEW-9uzFE0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_AffU0-coPb1F-0Txl4kA6fAvdWZsfbcUOiKVS0AhhoBJqw&oe=68F5377D",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "url": "https://m.facebook.com/rachidabukhuzaymah1/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators": [],
+                "attachments": [
+                    {
+                        "id": "487616307127046",
+                        "title": "Photos from Rachid Abu Khuzaymah Al-Metalsi's post",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/story.php?story_fbid=pfbid0q2izLEZvm3tkvznoQLf6sNkGB354G82MHMdHPr1kc6gsxj3dKCfT9jm8LA4mAe3ml&id=100076360428876",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/482007808_662237179664957_7350200551278431891_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3ezjAHWqxtoQ7kNvwGxDJT2&_nc_oc=Adm8YpiVKE4XSvbRLoe6lOhf8Os5gMArl-rmaZTIlbNe3YC8JXb5TFpbssldMJ4VZJefPFlZQ7Z73Cg_IZ4N6IFQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&oh=00_AfeArQZO-kfII8aC1W4mqp4INqZSm7jeZM1nx-ehli4ZdQ&oe=68F52A6C",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "487609837127693",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=487609837127693&id=100076360428876&set=a.107493911805956",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/481242431_662237262998282_8033143963390651127_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6toKv-o7sQwQ7kNvwF9AS_D&_nc_oc=AdlzCkpvuJhArgUFC-DaIq6hxWWxTnpYUiVmIOSBmplCSPXzGpZ9jM24ObjSDZJrnRcRXTr_FNpzNEYqQwWc7fTN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&oh=00_AfcxVUAYKaRj12JAopktXhNmmvdCUfLtGTdewhvx54_S1w&oe=68F534D5",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "487609957127681",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=487609957127681&id=100076360428876&set=a.107493911805956",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/481269142_662236826331659_4032977117356332396_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C3Bl0hNnV4cQ7kNvwGTy6JS&_nc_oc=AdmAtKPiBMGvQOhilCbhgewTIj4JJdFWjkbhHF9BwpCzvrjZFJi5ZI_Uk6qmiMMYmb18hh9-KEqOZeHEDLi2Il55&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&oh=00_Afd4phsPU6PGK2XsmRYfg3-GVUD4zPL4kd3nVpzWCEutwg&oe=68F51416",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "487610140460996",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=487610140460996&id=100076360428876&set=a.107493911805956",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/482007161_662237176331624_1636234318977324304_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IDQ6_-2MQdUQ7kNvwEfNwDu&_nc_oc=Adlq3NZeaEMNhX9yniymFgmxcmCwm7lbDYAhqfqxIDsGHhyc53AbL8VpznDAwlIvtg0yeW36Y-ST1C50jFR8pL-m&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&oh=00_Aff7zLw3J1aCmIXl5N07c3ULREBKFzeUKLg8ybWGvhQvvg&oe=68F50BD8",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "487610260460984",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=487610260460984&id=100076360428876&set=a.107493911805956",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/481197634_662237146331627_8926435086892892218_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bngxtRupdlAQ7kNvwFcj0lC&_nc_oc=Adl9dr2AI9ne4a6mWV19KavADEr-wEs7pQgO9ONKZorl85CLde7_FFy7-s9CSp1eH6KQJUtJ0LvPHxZdGL40rstW&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&oh=00_AffudbWanpyLWRMYtpVGbkSsnuXf4Xi1L4HXKn_lCu1mrQ&oe=68F50903",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 6,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "feedback": {
+                    "thread_id": "ZmVlZGJhY2s6NDg3NjEwNDE3MTI3NjM1",
+                    "reaction_count": 36,
+                    "comment_count": 2,
+                    "sub_comment_count": null,
+                    "like_count": 35,
+                    "share_count": 2,
+                    "reactions": [
+                        {
+                            "reaction_count": 35,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 1,
+                            "id": "1678524932434102"
+                        }
+                    ]
+                },
+                "source_language": "Dutch",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTEwMDA3NjM2MDQyODg3Njo0ODY5MDc5MzA1MzEyMTc6NDg2OTA3OTMwNTMxMjE3",
+                "post_id": "486907930531217",
+                "creation_time": 1718365296,
+                "message": "Een prachtige klassieker van een van de bergen van de Salaf. Vandaag vóór 16:00 besteld = morgen (zaterdag 15 juni) nog in huis, in sha' Allah.",
+                "message_entity_ranges": [],
+                "url": "https://m.facebook.com/story.php?story_fbid=pfbid07nNJcbLwu2z99bujKL93vstiZsnxrJHgCTVxTAebRLCfJ4aA7EFbq2PQpW7kua6el&id=100076360428876",
+                "actors": [
+                    {
+                        "id": "100076360428876",
+                        "name": "Rachid Abu Khuzaymah Al-Metalsi",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/395662544_353982863823725_4661187617494401309_n.jpg?stp=c0.3.691.691a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=1cqIOSiWrMUQ7kNvwEpVktU&_nc_oc=Adk-XtxAN6GTrcn2rCenU-OxcunR8veLdy6O7xHEa8uFjhyPZSioKAokW21XXFKDnBktBub-dL_fgbuEW-9uzFE0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_AffU0-coPb1F-0Txl4kA6fAvdWZsfbcUOiKVS0AhhoBJqw&oe=68F5377D",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "url": "https://m.facebook.com/rachidabukhuzaymah1/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators": [],
+                "attachments": [],
+                "attached_story": {
+                    "__typename": "Story",
+                    "id": "UzpfSTYxNTUzNjc5NTY0NzIzOjEyMjE1MTg3MjEzODEyMjY1MjoxMjIxNTE4NzIxMzgxMjI2NTI=",
+                    "post_id": "122151872138122652",
+                    "creation_time": 1718365129,
+                    "url": "https://m.facebook.com/story.php?story_fbid=pfbid027DAemm1JEqXFBo9aMfKVByEbG3kABzkjGe6koeECyNQE1MUKacNynyNXchDgNV7Ml&id=61553679564723",
+                    "message": {
+                        "text": "𝗡𝘂 𝘃𝗲𝗿𝗸𝗿𝗶𝗷𝗴𝗯𝗮𝗮𝗿: Het Boek van de Sunnah: uit de Vraagstukken van al-'Imam Harb al-Kirmaniyy (280 NH)\n\n𝗕𝗲𝘀𝘁𝗲𝗹𝗹𝗲𝗻 𝘃𝗶𝗮: https://islamhuys.nl/product/het-boek-van-de-sunnah-uit-de-vraagstukken-van-al-imam-harb-al-kirmaniyy/\n\nDe Nederlandse vertaling van het boek ‘Kitāb as-Sunnah min Masāʾil Ḥarb al-Kirmāniyy’, samengesteld door Sh. ʿĀdil Āl Ḥamdān. Het boek omvat het gedeelte over de geloofsleer uit het oorspronkelijke werk ‘Masāʾil Ḥarb’. De auteur begint opbouwend middels een samenvattend hoofdstuk waarin de geloofsleer van Ahl as-Sunnah op algemene wijze uiteengezet wordt; dit hoofdstuk staat bekend als ‘De Geloofsleer van Ḥarb al-Kirmāniyy’. Aan de onderwerpen uit dit hoofdstuk wijdt de auteur vervolgens losstaande hoofdstukken, waarin de kwesties dieper uiteengezet worden aan de hand van overleveringen van de Profeet ﷺ, de metgezellen en de Tābiʿīn, en citaten van de geleerden en Imāms van Ahl as-Sunnah na hen, tot aan het tijdperk van de auteur in de derde eeuw NH. Voorzien van de Arabische tekst en aangevuld met commentaar van de redacteur Sh. ʿĀdil Āl Ḥamdān en uiteenzettingen van verschillende (latere) geleerden in de voetnoten, vormt ‘Het Boek van de Sunnah: uit de Vraagstukken van al-ʾImām Ḥarb al-Kirmāniyy’ een rijke wetenschappelijke bron over de geloofsleer, geschreven in klassieke doch eenvoudige stijl, en gepresenteerd op toegankelijke wijze.\n\n𝗧𝗶𝘁𝗲𝗹: Het Boek van de Sunnah\n𝗦𝘂𝗯𝘁𝗶𝘁𝗲𝗹: Uit de Vraagstukken van al-'Imam Harb al-Kirmaniyy (280 NH)\n𝗔𝘂𝘁𝗲𝘂𝗿: Al-ʾImām Ḥarb ibn Ismāʿīl al-Kirmāniyy\n𝗥𝗲𝗱𝗮𝗰𝘁𝗶𝗲: Sh. ʿĀdil ibn ʿAbdillāh Āl Ḥamdān al-Ghāmidiyy\n𝗩𝗲𝗿𝘁𝗮𝗹𝗶𝗻𝗴: Rashīd Abū Khuzaymah, Marwān Abū Ibrāhīm\n𝗕𝗹𝗮𝗱𝘇𝗶𝗷𝗱𝗲𝗻: 428\n𝗩𝗼𝗹𝘂𝗺𝗲(𝘀): 1\n𝗨𝗶𝘁𝘃𝗼𝗲𝗿𝗶𝗻𝗴: Hardcover\n𝗨𝗶𝘁𝗴𝗮𝘃𝗲: Islamhuys\n𝗘𝗱𝗶𝘁𝗶𝗲: Eerste editie, 1445 NH (2024 NC)\n𝗜𝗦𝗕𝗡: 9789083436302\nhttp://www.islamhuys.nl",
+                        "entity_ranges": [
+                            {
+                                "__typename": "ExternalUrl",
+                                "offset": 117,
+                                "length": 102,
+                                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL2lzbGFtaHV5cy5ubC9wcm9kdWN0L2hldC1ib2VrLXZhbi1kZS1zdW5uYWgtdWl0LWRlLXZyYWFnc3R1a2tlbi12YW4tYWwtaW1hbS1oYXJiLWFsLWtpcm1hbml5eS8/ZmJjbGlkPUl3WlhoMGJnTmhaVzBDTVRFQUFSN0VXa1pYSzd3bTNxMC1CMFAxQkt4WU1udVI3NXpQYnllQXpycDVsRlBJTWJUSnBHNng2WTJtaFkzd3p3XGJhZW1cYnNUSURXM0x1U05FUERxYUQxQWhHVXc6OkRlZmF1bHQ6OjoxMjIxNTE4NzIxMzgxMjI2NTI=",
+                                "name": "",
+                                "url": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fislamhuys.nl%2Fproduct%2Fhet-boek-van-de-sunnah-uit-de-vraagstukken-van-al-imam-harb-al-kirmaniyy%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR7EWkZXK7wm3q0-B0P1BKxYMnuR75zPbyeAzrp5lFPIMbTJpG6x6Y2mhY3wzw_aem_sTIDW3LuSNEPDqaD1AhGUw&h=AT0twJlA0Cz-aqkr63hYJGsHRin_LLajSjBrHW35y7ow_jH20JVzuSYbFiQ-oRrvyc6ii1jFoVL0fTQoE2N4svrhS9Pt8gVbmpwdoIOl79A27nyDvJZgVM08uLL18KyqPz6LyfNQSDkqZD64NDaY2RzYVXQl2G_G3g&s=1"
+                            },
+                            {
+                                "__typename": "ExternalUrl",
+                                "offset": 1765,
+                                "length": 23,
+                                "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBcYS8vd3d3LmlzbGFtaHV5cy5ubC8/ZmJjbGlkPUl3WlhoMGJnTmhaVzBDTVRFQUFSNmw4eTNnN1JEMFdHc1FNVzFTd3FWU2RqcHo3VWJnakhLTWZmNDhEWFxiS1hVTGNMbUttLWM1Uk5BNlxiaXdcYmFlbVxiVjNFZTF6YVZtaDBwRjMtSTlKWmtMQTo6RGVmYXVsdDo6OjEyMjE1MTg3MjEzODEyMjY1Mg==",
+                                "name": "",
+                                "url": "https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.islamhuys.nl%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR6l8y3g7RD0WGsQMW1SwqVSdjpz7UbgjHKMff48DX_KXULcLmKm-c5RNA6_iw_aem_V3Ee1zaVmh0pF3-I9JZkLA&h=AT1ZDJR9CMnWoknm791J1YW1FulrDrZOQSmz0B_4GFGG1IZi1mA80ap7L7H4cqg6-L9vbdhkM8BrqIOGWYQRFSp7PPUGUqTYji6lEUlatq4xH-1wor4JLsEIHIb7NUBwbsRW0PspyyWJzL8QHFIUtodQrYLAwhView&s=1"
+                            }
+                        ]
+                    },
+                    "actors": [
+                        {
+                            "id": "61553679564723",
+                            "name": "Islamhuys",
+                            "gender": "UNKNOWN",
+                            "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/471484582_122185476392122652_6519145503178218430_n.jpg?stp=c131.128.938.938a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=mazn_qTaFhoQ7kNvwEb_IrA&_nc_oc=AdkUM7mZP--B7K8m8eJtZC92l1kqcrmj1OFWwtigrKR0VHyrUbV5q_31rx2rmksWU9UkgeKt1wx71a8rsCHYdf9b&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_Aff76_ZgjBR-3_OcByka4xQ1WzdmQ7u_Evz8cZ5GmxdTCg&oe=68F529F5",
+                            "is_verified": false,
+                            "is_plus_actor": true,
+                            "url": "https://m.facebook.com/Islamhuys/",
+                            "__typename": "User"
+                        }
+                    ],
+                    "collaborators": [],
+                    "attachments": [
+                        {
+                            "id": "122151872066122652",
+                            "title": "",
+                            "subtitle": null,
+                            "url": "https://m.facebook.com/photo.php?fbid=122151872066122652&id=61553679564723&set=a.122095392416122652",
+                            "instagram_user": null,
+                            "preview_image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/472717391_122187237938122652_1256435278849958588_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WDuyOdyw01MQ7kNvwEyEWJf&_nc_oc=AdmH8pf1MQRQVDKcipd4P36MO5gDmZzUTQIyJDrT5c08Q7TwS5hKYR_-RnDAdZbetP5UetSD9UR85xOkt39JPWtO&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&oh=00_Afd1Sh4rnJoGUCQMc5TPlrHeiSWZBPeCjltQBiIzD0OjpQ&oe=68F52987",
+                            "videoUrl": null,
+                            "owner": {},
+                            "isFactChecked": false,
+                            "was_live": false
+                        }
+                    ],
+                    "attached_story": null,
+                    "privacy_scope": "Public",
+                    "edit_history": 0,
+                    "is_anonymous": false,
+                    "explicit_place": null,
+                    "feedback": {
+                        "id": "ZmVlZGJhY2s6MTIyMTUxODcyMTM4MTIyNjUy",
+                        "legacy_api_post_id": "122151872138122652",
+                        "reactors": 3,
+                        "top_level_comments": {
+                            "count": 0
+                        },
+                        "likers": 2,
+                        "reshares": 2,
+                        "top_reactions": {
+                            "edges": [
+                                {
+                                    "reaction_count": 2,
+                                    "node": {
+                                        "id": "1635855486666999"
+                                    }
+                                },
+                                {
+                                    "reaction_count": 1,
+                                    "node": {
+                                        "id": "1678524932434102"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "translatability_for_viewer": "Dutch",
+                    "tracking": "{\"top_level_post_id\":\"122151872138122652\",\"content_owner_id_new\":\"61553679564723\",\"photo_id\":\"122151872066122652\",\"story_location\":4,\"story_attachment_style\":\"photo\",\"ent_attachement_type\":\"MediaAttachment\",\"actrs\":\"61553679564723\"}",
+                    "sponsored_data": null
+                },
+                "privacy_scope": "Public",
+                "edit_history": 0,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "feedback": {
+                    "thread_id": "ZmVlZGJhY2s6NDg2OTA3OTMwNTMxMjE3",
+                    "reaction_count": 9,
+                    "comment_count": 0,
+                    "sub_comment_count": null,
+                    "like_count": 8,
+                    "share_count": 0,
+                    "reactions": [
+                        {
+                            "reaction_count": 8,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 1,
+                            "id": "1678524932434102"
+                        }
+                    ]
+                },
+                "source_language": "Dutch",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTEwMDA3NjM2MDQyODg3Njo0NzIxNTIxMDg2NzM0NjY6NDcyMTUyMTA4NjczNDY2",
+                "post_id": "472152108673466",
+                "creation_time": 1716210591,
+                "message": "'Het land van at-Tawhid' Saoedi-Arabië, 'Islamitisch' Emiraat van Afghanistan (Taliban) en de Moslimbroederschap, allen verenigd in verraad en het simpen en hielenlikken bij de Iraanse Rafidah, die ruim een miljoen moslimdoden op hun geweten hebben en tot op de dag van vandaag de islamitische wereld in een verlammende houdgreep hebben en moslims afslachten in o.a. Syrië en Irak, evenals in Iran zelf. \n\nBij dit soort gebeurtenissen worden de interne vijanden van de Ummah altijd evidenter. Maar zal de Ummah het begrijpen?",
+                "message_entity_ranges": [],
+                "url": "https://m.facebook.com/story.php?story_fbid=pfbid0UUohqZ2kNfMqB1He6cDXnK8gpvwAypAepy3HYcpxbv7vQG4CZumADzwXYpcjG4VFl&id=100076360428876",
+                "actors": [
+                    {
+                        "id": "100076360428876",
+                        "name": "Rachid Abu Khuzaymah Al-Metalsi",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/395662544_353982863823725_4661187617494401309_n.jpg?stp=c0.3.691.691a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=1cqIOSiWrMUQ7kNvwEpVktU&_nc_oc=Adk-XtxAN6GTrcn2rCenU-OxcunR8veLdy6O7xHEa8uFjhyPZSioKAokW21XXFKDnBktBub-dL_fgbuEW-9uzFE0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_AffU0-coPb1F-0Txl4kA6fAvdWZsfbcUOiKVS0AhhoBJqw&oe=68F5377D",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "url": "https://m.facebook.com/rachidabukhuzaymah1/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators": [],
+                "attachments": [
+                    {
+                        "id": "472151985340145",
+                        "title": "Photos from Rachid Abu Khuzaymah Al-Metalsi's post",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/story.php?story_fbid=pfbid0UUohqZ2kNfMqB1He6cDXnK8gpvwAypAepy3HYcpxbv7vQG4CZumADzwXYpcjG4VFl&id=100076360428876",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/481255206_662217423000266_6639715211534909383_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_aid=1728&_nc_ohc=GyPaaDBniKYQ7kNvwEdqZXc&_nc_oc=Adk1Cnjr2Z_eliwE7dZjBlCyTZuwIRl5VQGZluwSU-y6EVIS_LdO-bAYKCSS6vNCQe00Zh-atDmhOgu59NeNzwM0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&oh=00_AfevKkRXBK3TPIcCfJobAjCQtpenQyGHtInQ9lALd8xtoA&oe=68F51F30",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "472152038673473",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=472152038673473&id=100076360428876&set=a.110251658196848",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/481662519_662217553000253_3033510226346014854_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_aid=1728&_nc_ohc=phq3xqukg0EQ7kNvwERZDOZ&_nc_oc=AdmVBapfyMtvp4iZn1sm0GtmOz10HIER7QLiIH5ZYba9gww_jTnBttJIEfsQueFYnxNHwhcwQdXXvDbUzQmz6na8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&oh=00_Afc2T2-p92bRDRU62I-0uILYf22aDX6n6diuwLL4Qn6jtQ&oe=68F53198",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "472152078673469",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=472152078673469&id=100076360428876&set=a.110251658196848",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/481665916_662217486333593_4563828054664049853_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=uSNFF-ZGxAkQ7kNvwHeOwUB&_nc_oc=AdnLibCzWuoV68b-nc7VsD7lpSkyM6dVOb4w5eBwPG204US4_05PW6EBj-SMbPfYTOaARp5erkf9MQVryCYpimn6&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&oh=00_Afet5aVZtlUFZVJSVhNu0wvYrkvxYYoPewdEJxj-2uSIpg&oe=68F5192D",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 4,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "feedback": {
+                    "thread_id": "ZmVlZGJhY2s6NDcyMTUyMTA4NjczNDY2",
+                    "reaction_count": 21,
+                    "comment_count": 4,
+                    "sub_comment_count": null,
+                    "like_count": 20,
+                    "share_count": 3,
+                    "reactions": [
+                        {
+                            "reaction_count": 20,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 1,
+                            "id": "1678524932434102"
+                        }
+                    ]
+                },
+                "source_language": "Dutch",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTEwMDA3NjM2MDQyODg3Njo0NzE5MDUxMjg2OTgxNjQ6NDcxOTA1MTI4Njk4MTY0",
+                "post_id": "471905128698164",
+                "creation_time": 1716178625,
+                "message": "Alhamdulillah. Iraanse president Raisi and minister van Buitenlandse Zaken Abdollahian zijn beiden overleden bij de helicopter crash – de slachters van honderden duizenden moslims in Irak en Syrië. Een dag van vreugde en genezing voor Ahl as-Sunnah, en een pijnlijke klap voor de Iraanse Rafidah. Moge Allah hun leiders uitroeien, hun natie vernietigen en ons een dag tegen hen schenken zoals de dag van al-Qadisiyyah.",
+                "message_entity_ranges": [],
+                "url": "https://m.facebook.com/story.php?story_fbid=pfbid02x6NTmDgPe8vES2MNpScWBKqBWdMZxkTrMf7zgew7qPiy9dhy3f7Z1CYwG4zJjz7Rl&id=100076360428876",
+                "actors": [
+                    {
+                        "id": "100076360428876",
+                        "name": "Rachid Abu Khuzaymah Al-Metalsi",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/395662544_353982863823725_4661187617494401309_n.jpg?stp=c0.3.691.691a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=1cqIOSiWrMUQ7kNvwEpVktU&_nc_oc=Adk-XtxAN6GTrcn2rCenU-OxcunR8veLdy6O7xHEa8uFjhyPZSioKAokW21XXFKDnBktBub-dL_fgbuEW-9uzFE0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_AffU0-coPb1F-0Txl4kA6fAvdWZsfbcUOiKVS0AhhoBJqw&oe=68F5377D",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "url": "https://m.facebook.com/rachidabukhuzaymah1/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators": [],
+                "attachments": [
+                    {
+                        "id": "471909792031031",
+                        "title": "Photos from Rachid Abu Khuzaymah Al-Metalsi's post",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/story.php?story_fbid=pfbid02x6NTmDgPe8vES2MNpScWBKqBWdMZxkTrMf7zgew7qPiy9dhy3f7Z1CYwG4zJjz7Rl&id=100076360428876",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/481466108_662217519666923_3946663212168181862_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=D3nH4Q3YXNQQ7kNvwHNRHR1&_nc_oc=AdlgLzvFNXtBnootBXyqLmBR9KMWwzQbeZl7pHia6Lz6ywHSBNYiuwQGI3IEs_ObXUbpZtrDxlU1BxZe5m0srIq-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&oh=00_AffzRbQupbkgL_xieixnJC6o561pSuzhmqg8_clIqvWIyA&oe=68F52ECE",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "471909892031021",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=471909892031021&id=100076360428876&set=a.110251658196848",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/481217460_662217429666932_5508635202077904410_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lezw8uE5GZcQ7kNvwFc_Dre&_nc_oc=AdnLAa0HFc0Gvw9OCQGNimlGSVdJHN88gqVfPXmS7ENdGYTwRlH2vzKlW-ddc7Z2hqsprSxzBQSeZwMaCsyvr840&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&oh=00_Afeoe4a6ou53s_Tbp8nE7bUQhSxoh99fiXtsZmYraB52Pw&oe=68F51662",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "471909988697678",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=471909988697678&id=100076360428876&set=a.110251658196848",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/481919804_662217493000259_7425337471136815449_n.jpg?stp=cp1_dst-jpg_e15_fr_q65_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_aid=1728&_nc_ohc=DEYkwTVOnWUQ7kNvwEpGYO6&_nc_oc=Adk_2wpYNb0AYz24XQnrCopKyJWgLWyxobXWKy3Vyq5ApVVmcIuh-_c4I52t78Z2i4rBgWyBIqwl076-fJJFwoxK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&oh=00_AfcJct-JOSzM3DHGyjp7VlTtJumOc9O-exI_eugmucGbhg&oe=68F53900",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "471910048697672",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=471910048697672&id=100076360428876&set=a.110251658196848",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/481471667_662217579666917_1829020596306964733_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_QDU33NYfrAQ7kNvwFjjhmf&_nc_oc=AdlXxoyRscOhehJPA0RXCAZkkarcwTd3X1uONnJ0aR9xCDPAseZ6sCbWFMZcXlXUeNK41uZRVrIxvbmtzpmx5jvs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&oh=00_AfedYRpUXNdDgyJWYSaJ1y90d2mAkkpfIhUq40aAtS4Kyg&oe=68F51BB7",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 2,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "feedback": {
+                    "thread_id": "ZmVlZGJhY2s6NDcxOTA1MTI4Njk4MTY0",
+                    "reaction_count": 55,
+                    "comment_count": 8,
+                    "sub_comment_count": null,
+                    "like_count": 44,
+                    "share_count": 4,
+                    "reactions": [
+                        {
+                            "reaction_count": 44,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 11,
+                            "id": "1678524932434102"
+                        }
+                    ]
+                },
+                "source_language": "Dutch",
+                "sponsored_data": null,
+                "is_sponsored": false
+            },
+            {
+                "__typename": "Story",
+                "id": "UzpfSTEwMDA3NjM2MDQyODg3Njo0NzEwNzIxMzg3ODE0NjM6NDcxMDcyMTM4NzgxNDYz",
+                "post_id": "471072138781463",
+                "creation_time": 1716066744,
+                "message": "Altijd lachen, die jaloerse Nederlandse Kuffaar. Niet alleen zijn ze tegenstrijdig, want blijkbaar mag een vrouw zich wel storen aan mannen die loeren – sinds wanneer is kijken verboden in de Nederlandse wet? Het zijn toch onze eigen ogen waarmee we vrij zijn om te doen wat we willen? – maar mag een man zich niet storen aan vrouwen die hun strakverpakte achterwerken in allerlei seksuele houdingen werpen, met kleding die bewust uitgekozen is om seksueel te prikkelen – maar ze zijn ook nog eens dood-, dood- en doodjaloers.\n\nJazeker, jaloers – want vergis je niet in dit soort sentimenten: de Kuffaar verpakken het vaak in het bestrijden van vrouwonvriendelijkheid, maar in werkelijkheid is het een diepgewortelde jaloezie, vergelijkbaar met een arme man die geen geld of bezittingen heeft en zich vervolgens maar voordoet als een ascetische vrome die zich distantieert van het wereldse, terwijl hij maar al te graag rijk zou willen zijn en luxe zou willen leven.\n\nZe weten dat ze de controle over hun vrouwen volledig kwijt zijn en deze ook in de nabije toekomst nooit terug zullen krijgen, dus wanneer ze zien dat moslims dit – in het algemeen – nog wel hebben en scheiding van de genders kunnen doorvoeren en handhaven, schieten ze in de typische bèta cuck boy woedeaanval zoals we dat van ze gewend zijn.\n\nVervolgens doen ze zich maar voor als vrouwvriendelijke women's empowerment activisten, terwijl ze de kiezen langs elkaar knarsen en de tranen inhouden van de jaloezie, want ze hadden maar al te graag gehad dat het anders was. Als je je eigen verlies omarmt als winst, heb je niet verloren, ofzoiets.\n\nZe worden gedomineerd door hun vrouwen en hebben te kampen met hun eigen moeders, zussen en dochters die halfnaakt rondlopen, door hun vriendjes betast worden in hun aanwezigheid en ieder weekend met een andere man in bed duiken na een nachtje hoereren in clubs, en worden vernederd door vriendinnen/echtgenotes die zich als prostituees kleden voor andere mannen en vreemdgaan alsof ze water drinken, om vervolgens kinderen op te voeden die in veel gevallen niet eens hun biologische kinderen zijn.\n\nTja, als je vervolgens moslimmannen ziet die én hun vrouwen onder controle hebben én gendersegregratie in stand houden én zeker zijn van hun eigen vaderschap én dominant zijn tegenover hun echtgenotes én ook nog eens een relaxe mannengym kunnen fixen waar je met the boys in alle relaxedheid kunt trainen zonder schaamteloze vrouwen die aandacht vragen met leggings die zo strak zitten dat het lijkt alsof ze hun benen geverfd hebben...\n\nTja, dan kan ik me wel voorstellen dat je in een jaloerse bèta cuck rage terechtkomt, en dat je je onbekwaamheid en machteloosheid verpakt in vrouwvriendelijkheid.\n\nHeerlijk.\n\nhttps://t.me/rachidabukhuzaymah/1497",
+                "message_entity_ranges": [
+                    {
+                        "__typename": "ExternalUrl",
+                        "offset": 2729,
+                        "length": 36,
+                        "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3QubWUvcmFjaGlkYWJ1a2h1emF5bWFoLzE0OTc/ZmJjbGlkPUl3WlhoMGJnTmhaVzBDTVRFQUFSNU5LcGZWUldKM3BjVC1OWFxiWldvLTJIODRZa3pQdldiMkdma3VDOWVkNXBcYnpIT0xGRXd3RGJTT252NWdcYmFlbVxiTFZVWTlNaktiWTN5eThjUXdGc0RnUTo6RGVmYXVsdDo6OjQ3MTA3MjEzODc4MTQ2Mw==",
+                        "name": "",
+                        "url": "fbrpc://facebook/nativethirdparty?ref=Default&tap_behavior=app_fallback_web&target_url=https%3A%2F%2Ft.me%2Frachidabukhuzaymah%2F1497%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR5NKpfVRWJ3pcT-NX_ZWo-2H84YkzPvWb2GfkuC9ed5p_zHOLFEwwDbSOnv5g_aem_LVUY9MjKbY3yy8cQwFsDgQ&extra_applink_key=al_applink_data&referer_data_key=extras&al_applink_data=%7B%22target_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Frachidabukhuzaymah%5C%2F1497%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR5NKpfVRWJ3pcT-NX_ZWo-2H84YkzPvWb2GfkuC9ed5p_zHOLFEwwDbSOnv5g_aem_LVUY9MjKbY3yy8cQwFsDgQ%22%2C%22extras%22%3A%7B%22fb_ref%22%3A%22Default%22%7D%2C%22referer_app_link%22%3A%7B%22url%22%3A%22fb%3A%5C%2F%5C%2F%5C%2F%22%2C%22app_name%22%3A%22Facebook%22%2C%22package%22%3A%22com.facebook.katana%22%7D%7D&appsite_data=%7B%22android%22%3A%5B%7B%22is_app_link%22%3Atrue%2C%22app_name%22%3A%22Telegram%22%2C%22appsite_url%22%3A%22tg%3A%5C%2F%5C%2Fresolve%3Fdomain%3Drachidabukhuzaymah%26post%3D1497%22%2C%22fallback_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Frachidabukhuzaymah%5C%2F1497%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR5NKpfVRWJ3pcT-NX_ZWo-2H84YkzPvWb2GfkuC9ed5p_zHOLFEwwDbSOnv5g_aem_LVUY9MjKbY3yy8cQwFsDgQ%22%2C%22market_uri%22%3A%22market%3A%5C%2F%5C%2Fdetails%3Fid%3Dorg.telegram.messenger%26referrer%3Dutm_source%5Cu00253Dapps.facebook.com%5Cu002526utm_campaign%5Cu00253Dfb4a%5Cu002526utm_content%5Cu00253D%5Cu0025257B%5Cu00252522app%5Cu00252522%5Cu0025253A0%5Cu0025252C%5Cu00252522t%5Cu00252522%5Cu0025253A1760514079%5Cu0025252C%5Cu00252522source%5Cu00252522%5Cu0025253Anull%5Cu0025257D%26app_id%3D0%26is_vt_odir_eligible%3D0%22%2C%22package%22%3A%22org.telegram.messenger%22%7D%5D%7D&has_app_link=1"
+                    }
+                ],
+                "url": "https://m.facebook.com/story.php?story_fbid=pfbid02GHtS3E6KmQ8PFZUvXNG7K8Dfyyp3dbYDbvK1ANxnGs3vUDAFK1iYH2t4UboyNQLHl&id=100076360428876",
+                "actors": [
+                    {
+                        "id": "100076360428876",
+                        "name": "Rachid Abu Khuzaymah Al-Metalsi",
+                        "gender": "MALE",
+                        "profile_picture": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/395662544_353982863823725_4661187617494401309_n.jpg?stp=c0.3.691.691a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=1cqIOSiWrMUQ7kNvwEpVktU&_nc_oc=Adk-XtxAN6GTrcn2rCenU-OxcunR8veLdy6O7xHEa8uFjhyPZSioKAokW21XXFKDnBktBub-dL_fgbuEW-9uzFE0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-atl3-3.xx&oh=00_AffU0-coPb1F-0Txl4kA6fAvdWZsfbcUOiKVS0AhhoBJqw&oe=68F5377D",
+                        "is_verified": false,
+                        "is_plus_actor": true,
+                        "url": "https://m.facebook.com/rachidabukhuzaymah1/",
+                        "__typename": "User"
+                    }
+                ],
+                "collaborators": [],
+                "attachments": [
+                    {
+                        "id": "471065868782090",
+                        "title": "Photos from Rachid Abu Khuzaymah Al-Metalsi's post",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/story.php?story_fbid=pfbid02GHtS3E6KmQ8PFZUvXNG7K8Dfyyp3dbYDbvK1ANxnGs3vUDAFK1iYH2t4UboyNQLHl&id=100076360428876",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/481981866_662216263000382_2588742501467319111_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_aid=1728&_nc_ohc=twuhwE9TKcEQ7kNvwFZPTU7&_nc_oc=AdnzPJXCl8p4xtosy8VF87TE6Bj-XIEMV7cAxx4HzpsZ4f0hxU3Mv0lYkaZjMvGRXYaSxWwGHX6DrxNvS9oan421&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&oh=00_Afd_HG8xuiIEYlY__ysSJEOkIVQYoZd8wAEAIftp4FTUyQ&oe=68F51164",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    },
+                    {
+                        "id": "471064375448906",
+                        "title": "",
+                        "subtitle": null,
+                        "url": "https://m.facebook.com/photo.php?fbid=471064375448906&id=100076360428876&set=a.107493911805956",
+                        "instagram_user": null,
+                        "preview_image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/481223049_662216529667022_3147645097709124552_n.jpg?stp=cp0_dst-jpg_e15_fr_q65_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cWYA7YPVCl8Q7kNvwHelgMz&_nc_oc=AdluLGLMG4jo07qTn3KD6Ku-i0f4CaR9dVzW4UG24JtUFpZj7GopjGQv7vc14ogdvBk_8f3sdoagKHtVA7X1xfop&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&oh=00_Afd1xJQsI1SEJTxQNjQGpMLQfjqXhvRDSOTK5G1L0AyOlQ&oe=68F5376F",
+                        "videoUrl": null,
+                        "owner": {},
+                        "isFactChecked": false,
+                        "was_live": false,
+                        "attachment_type": "PhotoSetAttachment"
+                    }
+                ],
+                "attached_story": null,
+                "privacy_scope": "Public",
+                "edit_history": 4,
+                "is_anonymous": false,
+                "explicit_place": null,
+                "feedback": {
+                    "thread_id": "ZmVlZGJhY2s6NDcxMDcyMTM4NzgxNDYz",
+                    "reaction_count": 47,
+                    "comment_count": 6,
+                    "sub_comment_count": null,
+                    "like_count": 39,
+                    "share_count": 2,
+                    "reactions": [
+                        {
+                            "reaction_count": 39,
+                            "id": "1635855486666999"
+                        },
+                        {
+                            "reaction_count": 8,
+                            "id": "1678524932434102"
+                        }
+                    ]
+                },
+                "source_language": "Dutch",
+                "sponsored_data": null,
+                "is_sponsored": false
+            }
+        ]
+    },
+    "page_info": {
+        "start_cursor": "Cg8Ob3JnYW5pY19jdXJzb3IJAAACREFRSFNHWTBQUVNkeFdKbzJLMC1QSlBXWWNoX251R2lXX2RsaGxJOVV6VlV0QzZqdGJVSXJtSm5wbTNhX1NHRGw3bC1iNEtBYWtBRFpEdVowUE1RbWYzaUNwVFFndEt0RDNUZmFQWG9QUE93em1McWd4RkROeDlkaE1uWmZqVF9XN0l4eW5jSFlLdU9lWFhHQy1ISW1tQVdCVzlMX1BPRDhFdlp1UEk1RnRQRzJTYkswTU5zRDRKZlM3dnpfNHVkVW5vSEQ2TjRmNDU3SElSQlNqVDlHNGlyZXBDUWlfX2JvOFd2WXU0LURwYlIydExXZGFTYlpyVm9VcmRib1FmclJ6c0o3eHhIWjkzY0JYTWt0bnljU3hzU1ZpbmtZcm9XMzZhRzJMc2ltY2xFbnozUHBheHoyREtzdmdHbFBpOEtiQkdMSTUyYTNYRFAzb2dkYzJLc196aEtEUUtRajhfOWo5LTRlRmFtZG5xazcxbExzQkxJelFtWXd0UE9TT3JacUEwZnctODctWEx0Nkpzbk10V2o2eWFiM2Fwc3ZPY3ZiYjhSYVREZHNDMzJYUHNZd251NjlQaDBjclpNbnExS3RiS01NTnNoT3RnLS11Y3RIcUowMk9zX3JySm9RWTNlWmltdkt2dGUxUm5ZUVdseHdic0ZxdU1INTc1aXQtYnp3MnJNOEptdENNTk9UMnl2WWYzQ0hFVHFuTFhLOG1FN0ZFdmNrVG5vUFhaZXkyY2dUbE04YmJlVXk2WXBmZ1lVQk8zaHAPCWFkX2N1cnNvcg4PD2dsb2JhbF9wb3NpdGlvbgIADwZvZmZzZXQCAA8QbGFzdF9hZF9wb3NpdGlvbgL/AQ==",
+        "end_cursor": "eyJlbmRUaW1lIjoxNzE2MDY2NzQzfQ==",
+        "has_previous_page": false,
+        "has_next_page": true
+    }
+}

@@ -1,0 +1,1860 @@
+{
+    "tweets": [
+        {
+            "entryId": "tweet-1997575552396660879",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997575552396660879",
+                "retweeted_status_result": null,
+                "url": "https://x.com/timadesuyo/status/1997575552396660879",
+                "view_count": "28",
+                "conversation_id_str": "1997575552396660879",
+                "bookmark_count": 0,
+                "created_at": "Sun Dec 07 07:54:59 +0000 2025",
+                "full_text": "⣠⣤⣄⣠⣤⡀⠀⠀⠀⠀⠀⣠⣴⣦⣤⣶⣦⡀\n⢸⣿⣿⣿⣿⡿⣿⠀⠀⠀⠀⠀⣿⢺⣿⣿⣿⣿⡇\n  ⠙⢾⣿⣟⡿⠋⣀⠀⠀ ⠀⢀⠘⠿⣝⣛⡿⠋\n⠀⠀  ⠙⠋⠀⠘⠷⠖⠛⠲⠾⠃⠀⠈⠛⠁ https://t.co/95fzcWwoNi",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 1,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1662039028303290368",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/timadesuyo/status/1997575552396660879/photo/1",
+                            "id_str": "1997575545815801856",
+                            "media_url_https": "https://pbs.twimg.com/media/G7jQYBRboAAnMt4.jpg",
+                            "original_info": {
+                                "width": 1536,
+                                "height": 2048
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/95fzcWwoNi"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1662039028303290368",
+                    "id_str": "1662039028303290368",
+                    "created_at": "Fri May 26 10:12:44 +0000 2023",
+                    "name": "⚰️",
+                    "screen_name": "timadesuyo",
+                    "url": "https://t.co/QqbukyJhx6",
+                    "description": "♡ @kbk_mikocafe_ ♡ ひつぎっていいます🐈  🈂️ブ@timatima_zzz",
+                    "location": "遠隔➡️",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://kabukimiko.base.shop/",
+                                    "display_url": "kabukimiko.base.shop",
+                                    "url": "https://t.co/QqbukyJhx6"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "kbk_mikocafe_"
+                                },
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "timatima_zzz"
+                                }
+                            ]
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 3427,
+                    "followers_count": 155,
+                    "friends_count": 12,
+                    "media_count": 26,
+                    "normal_followers_count": 155,
+                    "pinned_tweet_ids_str": [
+                        "1994321911178989654"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662039028303290368/1754020321",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1966334978679332864/D5z_6MDD_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 607,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1997572320706351364",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997572320706351364",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Iskle_Bujang/status/1997572320706351364",
+                "view_count": "5",
+                "conversation_id_str": "1997536045005467675",
+                "bookmark_count": 0,
+                "created_at": "Sun Dec 07 07:42:09 +0000 2025",
+                "full_text": "@tvbzify CwLZvKRM3ZXSiV4DDBfjRc2KzKKzL2h8oj8aZUuwAa6K",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1359884332345806850",
+                            "name": "tab",
+                            "screen_name": "tvbzify"
+                        }
+                    ]
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "tl",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1826110225004507140",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1826110225004507140",
+                    "id_str": "1826110225004507140",
+                    "created_at": "Wed Aug 21 04:13:13 +0000 2024",
+                    "name": "Iskle_Bujang",
+                    "screen_name": "Iskle_Bujang",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 1657,
+                    "followers_count": 105,
+                    "friends_count": 742,
+                    "media_count": 51,
+                    "normal_followers_count": 105,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": null,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1996904449034584064/-uNl6QO6_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 1154,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1997536045005467675",
+                "in_reply_to_screen_name": "tvbzify",
+                "in_reply_to_user_id_str": "1359884332345806850"
+            }
+        },
+        {
+            "entryId": "tweet-1997571102374298020",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997571102374298020",
+                "retweeted_status_result": null,
+                "url": "https://x.com/jrex3247/status/1997571102374298020",
+                "view_count": "25",
+                "conversation_id_str": "1997571102374298020",
+                "bookmark_count": 0,
+                "created_at": "Sun Dec 07 07:37:18 +0000 2025",
+                "full_text": "😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨😮‍💨",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": true,
+                "lang": "art",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1913559844050948096",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1913559844050948096",
+                    "id_str": "1913559844050948096",
+                    "created_at": "Sat Apr 19 11:46:47 +0000 2025",
+                    "name": "Jrex3247",
+                    "screen_name": "jrex3247",
+                    "url": null,
+                    "description": "23/Aus/MDNI/",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 7913,
+                    "followers_count": 112,
+                    "friends_count": 359,
+                    "media_count": 36,
+                    "normal_followers_count": 112,
+                    "pinned_tweet_ids_str": [
+                        "1935090175811682762"
+                    ],
+                    "profile_banner_url": null,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1913562019095281664/3dxaazRN_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 3463,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {
+                    "result": {
+                        "__typename": "Tweet",
+                        "rest_id": "1997570719128166412",
+                        "retweeted_status_result": null,
+                        "url": "https://x.com/lilaloves69/status/1997570719128166412",
+                        "view_count": "100",
+                        "conversation_id_str": "1997570719128166412",
+                        "bookmark_count": 0,
+                        "created_at": "Sun Dec 07 07:35:47 +0000 2025",
+                        "full_text": "dolled up n ready but rlly i can’t stop thinking about daddy railing me and showing me how much i mean to him🫶🏼🫶🏼\n\n🤭 rape me! breed me!🤭\n\n🖤\n\nhttps://t.co/St9rejEXH9\n#rape #rapekink #daddy #cnc #bdsm #hardkink #pain #dom #submissive #forced #kidnapped #drunk #drugged #lesbian #chudai #pussy #wet #hard #rough #horny #selling #sellingnow #goon #goonette #goth #pics #nudes #of #corrupt #feet #feetworshi̇p",
+                        "entities": {
+                            "hashtags": [
+                                "rape",
+                                "rapekink",
+                                "daddy",
+                                "cnc",
+                                "bdsm",
+                                "hardkink",
+                                "pain",
+                                "dom",
+                                "submissive",
+                                "forced",
+                                "kidnapped",
+                                "drunk",
+                                "drugged",
+                                "lesbian"
+                            ],
+                            "symbols": [],
+                            "urls": [
+                                "http://throne.com/lilaloves69"
+                            ],
+                            "info_urls": [
+                                {
+                                    "shortened_url": "https://t.co/T2ZbHciA1o",
+                                    "expanded_url": "http://throne.com/lilaloves69",
+                                    "display_url": "throne.com/lilaloves69"
+                                }
+                            ],
+                            "user_mentions": []
+                        },
+                        "favorite_count": 1,
+                        "is_quote_status": false,
+                        "lang": "en",
+                        "quote_count": 1,
+                        "reply_count": 0,
+                        "retweet_count": 0,
+                        "retweeted": false,
+                        "user_id_str": "1616043864451878913",
+                        "possibly_sensitive": false,
+                        "extended_entities": {
+                            "media": [
+                                {
+                                    "additional_media_info": {},
+                                    "expanded_url": "https://x.com/lilaloves69/status/1997570719128166412/video/1",
+                                    "id_str": "1997570652988227584",
+                                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1997570652988227584/img/SEVLtK-rAeFFLMF9.jpg",
+                                    "original_info": {
+                                        "width": 720,
+                                        "height": 1280
+                                    },
+                                    "type": "video",
+                                    "url": "https://t.co/FbknnI95DK",
+                                    "video_info": {
+                                        "duration_millis": 2233,
+                                        "variants": [
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1997570652988227584/pl/bkepfIT1JZNx_ncG.m3u8",
+                                                "content_type": "application/x-mpegURL"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1997570652988227584/vid/avc1/320x568/7JVobvZD5GtrJg5M.mp4",
+                                                "content_type": "video/mp4"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1997570652988227584/vid/avc1/480x852/m-JD1DTVPdwFiHzx.mp4",
+                                                "content_type": "video/mp4"
+                                            },
+                                            {
+                                                "url": "https://video.twimg.com/amplify_video/1997570652988227584/vid/avc1/720x1280/Zx5ruxXFx5_EAjqe.mp4",
+                                                "content_type": "video/mp4"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "additional_media_info": {},
+                                    "expanded_url": "https://x.com/lilaloves69/status/1997570719128166412/video/1",
+                                    "id_str": "1997570652954624000",
+                                    "media_url_https": "https://pbs.twimg.com/media/G7jL7N8bAAAbO4o.jpg",
+                                    "original_info": {
+                                        "width": 868,
+                                        "height": 1229
+                                    },
+                                    "type": "photo",
+                                    "url": "https://t.co/FbknnI95DK"
+                                }
+                            ]
+                        },
+                        "user_details": {
+                            "__typename": "User",
+                            "rest_id": "1616043864451878913",
+                            "id_str": "1616043864451878913",
+                            "created_at": "Thu Jan 19 12:04:35 +0000 2023",
+                            "name": "Lila",
+                            "screen_name": "lilaloves69",
+                            "url": null,
+                            "description": "20 x | bratty goth baddie🕷️| lilaloves69 on reddit🖤| Check out my throne🤭🖤 https://t.co/SMUZjV5b55",
+                            "location": "Perth, Western Australia",
+                            "entities": {
+                                "description": {
+                                    "hashtags": [],
+                                    "symbols": [],
+                                    "urls": [
+                                        "https://throne.com/lilaloves69"
+                                    ],
+                                    "info_urls": [
+                                        {
+                                            "shortened_url": "https://t.co/SMUZjV5b55",
+                                            "expanded_url": "https://throne.com/lilaloves69",
+                                            "display_url": "throne.com/lilaloves69"
+                                        }
+                                    ],
+                                    "user_mentions": []
+                                }
+                            },
+                            "fast_followers_count": 0,
+                            "favourites_count": 49,
+                            "followers_count": 134,
+                            "friends_count": 16,
+                            "media_count": 15,
+                            "normal_followers_count": 134,
+                            "pinned_tweet_ids_str": [],
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616043864451878913/1765066333",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1996824920609927168/Kvt5i_wX_normal.jpg",
+                            "protected": false,
+                            "statuses_count": 47,
+                            "verified": true,
+                            "withheld_in_countries": [],
+                            "verified_type": "Blue",
+                            "is_blue_verified": true,
+                            "affiliates_highlighted_label": {},
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "private_super_following": false,
+                            "exclusive_tweet_following": false
+                        },
+                        "quoted_status_result": {},
+                        "is_retweet": false,
+                        "is_reply": false,
+                        "community_note": null
+                    }
+                },
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1997567068364058918",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1997567068364058918",
+                "retweeted_status_result": null,
+                "url": "https://x.com/likeimgone/status/1997567068364058918",
+                "view_count": "9",
+                "conversation_id_str": "1997567068364058918",
+                "bookmark_count": 0,
+                "created_at": "Sun Dec 07 07:21:16 +0000 2025",
+                "full_text": "ᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\n\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\nᅠ\n\nᅠ\n\nᅠ\nᅠ\nᅠ\nᅠ\nᅠㅤ\n\nᅠㅤ  \nᅠ\nᅠ https://t.co/QVWKiKv5cI",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "is_quote_status": false,
+                "lang": "ko",
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "retweeted": false,
+                "user_id_str": "1386864823586066437",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/likeimgone/status/1997567068364058918/photo/1",
+                            "id_str": "1997567062856843264",
+                            "media_url_https": "https://pbs.twimg.com/media/G7jIqPyaQAARu7w.jpg",
+                            "original_info": {
+                                "width": 276,
+                                "height": 460
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/QVWKiKv5cI"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1386864823586066437",
+                    "id_str": "1386864823586066437",
+                    "created_at": "Tue Apr 27 02:09:08 +0000 2021",
+                    "name": "👾",
+                    "screen_name": "likeimgone",
+                    "url": null,
+                    "description": "",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 149,
+                    "followers_count": 176,
+                    "friends_count": 0,
+                    "media_count": 1178,
+                    "normal_followers_count": 176,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386864823586066437/1724870910",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1992622291394707457/jaNC5x-3_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 11088,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1993581436058976458",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1993581436058976458",
+                "retweeted_status_result": null,
+                "url": "https://x.com/txrae7/status/1993581436058976458",
+                "view_count": "6178",
+                "conversation_id_str": "1993581436058976458",
+                "bookmark_count": 29,
+                "created_at": "Wed Nov 26 07:23:47 +0000 2025",
+                "full_text": "⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⣠⠾⠛⠶⣄⢀⣠⣤⠴⢦⡀⠀\n⠀⠀⠀⢠⡿⠉⠉⠉⠛⠶⠶⠖⠒⠒⣾⠋⠀⢀⣀⣙⣯⡁⠀⠀⠀⣿⠀\n⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⢯⣼⠋⠉⠙⢶⠞⠛⠻⣆\n⠀⠀⠀⢸⣧⠆⠀⠀⠀⠀⠀⠀⠀⠀⠻⣦⣤⡤⢿⡀⠀⢀⣼⣷⠀⠀⣽\n⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⢏⡉⠁⣠⡾ https://t.co/WRyR1zcXKP",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 580,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 62,
+                "retweeted": false,
+                "user_id_str": "1941701482237263874",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/txrae7/status/1993581436058976458/photo/1",
+                            "id_str": "1993581430656712706",
+                            "media_url_https": "https://pbs.twimg.com/media/G6qfv60bwAIREc6.jpg",
+                            "original_info": {
+                                "width": 1200,
+                                "height": 1231
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/WRyR1zcXKP"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1941701482237263874",
+                    "id_str": "1941701482237263874",
+                    "created_at": "Sun Jul 06 03:31:31 +0000 2025",
+                    "name": "♡",
+                    "screen_name": "txrae7",
+                    "url": "https://t.co/Ut9mtkEXGa",
+                    "description": "수많은 밤을 지나 마침내 여기✧･ﾟ: *✧･ﾟ:*",
+                    "location": "김태래",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://spin-spin.com/txrae7",
+                                    "display_url": "spin-spin.com/txrae7",
+                                    "url": "https://t.co/Ut9mtkEXGa"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 18426,
+                    "followers_count": 597,
+                    "friends_count": 495,
+                    "media_count": 1964,
+                    "normal_followers_count": 597,
+                    "pinned_tweet_ids_str": [
+                        "1971195593122013649"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941701482237263874/1763335449",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1990199194385272832/oh7q_Dy5_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 3840,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1992728591478796714",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1992728591478796714",
+                "retweeted_status_result": null,
+                "url": "https://x.com/DyoudiM/status/1992728591478796714",
+                "view_count": "50834",
+                "conversation_id_str": "1992728591478796714",
+                "bookmark_count": 114,
+                "created_at": "Sun Nov 23 22:54:53 +0000 2025",
+                "full_text": "︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n︎🫵\n\n︎\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎ \n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 1989,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 8,
+                "reply_count": 43,
+                "retweet_count": 128,
+                "retweeted": false,
+                "user_id_str": "1058374891676844033",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1058374891676844033",
+                    "id_str": "1058374891676844033",
+                    "created_at": "Fri Nov 02 15:06:52 +0000 2018",
+                    "name": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
+                    "screen_name": "DyoudiM",
+                    "url": "https://t.co/BvqUDEH2a7",
+                    "description": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+                    "location": "🔞",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://linktr.ee/dyoudi",
+                                    "display_url": "linktr.ee/dyoudi",
+                                    "url": "https://t.co/BvqUDEH2a7"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 34744,
+                    "followers_count": 106897,
+                    "friends_count": 3551,
+                    "media_count": 388,
+                    "normal_followers_count": 106897,
+                    "pinned_tweet_ids_str": [
+                        "1912189176243486949"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058374891676844033/1741397966",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1898186761848692736/ZQhAiSmC_normal.png",
+                    "protected": false,
+                    "statuses_count": 20888,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1984291571739865400",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1984291571739865400",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Acare_ct/status/1984291571739865400",
+                "view_count": "26939",
+                "conversation_id_str": "1984277847356428573",
+                "bookmark_count": 13,
+                "created_at": "Fri Oct 31 16:09:11 +0000 2025",
+                "full_text": "@tm242046 55555555555555555555555555 55555555555555555555555555 55555555555555555555555555 55555555555555555555555555 55555555555555555555555555 55555555555555555555555555 55555555555555555555555555 55555555555555555555555555",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1090188610589011968",
+                            "name": "teemem",
+                            "screen_name": "tm242046"
+                        }
+                    ]
+                },
+                "favorite_count": 673,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 18,
+                "reply_count": 6,
+                "retweet_count": 329,
+                "retweeted": false,
+                "user_id_str": "1746762362731032576",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1746762362731032576",
+                    "id_str": "1746762362731032576",
+                    "created_at": "Mon Jan 15 05:13:06 +0000 2024",
+                    "name": "Acare_ct",
+                    "screen_name": "Acare_ct",
+                    "url": "https://t.co/67cslTXZkn",
+                    "description": "gmmtv #acare_ct ummmmmmmmmmmmmmmmmm",
+                    "location": "",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://www.instagram.com/acare.ct?igsh=bmhxMGYwcnJ5bjE3",
+                                    "display_url": "instagram.com/acare.ct?igsh=…",
+                                    "url": "https://t.co/67cslTXZkn"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [
+                                "acare_ct"
+                            ],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 1930,
+                    "followers_count": 26222,
+                    "friends_count": 108,
+                    "media_count": 330,
+                    "normal_followers_count": 26222,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746762362731032576/1705322163",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1902525146755428352/x6s_JoEW_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 994,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": true,
+                "community_note": null,
+                "in_reply_to_status_id_str": "1984277847356428573",
+                "in_reply_to_screen_name": "tm242046",
+                "in_reply_to_user_id_str": "1090188610589011968"
+            }
+        },
+        {
+            "entryId": "tweet-1978796403624411620",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1978796403624411620",
+                "retweeted_status_result": null,
+                "url": "https://x.com/tysmth_/status/1978796403624411620",
+                "view_count": "3363",
+                "conversation_id_str": "1978796403624411620",
+                "bookmark_count": 1,
+                "created_at": "Thu Oct 16 12:13:21 +0000 2025",
+                "full_text": "🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭🤭 https://t.co/mqtF6MYoGN",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 226,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 12,
+                "retweeted": false,
+                "user_id_str": "1444594596604874755",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/tysmth_/status/1978796403624411620/photo/1",
+                            "id_str": "1978796399631474688",
+                            "media_url_https": "https://pbs.twimg.com/media/G3YY12LbIAA5w-o.jpg",
+                            "original_info": {
+                                "width": 590,
+                                "height": 596
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/mqtF6MYoGN"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1444594596604874755",
+                    "id_str": "1444594596604874755",
+                    "created_at": "Sun Oct 03 09:26:20 +0000 2021",
+                    "name": "tia🐣🙊🤠",
+                    "screen_name": "tysmth_",
+                    "url": "https://t.co/1kFeIy0RzM",
+                    "description": "📌 woodz | ateez | kdrama | Cdrama | \nRaisa Marie |\nyapping #Mora everyday 🐥🫂👏",
+                    "location": "",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://www.tiktok.com/@ttiamore",
+                                    "display_url": "tiktok.com/@ttiamore",
+                                    "url": "https://t.co/1kFeIy0RzM"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [
+                                "Mora"
+                            ],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 21882,
+                    "followers_count": 713,
+                    "friends_count": 325,
+                    "media_count": 2963,
+                    "normal_followers_count": 713,
+                    "pinned_tweet_ids_str": [
+                        "1965737167172608482"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444594596604874755/1764593124",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1997123768553213952/OBJXuxOm_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 11225,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1937492356292575555",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1937492356292575555",
+                "retweeted_status_result": null,
+                "url": "https://x.com/abdcfg9543/status/1937492356292575555",
+                "view_count": "4282",
+                "conversation_id_str": "1937492356292575555",
+                "bookmark_count": 5,
+                "created_at": "Tue Jun 24 12:45:49 +0000 2025",
+                "full_text": "1am03JVwZoFkjmqO5H3DAkLIeULqu\nB9f8QWflmoIQ7Pq62Ir5EerpauOfy\n2A2EtAxlD7arpbygQ1jgrIyFfnbrA\nKYJIlazTTYrIcHMR9BRDYIGasSfoP\nc3aqBhFtXOFk3Ba3oR5oIgePdYTCs\nnO0uM5dvNK3F9HmJlARogATCd8y1j\nkG2rfTG1iQ59vgzvzzj315WrZm7Ed\nKRV4uH8f1wk8F5akh7qUQ9Jr6sdjE\njhUQNzpaBKj2lFSxfEBBTIAG4lQ6i\ns9i9cK4Tf6",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 237,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 1,
+                "reply_count": 27,
+                "retweet_count": 21,
+                "retweeted": false,
+                "user_id_str": "1727982440059441152",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1727982440059441152",
+                    "id_str": "1727982440059441152",
+                    "created_at": "Fri Nov 24 09:28:38 +0000 2023",
+                    "name": "abcdfg953",
+                    "screen_name": "abdcfg9543",
+                    "url": "https://t.co/rrdkOZ0qfw",
+                    "description": "CHOPPED CHIN YN FLICKERGOONER FROM OHIO'BLOCK 😎😎😎😎😎 DON'T TS PMO ME OR YOU'RE GETTING SYBAU'D... 😈😈😈😈👹👹👹👹👹🙏🙏🙏🙏‼️‼️‼️‼️‼️",
+                    "location": "",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://abcdfg953.straw.page",
+                                    "display_url": "abcdfg953.straw.page",
+                                    "url": "https://t.co/rrdkOZ0qfw"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 272433,
+                    "followers_count": 6617,
+                    "friends_count": 331,
+                    "media_count": 4481,
+                    "normal_followers_count": 6617,
+                    "pinned_tweet_ids_str": [
+                        "1782679845287395686"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727982440059441152/1733372421",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1995501078935400449/XgErPGVS_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 17423,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1893292811128103320",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1893292811128103320",
+                "retweeted_status_result": null,
+                "url": "https://x.com/tyunnyangiez/status/1893292811128103320",
+                "view_count": "7295",
+                "conversation_id_str": "1893292811128103320",
+                "bookmark_count": 30,
+                "created_at": "Sat Feb 22 13:32:36 +0000 2025",
+                "full_text": "⠀⠀⠀⠀⠀⠀⠀   ⠀⠀⣾⠉⢳⣰⠋⠙⡆⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡀         ⡀⠘⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠙⠷⠋\n⣰⠟⠉⠙⢦⡀⢀⣾⡟⠉⠳⣆\n⣿⠀⠀⠀⠀⠛⠛⠁⠀⠀⠀⡿\n⠸⣇⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃\n ⠙⢧⡀⠀⠀⠀    ⠀⢀⡴⠃⠀\n⠀⠀⠀⠙⠶⣄⣀⠴⠋⠀⠀⠀⠀ https://t.co/51nLta7id4",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 487,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 83,
+                "retweeted": false,
+                "user_id_str": "1520181216552570881",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/tyunnyangiez/status/1893292811128103320/photo/1",
+                            "id_str": "1893292809085435905",
+                            "media_url_https": "https://pbs.twimg.com/media/GkZTx11WwAETCfC.jpg",
+                            "original_info": {
+                                "width": 1066,
+                                "height": 1332
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/51nLta7id4"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1520181216552570881",
+                    "id_str": "1520181216552570881",
+                    "created_at": "Fri Apr 29 23:21:25 +0000 2022",
+                    "name": "ꨄ",
+                    "screen_name": "tyunnyangiez",
+                    "url": null,
+                    "description": "for our sweetheart #태현 | fan account",
+                    "location": "one admin ~ she/her",
+                    "entities": {
+                        "description": {
+                            "hashtags": [
+                                "태현"
+                            ],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 8012,
+                    "followers_count": 16111,
+                    "friends_count": 105,
+                    "media_count": 7803,
+                    "normal_followers_count": 16111,
+                    "pinned_tweet_ids_str": [
+                        "1947043895977640096"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520181216552570881/1730645873",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1853092645939433473/5alboJwg_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 9612,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1889967526416887868",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1889967526416887868",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Tyson2OO4/status/1889967526416887868",
+                "view_count": "6112",
+                "conversation_id_str": "1889967526416887868",
+                "bookmark_count": 9,
+                "created_at": "Thu Feb 13 09:19:06 +0000 2025",
+                "full_text": "͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏\n\n͏͏\n\n͏\n͏\n\n͏\n\nHaiii :3",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 279,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 53,
+                "retweet_count": 7,
+                "retweeted": false,
+                "user_id_str": "1704129388898594816",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1704129388898594816",
+                    "id_str": "1704129388898594816",
+                    "created_at": "Tue Sep 19 13:45:06 +0000 2023",
+                    "name": "Tyson💖💛💙",
+                    "screen_name": "Tyson2OO4",
+                    "url": "https://t.co/es8vB3EfyU",
+                    "description": "🇦🇺 21, He/Him, Femboy, Pansexual💖💛💙, you can donate to my throne: https://t.co/UjkMFLNJly or preferably https://t.co/7AdeRMIB62",
+                    "location": "Alone",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "expanded_url": "https://m.twitch.tv/kite_8833/home?tt_content=channel&tt_medium=mobile_web_share",
+                                    "display_url": "m.twitch.tv/kite_8833/home…",
+                                    "url": "https://t.co/es8vB3EfyU"
+                                }
+                            ]
+                        },
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [
+                                "https://throne.com/tyson2oo4",
+                                "https://revolut.me/tyson833"
+                            ],
+                            "info_urls": [
+                                {
+                                    "shortened_url": "https://t.co/UjkMFLNJly",
+                                    "expanded_url": "https://throne.com/tyson2oo4",
+                                    "display_url": "throne.com/tyson2oo4"
+                                },
+                                {
+                                    "shortened_url": "https://t.co/7AdeRMIB62",
+                                    "expanded_url": "https://revolut.me/tyson833",
+                                    "display_url": "revolut.me/tyson833"
+                                }
+                            ],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 53377,
+                    "followers_count": 18087,
+                    "friends_count": 334,
+                    "media_count": 4353,
+                    "normal_followers_count": 18087,
+                    "pinned_tweet_ids_str": [
+                        "1970358181797994996"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704129388898594816/1731840333",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1934327022312181760/5MSddxuR_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 18071,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1887194694524010986",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1887194694524010986",
+                "retweeted_status_result": null,
+                "url": "https://x.com/tmkjrr/status/1887194694524010986",
+                "view_count": "19542",
+                "conversation_id_str": "1887194694524010986",
+                "bookmark_count": 45,
+                "created_at": "Wed Feb 05 17:40:52 +0000 2025",
+                "full_text": "⠀⠀⠀⢀⣤⣤⣤⣄⠀⠀⣀⣤⠶⣦⣄⠀\n⠀⠀⣰⠟⠀⠀⠀⠉⠻⣾⠋⠀⡎⢱⠹⣧\n⠀⠈⣿⠀⠀⠀⠀⠀⠀⠁⠀⠀⠑⠊⢠⡿\n⠀⠀⢻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠁\n⠀⠀⠀⠙⠳⢦⣄⣀⠀⠀⠀⢀⣴⠟⠁\n⠀⠀⠀⠀⠀⠀⠈⠙⠳⣦⣴⠟⠁\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁ https://t.co/Rxs6aqheDp",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 1427,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 8,
+                "reply_count": 2,
+                "retweet_count": 549,
+                "retweeted": false,
+                "user_id_str": "1688056345",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/cyeolqx/status/1887194694524010986/photo/1",
+                            "id_str": "1887194683832705024",
+                            "media_url_https": "https://pbs.twimg.com/media/GjCpkO_aoAA3BpA.jpg",
+                            "original_info": {
+                                "width": 2048,
+                                "height": 1536
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/Rxs6aqheDp"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1688056345",
+                    "id_str": "1688056345",
+                    "created_at": "Wed Aug 21 11:01:54 +0000 2013",
+                    "name": "i ( tmkjr ) you",
+                    "screen_name": "tmkjrr",
+                    "url": null,
+                    "description": "( fan account ) i ♡ @tthomastc @kongjiro_⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+                    "location": "exo ( chanbaek ) ",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "tthomastc"
+                                },
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "kongjiro_"
+                                }
+                            ]
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 184082,
+                    "followers_count": 5464,
+                    "friends_count": 338,
+                    "media_count": 12666,
+                    "normal_followers_count": 5464,
+                    "pinned_tweet_ids_str": [
+                        "1957113724638306542"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688056345/1748247513",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1981759169565708291/zJpwZoWS_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 542153,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1886209885576057212",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1886209885576057212",
+                "retweeted_status_result": null,
+                "url": "https://x.com/user_UNUSED_/status/1886209885576057212",
+                "view_count": "6024",
+                "conversation_id_str": "1886209885576057212",
+                "bookmark_count": 5,
+                "created_at": "Mon Feb 03 00:27:35 +0000 2025",
+                "full_text": "╪ͥͥͥͥͥͥͥͥͥͥͥͥͥ͏͋͏͋͏͋͏͋͏͋͏͋͏͋͏͋͏͋     Ͱ҉̅҉̅҉̅҉̅҉̅         ✌︎       \n  ̷ ̷ ̷ ̷ ̷ ̷ ̷ ̷ ̷ ̷ ̷ ̷ ̷☻ ❍❍̷ ̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷̷͇͇͇͇͇͇͇͇͇͇͇͇͇͇̿̿̿̿̿̿ͬͤ ͬͬͤ ͦͬͬͤ ͬͤͬͦͬͬͤ▌̷          ͇͇͇͇͇͇͇͇͇͇͇͇͇͇̿』 ͇͇͇͇͇͇͇͇͇͇͇͇͇͇̿̿̿̿ ͇͇̿\n    ▉❙    ✌︎ ❘    ͬͦͬͬͤ ͤͬͦͬͬͤ▔",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 217,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 12,
+                "retweeted": false,
+                "user_id_str": "1831211628018188289",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1831211628018188289",
+                    "id_str": "1831211628018188289",
+                    "created_at": "Wed Sep 04 06:04:28 +0000 2024",
+                    "name": "U൙ਓiͥͥͥ ͤͬͦͬͬͤͬͦͬͬͬͦͬͬͤͬͦͬͬͤ5☻D ̶̄͂ ̶",
+                    "screen_name": "user_UNUSED_",
+                    "url": null,
+                    "description": "▙̄̄̄٫ٕ̙ٕ⌨ِّٕi(¿¿⃝)═《𝚄𝙽𝚄𝚂𝙴𝙳_》٫═════{☺︎}═###░̿̿",
+                    "location": "␏҈ݴ҈҈҈҈҈҈ִ҈҈ᵕ◗҈҈҈҈҈҈ҍԕ҈ᓳᇋ///ĉྂ",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 564,
+                    "followers_count": 13526,
+                    "friends_count": 6,
+                    "media_count": 127,
+                    "normal_followers_count": 13526,
+                    "pinned_tweet_ids_str": [
+                        "1884631209101148529"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831211628018188289/1764040627",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1993156486252339200/vabdGB-M_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 299,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1885148285066690785",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1885148285066690785",
+                "retweeted_status_result": null,
+                "url": "https://x.com/user_UNUSED_/status/1885148285066690785",
+                "view_count": "7231",
+                "conversation_id_str": "1885148285066690785",
+                "bookmark_count": 6,
+                "created_at": "Fri Jan 31 02:09:10 +0000 2025",
+                "full_text": "۫ͫ̈́̊̃͛͐̎̂̓̃̇͛̍ͪͩ́͒͆̓̉̽̍̏͂ͮ̈́ͦ̀ͤ͗̅͗̄̐̃ͬͮͣͩͮ̆̓́͛ͯͤͣͧ̔ͮ̈́ͯ̅۫ͫ̈́̊̃͛͐̎̂̓̃̇͛̍ͪͩ́͒͆̓̉̽̍̏͂ͮ̈́ͦ̀ͤ͗̅͗̄̐̃ͬͮͣͩͮ̆̓́͛ͯͤͣͧ̔ͮ̈́ͯ̅۫ͫ̈́̊̃͛͐̎̂̓̃̇͛̍ͪͩ́͒͆̓̉̽̍̏͂ͮ̈́ͦ̀ͤ͗̅͗̄̐̃ͬͮͣͩͮ̆̓́͛ͯͤͣͧ̔ͮ̈́ͯ̅۫ͫ̈́̊̃͛͐̎̂̓̃̇͛̍ͪͩ́͒͆̓̉̽̍̏͂ͮ̈́ͦ̀ͤ͗̅͗̄̐̃ͬͮͣͩͮ̆̓́͛ͯͤͣͧ̔ͮ̈́ͯ̅۫ͫ̈́̊̃͛͐̎̂̓̃̇͛̍ͪͩ́͒͆̓̉̽̍̏͂ͮ̈́ͦ̀ͤ͗̅͗̄̚̚̚̚̚̚̚̚̚̚̚̚̚̚",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 340,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 0,
+                "reply_count": 15,
+                "retweet_count": 14,
+                "retweeted": false,
+                "user_id_str": "1831211628018188289",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1831211628018188289",
+                    "id_str": "1831211628018188289",
+                    "created_at": "Wed Sep 04 06:04:28 +0000 2024",
+                    "name": "U൙ਓiͥͥͥ ͤͬͦͬͬͤͬͦͬͬͬͦͬͬͤͬͦͬͬͤ5☻D ̶̄͂ ̶",
+                    "screen_name": "user_UNUSED_",
+                    "url": null,
+                    "description": "▙̄̄̄٫ٕ̙ٕ⌨ِّٕi(¿¿⃝)═《𝚄𝙽𝚄𝚂𝙴𝙳_》٫═════{☺︎}═###░̿̿",
+                    "location": "␏҈ݴ҈҈҈҈҈҈ִ҈҈ᵕ◗҈҈҈҈҈҈ҍԕ҈ᓳᇋ///ĉྂ",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 564,
+                    "followers_count": 13526,
+                    "friends_count": 6,
+                    "media_count": 127,
+                    "normal_followers_count": 13526,
+                    "pinned_tweet_ids_str": [
+                        "1884631209101148529"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831211628018188289/1764040627",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1993156486252339200/vabdGB-M_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 299,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1884876252894413163",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1884876252894413163",
+                "retweeted_status_result": null,
+                "url": "https://x.com/user_UNUSED_/status/1884876252894413163",
+                "view_count": "10705",
+                "conversation_id_str": "1884876252894413163",
+                "bookmark_count": 35,
+                "created_at": "Thu Jan 30 08:08:12 +0000 2025",
+                "full_text": "░۫░ͫ░̈́░̊░̃░͛░͐░̎░̂░̓░̃░̇░͛░̍░̚░ͪ░ͩ░́\n░͒░͆░̓░̉\n░͗̚ｕｎ░͂░ͮｄｅｆｉｎｅｄ۫ͫ̈́̊̃͛͐̎̂̓̃̇░̽░̍░̏░̈́░ͦ░̀░ͤ░͗░̅░͗░̄░ͣ░ͩ░ͮ░̚░̆░̓░́░͛░ͯ░ͤ░ͣ░ͧ░̔░ͮ░̈́░ͯ░̅░ͫ░̈́░̊░̃░͛░͐░̎░̂░̓░̃░̇░͛░̍░̚░ͪ░ͩ░́░͒░͆░̓░̉░̚░̽",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 886,
+                "is_quote_status": false,
+                "lang": "und",
+                "quote_count": 5,
+                "reply_count": 8,
+                "retweet_count": 48,
+                "retweeted": false,
+                "user_id_str": "1831211628018188289",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1831211628018188289",
+                    "id_str": "1831211628018188289",
+                    "created_at": "Wed Sep 04 06:04:28 +0000 2024",
+                    "name": "U൙ਓiͥͥͥ ͤͬͦͬͬͤͬͦͬͬͬͦͬͬͤͬͦͬͬͤ5☻D ̶̄͂ ̶",
+                    "screen_name": "user_UNUSED_",
+                    "url": null,
+                    "description": "▙̄̄̄٫ٕ̙ٕ⌨ِّٕi(¿¿⃝)═《𝚄𝙽𝚄𝚂𝙴𝙳_》٫═════{☺︎}═###░̿̿",
+                    "location": "␏҈ݴ҈҈҈҈҈҈ִ҈҈ᵕ◗҈҈҈҈҈҈ҍԕ҈ᓳᇋ///ĉྂ",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 564,
+                    "followers_count": 13526,
+                    "friends_count": 6,
+                    "media_count": 127,
+                    "normal_followers_count": 13526,
+                    "pinned_tweet_ids_str": [
+                        "1884631209101148529"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831211628018188289/1764040627",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1993156486252339200/vabdGB-M_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 299,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1884543028922360257",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1884543028922360257",
+                "retweeted_status_result": null,
+                "url": "https://x.com/tmkjrr/status/1884543028922360257",
+                "view_count": "22334",
+                "conversation_id_str": "1884543028922360257",
+                "bookmark_count": 54,
+                "created_at": "Wed Jan 29 10:04:05 +0000 2025",
+                "full_text": "😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭 https://t.co/yEnvg71Tk6",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 1754,
+                "is_quote_status": false,
+                "lang": "qme",
+                "quote_count": 8,
+                "reply_count": 0,
+                "retweet_count": 900,
+                "retweeted": false,
+                "user_id_str": "1688056345",
+                "possibly_sensitive": false,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {},
+                            "expanded_url": "https://x.com/cyeolqx/status/1884543028922360257/photo/1",
+                            "id_str": "1884543021414576128",
+                            "media_url_https": "https://pbs.twimg.com/media/Gic95KtbcAA9mqY.jpg",
+                            "original_info": {
+                                "width": 2048,
+                                "height": 1368
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/yEnvg71Tk6"
+                        }
+                    ]
+                },
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1688056345",
+                    "id_str": "1688056345",
+                    "created_at": "Wed Aug 21 11:01:54 +0000 2013",
+                    "name": "i ( tmkjr ) you",
+                    "screen_name": "tmkjrr",
+                    "url": null,
+                    "description": "( fan account ) i ♡ @tthomastc @kongjiro_⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+                    "location": "exo ( chanbaek ) ",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "tthomastc"
+                                },
+                                {
+                                    "id_str": "0",
+                                    "name": "",
+                                    "screen_name": "kongjiro_"
+                                }
+                            ]
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 184082,
+                    "followers_count": 5464,
+                    "friends_count": 338,
+                    "media_count": 12666,
+                    "normal_followers_count": 5464,
+                    "pinned_tweet_ids_str": [
+                        "1957113724638306542"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688056345/1748247513",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1981759169565708291/zJpwZoWS_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 542153,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1878728028634620020",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1878728028634620020",
+                "retweeted_status_result": null,
+                "url": "https://x.com/Bitcoin_Teddy/status/1878728028634620020",
+                "view_count": "7275",
+                "conversation_id_str": "1878728028634620020",
+                "bookmark_count": 8,
+                "created_at": "Mon Jan 13 08:57:21 +0000 2025",
+                "full_text": "🟧🟧🟧\n🟧       🟧\n🟧🟧🟧\n🟧       🟧\n🟧🟧🟧\n\n🟧\n🟧\n🟧\n🟧\n🟧\n\n🟧🟧🟧\n     🟧\n     🟧\n     🟧\n     🟧\n\n     🟧🟧\n🟧\n🟧\n🟧\n     🟧🟧\n\n     🟧🟧\n🟧          🟧\n🟧          🟧\n🟧          🟧\n     🟧🟧\n\n🟧\n🟧\n🟧\n🟧\n🟧\n\n🟧          🟧\n🟧🟧    🟧\n🟧    🟧🟧\n🟧          🟧\n🟧          🟧",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 234,
+                "is_quote_status": false,
+                "lang": "art",
+                "quote_count": 3,
+                "reply_count": 19,
+                "retweet_count": 45,
+                "retweeted": false,
+                "user_id_str": "1605310254085980161",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1605310254085980161",
+                    "id_str": "1605310254085980161",
+                    "created_at": "Tue Dec 20 21:14:01 +0000 2022",
+                    "name": "Bitcoin Teddy",
+                    "screen_name": "Bitcoin_Teddy",
+                    "url": null,
+                    "description": "Follow Us For Daily Bitcoin Insights",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 170217,
+                    "followers_count": 55906,
+                    "friends_count": 17424,
+                    "media_count": 3151,
+                    "normal_followers_count": 55906,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605310254085980161/1760862451",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1739753415134138368/FrWHMAnb_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 4636,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1876919965900558796",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1876919965900558796",
+                "retweeted_status_result": null,
+                "url": "https://x.com/_mymsgs/status/1876919965900558796",
+                "view_count": "27367",
+                "conversation_id_str": "1876919965900558796",
+                "bookmark_count": 92,
+                "created_at": "Wed Jan 08 09:12:46 +0000 2025",
+                "full_text": "✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨\n✨ ✨ ☁ ☁ ☁ ☁ ☁ ✨ ✨\n✨ ✨ ✨ ✨ ☁ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ☁ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ☁ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ☁ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ☁ ✨ ✨ ✨ ✨\n✨ ✨ ☁ ☁ ☁ ☁ ☁ ✨ ✨\n✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨\n✨ ✨ ☁ ☁ ✨ ☁ ☁ ✨ ✨\n✨ ☁ ✨ ✨ ☁ ✨ ✨ ☁ ✨\n✨ ☁ ✨ ✨ ✨ ✨ ✨ ☁ ✨\n✨ ☁ ✨ ✨ ✨ ✨ ✨ ☁ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ✨ ☁ ✨ ☁ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ☁ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ☁ ✨ ✨ ✨ ☁ ✨ ✨\n✨ ✨ ✨ ☁ ☁ ☁ ✨ ✨ ✨\n✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 367,
+                "is_quote_status": false,
+                "lang": "art",
+                "quote_count": 9,
+                "reply_count": 30,
+                "retweet_count": 64,
+                "retweeted": false,
+                "user_id_str": "1438053991192178692",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1438053991192178692",
+                    "id_str": "1438053991192178692",
+                    "created_at": "Wed Sep 15 08:16:27 +0000 2021",
+                    "name": "messages.",
+                    "screen_name": "_mymsgs",
+                    "url": null,
+                    "description": "best love page for my love in the world follow and turn on notifications 🔔",
+                    "location": "",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "urls": [],
+                            "info_urls": [],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 6648,
+                    "followers_count": 105060,
+                    "friends_count": 9569,
+                    "media_count": 10143,
+                    "normal_followers_count": 105060,
+                    "pinned_tweet_ids_str": [],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438053991192178692/1702816759",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1775178275305721856/fkm4vpU6_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 68297,
+                    "verified": true,
+                    "withheld_in_countries": [],
+                    "verified_type": "Blue",
+                    "is_blue_verified": true,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        },
+        {
+            "entryId": "tweet-1873327702293524685",
+            "tweet": {
+                "__typename": "Tweet",
+                "rest_id": "1873327702293524685",
+                "retweeted_status_result": null,
+                "url": "https://x.com/the_yescoin/status/1873327702293524685",
+                "view_count": "104374",
+                "conversation_id_str": "1873327702293524685",
+                "bookmark_count": 21,
+                "created_at": "Sun Dec 29 11:18:23 +0000 2024",
+                "full_text": "Repeat with me: TGE Q1 2025\n\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025\nTGE Q1 2025",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [],
+                    "info_urls": [],
+                    "user_mentions": []
+                },
+                "favorite_count": 1558,
+                "is_quote_status": false,
+                "lang": "es",
+                "quote_count": 17,
+                "reply_count": 352,
+                "retweet_count": 147,
+                "retweeted": false,
+                "user_id_str": "1778485521481654272",
+                "possibly_sensitive": null,
+                "extended_entities": null,
+                "user_details": {
+                    "__typename": "User",
+                    "rest_id": "1778485521481654272",
+                    "id_str": "1778485521481654272",
+                    "created_at": "Thu Apr 11 18:09:39 +0000 2024",
+                    "name": "Yescoin Foundation",
+                    "screen_name": "the_yescoin",
+                    "url": null,
+                    "description": "The $YES pre-sale is now live! Buy your tokens now at https://t.co/oaMLyVxJfP",
+                    "location": "Not found",
+                    "entities": {
+                        "description": {
+                            "hashtags": [],
+                            "symbols": [
+                                "YES"
+                            ],
+                            "urls": [
+                                "http://Yescoin.foundation"
+                            ],
+                            "info_urls": [
+                                {
+                                    "shortened_url": "https://t.co/oaMLyVxJfP",
+                                    "expanded_url": "http://Yescoin.foundation",
+                                    "display_url": "Yescoin.foundation"
+                                }
+                            ],
+                            "user_mentions": []
+                        }
+                    },
+                    "fast_followers_count": 0,
+                    "favourites_count": 69839,
+                    "followers_count": 1583652,
+                    "friends_count": 889,
+                    "media_count": 243,
+                    "normal_followers_count": 1583652,
+                    "pinned_tweet_ids_str": [
+                        "1899817436561408033"
+                    ],
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778485521481654272/1712863372",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1836344698622857216/YesQeeEq_normal.jpg",
+                    "protected": false,
+                    "statuses_count": 2371,
+                    "verified": false,
+                    "withheld_in_countries": [],
+                    "verified_type": "None",
+                    "is_blue_verified": false,
+                    "affiliates_highlighted_label": {},
+                    "super_followed_by": false,
+                    "super_following": false,
+                    "private_super_following": false,
+                    "exclusive_tweet_following": false
+                },
+                "quoted_status_result": {},
+                "is_retweet": false,
+                "is_reply": false,
+                "community_note": null
+            }
+        }
+    ],
+    "cursor_top": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHN2pRWVp5YmtJOEtBQUlaXzJXZXN4cXd6UUFJQUFJQUFBQUJDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJ1TkYtR29BbkVBb0FCaHU0MFg0YWY5andBQUEiLCJfcXVlcnlJZCI6ImRjOTExZGZmLTBiMmEtNDI4OC04YjczLWUxN2RlNDRiYzViNCJ9",
+    "cursor_bottom": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHN2pRWVp5YmtJOEtBQUlaXzJXZXN4cXd6UUFJQUFJQUFBQUNDQUFEQUFBQUFBZ0FCQUFBQUFBS0FBVWJ1TkYtR29BbkVBb0FCaHU0MFg0YWY5andBQUEiLCJfcXVlcnlJZCI6ImRjOTExZGZmLTBiMmEtNDI4OC04YjczLWUxN2RlNDRiYzViNCJ9"
+}

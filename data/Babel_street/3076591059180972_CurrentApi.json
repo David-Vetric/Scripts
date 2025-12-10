@@ -1,0 +1,248 @@
+{
+	"__typename": "Story",
+	"title": null,
+	"titleFromRenderLocation": "Laszlo Nicolae Kokovics is feeling excited with Alpine Reșița-Semenic Challenge. and 3 others in Resita, Romania.",
+	"creation_time": 1761136723,
+	"url": "https://www.facebook.com/groups/934026256770807/permalink/3076591059180972/",
+	"message": "‼️📢 Joi, de la ora 18.00 ‼️ alergare Centru - Govândari  🏃‍♀️🏃\n🏃‍♀️ Vino cu noi la o alergare ușoară de grup, în fiecare joi (oraș) și în fiecare duminică la pădure (trail - poteci) la Reșița! 🏃‍♂️\nDacă vrei să începi să alergi sau cauți motivație, te așteptăm joi ora 18.00 și duminică, la ora 17:00, la Podul Cultural. Este o alergare prietenoasă, pentru toate nivelurile – perfectă pentru începători!\n🔹 Ritm lejer\n🔹 Pauze ori de câte ori e nevoie\n🔹 Atmosferă relaxată\n🔹 Nu lăsăm pe nimeni în urmă\n👟 Tot ce ai nevoie: încălțări comode, de asfalt (joi) sau de trail/potecă (duminică) și chef de mișcare! (și o sticlă de apă 0,5)\n🎟️ Participarea este gratuită.\nVino singur(ă) sau cu prieteni – noi te primim cu zâmbetul pe buze. Hai să ne mișcăm împreună, în fiecare joi!\n📍 Punct de întâlnire: Podul Cultural, Reșița\n🕕 Ora: 18:00 joi și ora 17:00 duminică \n📆 Când: În fiecare joi și în fiecare duminică \n#AlergareReșița #HaiCuNoi #AlergarePentruÎncepători #MișcareÎnGrup #trail #trailrunning #alergărireșița #resitatrail\n📷 Bianca Banica",
+	"post_id": "3076591059180972",
+	"actors": [
+		{
+			"__typename": "User",
+			"id": "100009043598215",
+			"gender": "MALE",
+			"name": "Laszlo Nicolae Kokovics",
+			"profile_picture": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/419868078_3405807733063980_8722439370224847334_n.jpg?stp=c366.0.1316.1317a_cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_ohc=qCTCstyx4SoQ7kNvwFh1Oy_&_nc_oc=Adl6Nbh8CYbgF7PT80YpXhn80gfdOSrOZXtLwK3hNae3JAHBTGwVy0ochXfWiu8peFY&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&oh=00_Afc-M0ZnvAXY9jRMKwDpCZ6M1CSdUwi0ryH45pcOHB0kwQ&oe=69002667",
+			"is_verified": false,
+			"url": "https://m.facebook.com/resita.trail/"
+		}
+	],
+	"collaborators": [],
+	"attachments": [
+		{
+			"title": "Photos from Laszlo Nicolae Kokovics's post",
+			"subtitle": null,
+			"url": "https://m.facebook.com/dcb/tcnle/?t=j86f93of7iao1ab&set=pcb.3076591059180972&type=1",
+			"target": {
+				"__typename": "MediaContainerMediaSet",
+				"feedback": null,
+				"media": {
+					"image": null,
+					"is_playable": null,
+					"preferredPlayableUrlString": null,
+					"playable_duration_in_ms": null,
+					"feedback": null
+				},
+				"options": null,
+				"owner": null
+			},
+			"is_poll_closed": null,
+			"text": null,
+			"media": {
+				"image": {
+					"uri": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/569129987_3961084997536248_3162993091674872008_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5FkUNgg87GgQ7kNvwHYr_mB&_nc_oc=Adnmqy-ts6sSlznCwN__g5ARCvJwkUQGB-K0SeKBeEOCzZ_Ozu8RH91klRnUwXCwpbg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&oh=00_Afd1ukL5HFYopQ_8j0SMOiWKCDM67y61E-wH5ds-52O0Sw&oe=69000AF5",
+					"width": 679,
+					"height": 960
+				},
+				"is_playable": false,
+				"preferredPlayableUrlString": null,
+				"playable_duration_in_ms": 0,
+				"feedback": {
+					"reaction_count": 0,
+					"commnet_count": 0,
+					"like_count": 0,
+					"share_count": 0
+				}
+			},
+			"subattachments": [
+				{
+					"title": "",
+					"subattachment_type": "Photo",
+					"media": {
+						"image": {
+							"uri": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-6/569129987_3961084997536248_3162993091674872008_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5FkUNgg87GgQ7kNvwHYr_mB&_nc_oc=Adnmqy-ts6sSlznCwN__g5ARCvJwkUQGB-K0SeKBeEOCzZ_Ozu8RH91klRnUwXCwpbg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-3.xx&oh=00_Afd1ukL5HFYopQ_8j0SMOiWKCDM67y61E-wH5ds-52O0Sw&oe=69000AF5",
+							"width": 679,
+							"height": 960
+						},
+						"is_playable": false,
+						"preferredPlayableUrlString": null,
+						"playable_duration_in_ms": 0,
+						"feedback": {
+							"reaction_count": 0,
+							"commnet_count": 0,
+							"like_count": 0,
+							"share_count": 0
+						}
+					}
+				},
+				{
+					"title": "",
+					"subattachment_type": "Photo",
+					"media": {
+						"image": {
+							"uri": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/560133058_3961085107536237_324187284520449528_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=AI72jQfWqPoQ7kNvwFEtqzF&_nc_oc=Adlb18bVysh6FRBqt3DSOalyK7V4_gU2r0dHOiKMQHLxollZqkYESuZWnmINfgorRYY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&oh=00_Afe-iIyjBEhdtPgHWwq2-Tqvz7TgCErIZSp7K4kqD13qGg&oe=69001930",
+							"width": 679,
+							"height": 960
+						},
+						"is_playable": false,
+						"preferredPlayableUrlString": null,
+						"playable_duration_in_ms": 0,
+						"feedback": {
+							"reaction_count": 0,
+							"commnet_count": 0,
+							"like_count": 0,
+							"share_count": 0
+						}
+					}
+				}
+			]
+		}
+	],
+	"group_post_topic_tags": [],
+	"with_tags": {
+		"nodes": [
+			{
+				"__typename": "User",
+				"strong_id__": "100088164678084",
+				"id": "100088164678084",
+				"name": "Alpine Reșița-Semenic Challenge.",
+				"profile_picture": {
+					"uri": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/398354199_294295206852633_7730663122878765124_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=5ItIAE6-ztoQ7kNvwGkqTv9&_nc_oc=Admei4K1JTQLi4mAZh8sn23a_opegezjpWY6AA-crarPTGxL-BPadLa41XOQSNU-zqI&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&oh=00_Afd8-jNBL8suru-I6bHgx3vE2dz0_DaVroF29htiDSivRA&oe=69001061",
+					"width": 111,
+					"height": 111
+				},
+				"story_bucket": {
+					"nodes": [
+						{
+							"id": "107942435487912",
+							"is_bucket_seen_by_viewer": true,
+							"is_bucket_owned_by_viewer": false,
+							"camera_post_type": "ADMINED_ADDITIONAL_PROFILE_STORY",
+							"threads": {
+								"is_empty": true
+							},
+							"latest_thread_creation_time": 1735652873,
+							"should_show_close_friend_badge": false
+						}
+					]
+				},
+				"is_additional_profile_plus": true,
+				"delegate_page": {
+					"id": "101967656094429",
+					"is_business_page_active": false,
+					"whatsapp_presence": false
+				}
+			},
+			{
+				"__typename": "User",
+				"strong_id__": "100064902128515",
+				"id": "100064902128515",
+				"name": "Reșița Stairs Challenge",
+				"profile_picture": {
+					"uri": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/476135790_1024912573015471_2774699368381906074_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=qUiQM_wq_jUQ7kNvwGbkaUk&_nc_oc=AdlOEvDgAxG70FL6Wcs25S16VksIcIJna5WYziC_evA6Z6w70u5Z7PUDBu3Vwwwk7JE&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&oh=00_Afd6T4vMbeEoCyKqUnvWQPphpd2GNUnEmRtJHyuz8A5esA&oe=69002BC5",
+					"width": 111,
+					"height": 111
+				},
+				"story_bucket": {
+					"nodes": [
+						{
+							"id": "102608295245908",
+							"is_bucket_seen_by_viewer": true,
+							"is_bucket_owned_by_viewer": false,
+							"camera_post_type": "ADMINED_ADDITIONAL_PROFILE_STORY",
+							"threads": {
+								"is_empty": true
+							},
+							"latest_thread_creation_time": 1760039956,
+							"should_show_close_friend_badge": false
+						}
+					]
+				},
+				"is_additional_profile_plus": true,
+				"delegate_page": {
+					"id": "101724628659331",
+					"is_business_page_active": false,
+					"whatsapp_presence": false
+				}
+			},
+			{
+				"__typename": "User",
+				"strong_id__": "100064543972788",
+				"id": "100064543972788",
+				"name": "Reșița Trail",
+				"profile_picture": {
+					"uri": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/398612035_735348625293263_1060349281963671380_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=-Z3umiKg5_IQ7kNvwFndtkg&_nc_oc=AdlKwa19bldrpxVp4-xDuxibo2hRW1oGUtKQmsAZ8sXjkWHV_VP0m2toISNU17Fj0nE&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&oh=00_Afdd8Cs7ubffSaGQOJY6DSQqZlHUPte_SBbFcSsfaEzU4g&oe=690035E3",
+					"width": 111,
+					"height": 111
+				},
+				"story_bucket": {
+					"nodes": [
+						{
+							"id": "108549731306492",
+							"is_bucket_seen_by_viewer": true,
+							"is_bucket_owned_by_viewer": false,
+							"camera_post_type": "ADMINED_ADDITIONAL_PROFILE_STORY",
+							"threads": {
+								"is_empty": true
+							},
+							"latest_thread_creation_time": 1760040090,
+							"should_show_close_friend_badge": false
+						}
+					]
+				},
+				"is_additional_profile_plus": true,
+				"delegate_page": {
+					"id": "231508844003829",
+					"is_business_page_active": false,
+					"whatsapp_presence": false
+				}
+			},
+			{
+				"__typename": "User",
+				"strong_id__": "100000749814570",
+				"id": "100000749814570",
+				"name": "Kokovics Laszlo",
+				"profile_picture": {
+					"uri": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/496148927_23953087087632950_7121675448861526734_n.jpg?stp=cp0_dst-jpg_e15_q65_s111x111_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=cb4dvTFW0SkQ7kNvwG5jzlo&_nc_oc=AdlKkI_stBqvo9Ha2qf-Gcgd-QrvjhPIqxoKGitHUIyfMCLJT6PKLJGEfkrioNUepnM&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&oh=00_AfeXYaRQzN6-15v8lCu6PXPqwG6usSSbfxApYRQkjJzYpw&oe=690016FF",
+					"width": 111,
+					"height": 111
+				},
+				"story_bucket": {
+					"nodes": [
+						{
+							"id": "2385501114818192",
+							"is_bucket_seen_by_viewer": true,
+							"is_bucket_owned_by_viewer": false,
+							"camera_post_type": "STORY",
+							"threads": {
+								"is_empty": true
+							},
+							"latest_thread_creation_time": 1759857086,
+							"should_show_close_friend_badge": false
+						}
+					]
+				},
+				"is_additional_profile_plus": false,
+				"delegate_page": null
+			}
+		]
+	},
+	"implicit_place": null,
+	"explicit_place": {
+		"name": "Resita",
+		"latitude": 45.28781,
+		"longitude": 21.88783
+	},
+	"album": null,
+	"feedback": {
+		"reaction_count": 6,
+		"commnet_count": 0,
+		"like_count": 6,
+		"share_count": 1
+	},
+	"feedback_context": {
+		"top_comments": []
+	},
+	"video_attachments": [],
+	"attached_story": null
+}

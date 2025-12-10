@@ -1,0 +1,7 @@
+// Convert comment_id to URL cid
+const commentId = "7179428950870885125";
+const cidForUrl = btoa(commentId); // Results in "NzE3OTQyODk1MDg3MDg4NTEyNQ"
+
+// Convert URL cid to comment_id
+const cidFromUrl = "NzE3OTQyODk1MDg3MDg4NTEyNQ";
+const extractedCommentId = atob(cidFromUrl); // Results in "7179428950870885125"
