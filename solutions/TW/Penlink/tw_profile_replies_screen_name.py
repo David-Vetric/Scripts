@@ -23,7 +23,7 @@ else:
 if not API_KEY or not base_url:
     raise EnvironmentError("Missing API key or base URL")
 
-SCREEN_NAME = "Wheresalexnyc"
+SCREEN_NAME = "wawog_now"
 URL = f"{base_url}/twitter/v1/profile/{SCREEN_NAME}/replies"
 HEADERS = {"x-api-key": API_KEY}
 
@@ -70,7 +70,7 @@ def main():
     for run in range(1, TOTAL_RUNS + 1):
         print(f"\n==============================")
         print(f"▶️ RUN {run}")
-        print(f"==============================")
+        print(f"================================")
 
         cursor = None
         page = 1
@@ -95,9 +95,9 @@ def main():
                 sn = user_details.get("screen_name") or "<missing>"
                 text = (tweet_obj.get("full_text") or "").replace("\n", " ").strip()
 
-                print(f"   🔹 Tweet {idx}")
                 print(f"      screen_name: {sn}")
-                print(f"      full_text  : {text[:120]}")
+                # print(f"   🔹 Tweet {idx}")
+                # print(f"      full_text  : {text[:120]}")
 
                 if sn.lower() != SCREEN_NAME.lower():
                     unexpected_hits[sn].append((run, page))
