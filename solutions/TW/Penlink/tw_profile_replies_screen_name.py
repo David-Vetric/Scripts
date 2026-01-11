@@ -100,7 +100,7 @@ def main():
 
                 if sn.lower() != SCREEN_NAME.lower():
                     unexpected_hits[sn].append((run, page))
-                    print(f"      screen_name: {sn} - NOT THE SAME AS {SCREEN_NAME}")
+                    print(f"      screen_name: {sn} - ⛔ NOT THE SAME AS {SCREEN_NAME}")
                 else:
                     print(f"      screen_name: {sn}")
 
