@@ -22,7 +22,7 @@ else:
 if not API_KEY or not base_url:
     raise EnvironmentError("Missing API key or base URL")
 
-SCREEN_NAME = "iamsrk"
+SCREEN_NAME = "wawog_now"
 URL = f"{base_url}/twitter/v1/profile/{SCREEN_NAME}/feed"
 HEADERS = {"x-api-key": API_KEY}
 
