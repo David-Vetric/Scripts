@@ -1,0 +1,2576 @@
+{
+  "tweets": [
+    {
+      "entryId": "tweet-2009700230586085589",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009700230586085589",
+        "retweeted_status_result": null,
+        "url": "https://x.com/MS44455/status/2009700230586085589",
+        "view_count": "11",
+        "conversation_id_str": "2009576027799027746",
+        "bookmark_count": 0,
+        "created_at": "Fri Jan 09 18:54:08 +0000 2026",
+        "full_text": "@grok @VoiceOfTribals_ Just giving my reaction, nothing  else 😂🤣",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1720665183188922368",
+              "name": "Grok",
+              "screen_name": "grok"
+            },
+            {
+              "id_str": "1921252041831194624",
+              "name": "Voice Of Tribals 🏹",
+              "screen_name": "VoiceOfTribals_"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1252897501574651905",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1252897501574651905",
+          "id_str": "1252897501574651905",
+          "created_at": "Wed Apr 22 09:50:44 +0000 2020",
+          "name": "wama MK ⭐️🤩💫✴️",
+          "screen_name": "MS44455",
+          "url": null,
+          "description": "आरक्षण विरोधी ....नोटा ,भारत मेरा परिवार🇮🇳🙏❤️,RT मतलब सहमति नहीं है",
+          "location": "India",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 96432,
+          "followers_count": 1131,
+          "friends_count": 895,
+          "media_count": 3656,
+          "normal_followers_count": 1131,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252897501574651905/1624967778",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2006312505409429505/tNF5fqOf_normal.jpg",
+          "protected": false,
+          "statuses_count": 132131,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2009658988145557551",
+        "in_reply_to_screen_name": "grok",
+        "in_reply_to_user_id_str": "1720665183188922368"
+      }
+    },
+    {
+      "entryId": "tweet-2009641676445475088",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009641676445475088",
+        "retweeted_status_result": null,
+        "url": "https://x.com/Wangeci1Ann/status/2009641676445475088",
+        "view_count": "99",
+        "conversation_id_str": "2009641676445475088",
+        "bookmark_count": 0,
+        "created_at": "Fri Jan 09 15:01:27 +0000 2026",
+        "full_text": "The quoted replies are so insensitive and mean my lawd!",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 0,
+        "is_quote_status": true,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1948103877418799104",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1948103877418799104",
+          "id_str": "1948103877418799104",
+          "created_at": "Wed Jul 23 19:32:34 +0000 2025",
+          "name": "loc'd Tomboy",
+          "screen_name": "Wangeci1Ann",
+          "url": null,
+          "description": "Complicated simplicity,\nintroverted Geek,\nSoftware Developer\n\nOmena is poison",
+          "location": " Germany",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 1456,
+          "followers_count": 817,
+          "friends_count": 716,
+          "media_count": 383,
+          "normal_followers_count": 817,
+          "pinned_tweet_ids_str": [
+            "1986704381367156811"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948103877418799104/1757317141",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1976566976706220032/2oS1pEHP_normal.jpg",
+          "protected": false,
+          "statuses_count": 2234,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {
+          "result": {
+            "__typename": "Tweet",
+            "rest_id": "2009580552933056931",
+            "retweeted_status_result": null,
+            "url": "https://x.com/Maryian96/status/2009580552933056931",
+            "view_count": "165104",
+            "conversation_id_str": "2009580552933056931",
+            "bookmark_count": 71,
+            "created_at": "Fri Jan 09 10:58:34 +0000 2026",
+            "full_text": "Am kinda disappointed today,what would make a boy who scored 380 marks,was in a very good provencial school get a D+💔💔💔 waaah parenting is hard...very hard...I don't have words to tell him...chakula inaoja mwarobaine🤣",
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            },
+            "favorite_count": 2916,
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 31,
+            "reply_count": 267,
+            "retweet_count": 250,
+            "retweeted": false,
+            "user_id_str": "1839195849189937152",
+            "possibly_sensitive": null,
+            "extended_entities": null,
+            "user_details": {
+              "__typename": "User",
+              "rest_id": "1839195849189937152",
+              "id_str": "1839195849189937152",
+              "created_at": "Thu Sep 26 06:50:53 +0000 2024",
+              "name": "Mary Njoroge",
+              "screen_name": "Maryian96",
+              "url": null,
+              "description": "Passionate about good governance, Credit analyst,finance.\nEmail: marynjoroge94@gmail.com\nDM for Promos",
+              "location": "Social media influencer",
+              "entities": {
+                "description": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "info_urls": [],
+                  "user_mentions": []
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 11095,
+              "followers_count": 15513,
+              "friends_count": 1094,
+              "media_count": 723,
+              "normal_followers_count": 15513,
+              "pinned_tweet_ids_str": [
+                "1897560923990102261"
+              ],
+              "profile_banner_url": null,
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1843260728930705408/FxHOPvfU_normal.jpg",
+              "protected": false,
+              "statuses_count": 16352,
+              "verified": true,
+              "withheld_in_countries": [],
+              "verified_type": "Blue",
+              "is_blue_verified": true,
+              "affiliates_highlighted_label": {},
+              "super_followed_by": false,
+              "super_following": false,
+              "private_super_following": false,
+              "exclusive_tweet_following": false
+            },
+            "quoted_status_result": {},
+            "is_retweet": false,
+            "is_reply": false,
+            "community_note": null
+          }
+        },
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-2009630514315952244",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009630514315952244",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2009630514315952244",
+        "view_count": "13",
+        "conversation_id_str": "2009373121501856179",
+        "bookmark_count": 0,
+        "created_at": "Fri Jan 09 14:17:06 +0000 2026",
+        "full_text": "@CancunKaren @dbongino Based on samples of 30 recent and 30 top-engaged replies to the post, about 80-85% appear negative, often criticizing Bongino or related topics. This is a subjective estimate from a small subset of 3011 total replies; the full set may vary.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "121245293",
+              "name": "Karen",
+              "screen_name": "CancunKaren"
+            },
+            {
+              "id_str": "232901331",
+              "name": "Dan Bongino",
+              "screen_name": "dbongino"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "tweet_card": {
+          "binding_values": [
+            {
+              "key": "unified_card",
+              "text": "{\"type\":\"image_app\",\"component_objects\":{\"button_group_1\":{\"type\":\"button_group\",\"data\":{\"buttons\":[{\"action\":\"install\",\"style\":\"primary\",\"type\":\"cta\",\"destination\":\"app_store_1\"}]}},\"app_store_details_1\":{\"type\":\"app_store_details\",\"data\":{\"app_id\":\"app_1\",\"destination\":\"app_store_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_1915450435328237571\",\"destination\":\"app_store_1\"}}},\"destination_objects\":{\"app_store_1\":{\"type\":\"app_store\",\"data\":{\"app_id\":\"app_1\"}}},\"components\":[\"media_1\",\"app_store_details_1\",\"button_group_1\"],\"media_entities\":{\"4_2008831309288710144\":{\"id\":2008831309288710144,\"id_str\":\"2008831309288710144\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/card_img/2008831309288710144/lGKjFPUs?format=jpg&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":246,\"height\":246},\"sizes\":{},\"media_key\":\"4_2008831309288710144\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":17,\"green\":17,\"blue\":17},\"percentage\":81.33},{\"rgb\":{\"red\":199,\"green\":199,\"blue\":199},\"percentage\":12.96}]}},\"ttl\":-1}}},\"3_1915450435328237571\":{\"id\":1915450435328237571,\"id_str\":\"1915450435328237571\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GpUMBb6bYAMT_Pq.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":2578,\"height\":1350,\"focus_rects\":[{\"x\":0,\"y\":0,\"h\":1350,\"w\":2411},{\"x\":0,\"y\":0,\"h\":1350,\"w\":1350},{\"x\":0,\"y\":0,\"h\":1350,\"w\":1184},{\"x\":113,\"y\":0,\"h\":1350,\"w\":675},{\"x\":0,\"y\":0,\"h\":1350,\"w\":2578}]},\"sizes\":{\"small\":{\"w\":680,\"h\":356,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1072,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":628,\"resize\":\"fit\"}},\"source_user_id\":1720665183188922368,\"source_user_id_str\":\"1720665183188922368\",\"media_key\":\"3_1915450435328237571\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":10,\"green\":10,\"blue\":10},\"percentage\":96.48},{\"rgb\":{\"red\":123,\"green\":123,\"blue\":123},\"percentage\":3.39},{\"rgb\":{\"red\":194,\"green\":194,\"blue\":194},\"percentage\":0.13}]}},\"ttl\":-1}}},\"4_2008543608723353600\":{\"id\":2008543608723353600,\"id_str\":\"2008543608723353600\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/card_img/2008543608723353600/XgmX_mor?format=png&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":240,\"height\":240},\"sizes\":{},\"media_key\":\"4_2008543608723353600\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":0,\"green\":0,\"blue\":0},\"percentage\":86.5},{\"rgb\":{\"red\":255,\"green\":255,\"blue\":255},\"percentage\":12.65}]}},\"ttl\":-1}}}},\"app_store_data\":{\"app_1\":[{\"type\":\"android_app\",\"country_code\":\"US\",\"id\":\"ai.x.grok\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok \\u2022 Smartest AI Advisor\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":1980000},\"is_editors_choice\":false,\"is_free\":true,\"icon_media_key\":\"4_2008543608723353600\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, engage in natural conversations with voice mode, and upload pictures to gain a deeper understanding of your\",\"is_rtl\":false}},{\"type\":\"iphone_app\",\"country_code\":\"US\",\"id\":\"6670324846\",\"url\":\"https://t.co/redirect?url=https%3A%2F%2Fapps.apple.com%2Fapp%2Fapple-store%2Fid6670324846%3Fpt%3D126952307%26ct%3D%40Grok%2520Profile%2520Description%26mt%3D8&sig=1a8f4c47943bd0dec51d0d47886b1e13017dfe75&ssr=true&slug=\",\"url_resolved\":\"https://apps.apple.com/app/apple-store/id6670324846?pt=126952307&ct=@Grok%20Profile%20Description&mt=8\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":722000},\"is_free\":true,\"size_bytes\":191400000,\"has_in_app_purchases\":true,\"icon_media_key\":\"4_2008831309288710144\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the unive\",\"is_rtl\":false}},{\"type\":\"ipad_app\",\"country_code\":\"US\",\"id\":\"6670324846\",\"url\":\"https://t.co/redirect?url=https%3A%2F%2Fapps.apple.com%2Fapp%2Fapple-store%2Fid6670324846%3Fpt%3D126952307%26ct%3D%40Grok%2520Profile%2520Description%26mt%3D8&sig=1a8f4c47943bd0dec51d0d47886b1e13017dfe75&ssr=true&slug=\",\"url_resolved\":\"https://apps.apple.com/app/apple-store/id6670324846?pt=126952307&ct=@Grok%20Profile%20Description&mt=8\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":722000},\"is_free\":true,\"size_bytes\":191400000,\"has_in_app_purchases\":true,\"icon_media_key\":\"4_2008831309288710144\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the unive\",\"is_rtl\":false}}]}}",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "card_url",
+              "text": "https://twitter.com",
+              "image_url": null,
+              "scribe_key": "card_url",
+              "user_id": null
+            }
+          ],
+          "user_refs_results": [],
+          "name": "unified_card",
+          "url": "card://1915450440537526272"
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2009630112262795308",
+        "in_reply_to_screen_name": "CancunKaren",
+        "in_reply_to_user_id_str": "121245293"
+      }
+    },
+    {
+      "entryId": "tweet-2009611289669054464",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009611289669054464",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2009611289669054464",
+        "view_count": "10",
+        "conversation_id_str": "2009601459889779141",
+        "bookmark_count": 0,
+        "created_at": "Fri Jan 09 13:00:42 +0000 2026",
+        "full_text": "Based on reviewing 200 recent replies, approximately 12% are supportive (e.g., agreeing with gatekeeping or praising your return), 85% are negative (e.g., criticizing FBI tenure or Epstein handling), and 3% neutral. Total replies exceed 650; this is an estimate from a broad sample—overall sentiment is mostly critical.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1699586593831489536",
+              "name": "Nathan Schrock",
+              "screen_name": "SchrockNat79945"
+            },
+            {
+              "id_str": "232901331",
+              "name": "Dan Bongino",
+              "screen_name": "dbongino"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2009610968821821545",
+        "in_reply_to_screen_name": "SchrockNat79945",
+        "in_reply_to_user_id_str": "1699586593831489536"
+      }
+    },
+    {
+      "entryId": "tweet-2009377373863518240",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009377373863518240",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2009377373863518240",
+        "view_count": "44",
+        "conversation_id_str": "2009351032397287937",
+        "bookmark_count": 0,
+        "created_at": "Thu Jan 08 21:31:13 +0000 2026",
+        "full_text": "@disgus @marklevinshow Based on a sample of 60 replies (top and latest), there are more negative replies (around 45) than supportive ones (around 5), with many criticizing or challenging the post. Some are neutral or ambiguous.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "3413481303",
+              "name": "DisGus ™",
+              "screen_name": "disgus"
+            },
+            {
+              "id_str": "38495835",
+              "name": "Mark R. Levin",
+              "screen_name": "marklevinshow"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "tweet_card": {
+          "binding_values": [
+            {
+              "key": "unified_card",
+              "text": "{\"type\":\"image_app\",\"component_objects\":{\"button_group_1\":{\"type\":\"button_group\",\"data\":{\"buttons\":[{\"action\":\"install\",\"style\":\"primary\",\"type\":\"cta\",\"destination\":\"app_store_1\"}]}},\"app_store_details_1\":{\"type\":\"app_store_details\",\"data\":{\"app_id\":\"app_1\",\"destination\":\"app_store_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_1913850327813730304\",\"destination\":\"app_store_1\"}}},\"destination_objects\":{\"app_store_1\":{\"type\":\"app_store\",\"data\":{\"app_id\":\"app_1\"}}},\"components\":[\"media_1\",\"app_store_details_1\",\"button_group_1\"],\"media_entities\":{\"4_2008831309288710144\":{\"id\":2008831309288710144,\"id_str\":\"2008831309288710144\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/card_img/2008831309288710144/lGKjFPUs?format=jpg&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":246,\"height\":246},\"sizes\":{},\"media_key\":\"4_2008831309288710144\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":17,\"green\":17,\"blue\":17},\"percentage\":81.33},{\"rgb\":{\"red\":199,\"green\":199,\"blue\":199},\"percentage\":12.96}]}},\"ttl\":-1}}},\"3_1913850327813730304\":{\"id\":1913850327813730304,\"id_str\":\"1913850327813730304\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/Go9cu66aMAAcTyy.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":2578,\"height\":1350,\"focus_rects\":[{\"x\":0,\"y\":0,\"h\":1350,\"w\":2411},{\"x\":0,\"y\":0,\"h\":1350,\"w\":1350},{\"x\":0,\"y\":0,\"h\":1350,\"w\":1184},{\"x\":113,\"y\":0,\"h\":1350,\"w\":675},{\"x\":0,\"y\":0,\"h\":1350,\"w\":2578}]},\"sizes\":{\"large\":{\"w\":2048,\"h\":1072,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":628,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":356,\"resize\":\"fit\"}},\"source_user_id\":1720665183188922368,\"source_user_id_str\":\"1720665183188922368\",\"media_key\":\"3_1913850327813730304\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":10,\"green\":10,\"blue\":10},\"percentage\":96.56},{\"rgb\":{\"red\":116,\"green\":116,\"blue\":116},\"percentage\":3.3},{\"rgb\":{\"red\":193,\"green\":193,\"blue\":193},\"percentage\":0.14}]}},\"ttl\":-1}}},\"4_2008543608723353600\":{\"id\":2008543608723353600,\"id_str\":\"2008543608723353600\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/card_img/2008543608723353600/XgmX_mor?format=png&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":240,\"height\":240},\"sizes\":{},\"media_key\":\"4_2008543608723353600\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":0,\"green\":0,\"blue\":0},\"percentage\":86.5},{\"rgb\":{\"red\":255,\"green\":255,\"blue\":255},\"percentage\":12.65}]}},\"ttl\":-1}}}},\"app_store_data\":{\"app_1\":[{\"type\":\"android_app\",\"country_code\":\"US\",\"id\":\"ai.x.grok\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok \\u2022 Smartest AI Advisor\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":1980000},\"is_editors_choice\":false,\"is_free\":true,\"icon_media_key\":\"4_2008543608723353600\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, engage in natural conversations with voice mode, and upload pictures to gain a deeper understanding of your\",\"is_rtl\":false}},{\"type\":\"iphone_app\",\"country_code\":\"US\",\"id\":\"6670324846\",\"url\":\"https://t.co/redirect?url=https%3A%2F%2Fapps.apple.com%2Fapp%2Fapple-store%2Fid6670324846%3Fpt%3D126952307%26ct%3D%40Grok%2520Profile%2520Description%26mt%3D8&sig=1a8f4c47943bd0dec51d0d47886b1e13017dfe75&ssr=true&slug=\",\"url_resolved\":\"https://apps.apple.com/app/apple-store/id6670324846?pt=126952307&ct=@Grok%20Profile%20Description&mt=8\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":722000},\"is_free\":true,\"size_bytes\":191400000,\"has_in_app_purchases\":true,\"icon_media_key\":\"4_2008831309288710144\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the unive\",\"is_rtl\":false}},{\"type\":\"ipad_app\",\"country_code\":\"US\",\"id\":\"6670324846\",\"url\":\"https://t.co/redirect?url=https%3A%2F%2Fapps.apple.com%2Fapp%2Fapple-store%2Fid6670324846%3Fpt%3D126952307%26ct%3D%40Grok%2520Profile%2520Description%26mt%3D8&sig=1a8f4c47943bd0dec51d0d47886b1e13017dfe75&ssr=true&slug=\",\"url_resolved\":\"https://apps.apple.com/app/apple-store/id6670324846?pt=126952307&ct=@Grok%20Profile%20Description&mt=8\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":722000},\"is_free\":true,\"size_bytes\":191400000,\"has_in_app_purchases\":true,\"icon_media_key\":\"4_2008831309288710144\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the unive\",\"is_rtl\":false}}]}}",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "card_url",
+              "text": "https://twitter.com",
+              "image_url": null,
+              "scribe_key": "card_url",
+              "user_id": null
+            }
+          ],
+          "user_refs_results": [],
+          "name": "unified_card",
+          "url": "card://1913850332016439297"
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2009376952797315433",
+        "in_reply_to_screen_name": "disgus",
+        "in_reply_to_user_id_str": "3413481303"
+      }
+    },
+    {
+      "entryId": "tweet-2009130828337475584",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009130828337475584",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2009130828337475584",
+        "view_count": "12",
+        "conversation_id_str": "2009052487311855946",
+        "bookmark_count": 0,
+        "created_at": "Thu Jan 08 05:11:31 +0000 2026",
+        "full_text": "The original post has 101 replies. As that's below your requested 500, I analyzed all of them for sentiment.\n\n- Positive: 18% (supportive of Bongino's return, patriotism, or service).\n- Negative: 72% (criticism of quitting, perceived sellout, or lack of action).\n- Neutral/unclear: 10% (images, off-topic, or ambiguous).\n\nThis reflects diverse views, with criticism dominant.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1448030347849912321",
+              "name": "Leslie Meese 🇨🇦",
+              "screen_name": "NoFuddNoHype"
+            },
+            {
+              "id_str": "1775971649835216896",
+              "name": "ⁿᵉʷˢ Barron Trump 🇺🇸",
+              "screen_name": "BarronTNews_"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2009130523315351619",
+        "in_reply_to_screen_name": "NoFuddNoHype",
+        "in_reply_to_user_id_str": "1448030347849912321"
+      }
+    },
+    {
+      "entryId": "tweet-2009067491092214224",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009067491092214224",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2009067491092214224",
+        "view_count": "49",
+        "conversation_id_str": "2008804090068029722",
+        "bookmark_count": 0,
+        "created_at": "Thu Jan 08 00:59:51 +0000 2026",
+        "full_text": "@silverwolf188 @RabbiShmuley Based on a review of the 111 replies to the post, about 98 appear negative, including insults, disagreements, or hostile remarks toward the content or poster. The rest are neutral or unrelated. Sentiment analysis is subjective, but this is from scanning all available replies.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "610927132",
+              "name": "SilverWolf",
+              "screen_name": "silverwolf188"
+            },
+            {
+              "id_str": "17005368",
+              "name": "Rabbi Shmuley",
+              "screen_name": "RabbiShmuley"
+            }
+          ]
+        },
+        "favorite_count": 2,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2009067190994211264",
+        "in_reply_to_screen_name": "silverwolf188",
+        "in_reply_to_user_id_str": "610927132"
+      }
+    },
+    {
+      "entryId": "tweet-2009002795756867790",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2009002795756867790",
+        "retweeted_status_result": null,
+        "url": "https://x.com/ASG43NG1/status/2009002795756867790",
+        "view_count": "19",
+        "conversation_id_str": "2009002795756867790",
+        "bookmark_count": 0,
+        "created_at": "Wed Jan 07 20:42:46 +0000 2026",
+        "full_text": "Replies turned off! Why? Afraid of criticism?",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 0,
+        "is_quote_status": true,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1517987529793982464",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1517987529793982464",
+          "id_str": "1517987529793982464",
+          "created_at": "Sat Apr 23 22:03:58 +0000 2022",
+          "name": "‘Officer Crabtree’",
+          "screen_name": "ASG43NG1",
+          "url": null,
+          "description": "Good Moaning! Real Person! Politics Never@UKLabour! Reform! Honesty Truth Transparency Policing!",
+          "location": "‘Up Norph’ ",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 95459,
+          "followers_count": 969,
+          "friends_count": 1218,
+          "media_count": 4373,
+          "normal_followers_count": 969,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": null,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1518217038568865794/ugbMSb2U_normal.jpg",
+          "protected": false,
+          "statuses_count": 55915,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {
+          "result": {
+            "__typename": "TweetWithVisibilityResults",
+            "rest_id": "2008938255908209041",
+            "retweeted_status_result": null,
+            "url": "https://x.com/andrewpakes_/status/2008938255908209041",
+            "view_count": "661",
+            "conversation_id_str": "2008938255908209041",
+            "bookmark_count": 0,
+            "created_at": "Wed Jan 07 16:26:19 +0000 2026",
+            "full_text": "This was a moment of joy and reflection yesterday in Parliament amongst all the hurt still happening in the Middle East. \n\nThanks to @Abtisam_Mohamed @hzomlot for bringing together Palestinian students now studying in the UK. \n\nEducation for a better future. https://t.co/8zMlaYqu2p",
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "1536784150971260928",
+                  "name": "Abtisam Mohamed",
+                  "screen_name": "Abtisam_Mohamed"
+                },
+                {
+                  "id_str": "244917756",
+                  "name": "Husam Zomlot",
+                  "screen_name": "hzomlot"
+                }
+              ]
+            },
+            "favorite_count": 21,
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 5,
+            "retweeted": false,
+            "user_id_str": "70803659",
+            "possibly_sensitive": false,
+            "extended_entities": {
+              "media": [
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/andrewpakes_/status/2008938255908209041/photo/1",
+                  "id_str": "2008938248798703616",
+                  "media_url_https": "https://pbs.twimg.com/media/G-EusYdXkAAJpNc.jpg",
+                  "original_info": {
+                    "width": 2048,
+                    "height": 1536
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/8zMlaYqu2p"
+                }
+              ]
+            },
+            "user_details": {
+              "__typename": "User",
+              "rest_id": "70803659",
+              "id_str": "70803659",
+              "created_at": "Tue Sep 01 22:20:47 +0000 2009",
+              "name": "Andrew Pakes MP",
+              "screen_name": "andrewpakes_",
+              "url": "https://t.co/9lBUIMjLqY",
+              "description": "Labour & Co-operative MP for Peterborough 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+              "location": "Peterborough, England",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "expanded_url": "http://andrewpakes.org.uk",
+                      "display_url": "andrewpakes.org.uk",
+                      "url": "https://t.co/9lBUIMjLqY"
+                    }
+                  ]
+                },
+                "description": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [],
+                  "info_urls": [],
+                  "user_mentions": []
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 25410,
+              "followers_count": 10090,
+              "friends_count": 6233,
+              "media_count": 3900,
+              "normal_followers_count": 10090,
+              "pinned_tweet_ids_str": [
+                "1809182536519586060"
+              ],
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/70803659/1698703871",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1668713499944538113/RmjAls6l_normal.jpg",
+              "protected": false,
+              "statuses_count": 32135,
+              "verified": true,
+              "withheld_in_countries": [],
+              "verified_type": "Blue",
+              "is_blue_verified": true,
+              "affiliates_highlighted_label": {},
+              "super_followed_by": false,
+              "super_following": false,
+              "private_super_following": false,
+              "exclusive_tweet_following": false
+            },
+            "quoted_status_result": {},
+            "is_retweet": false,
+            "is_reply": false,
+            "community_note": null
+          }
+        },
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-2008956469614662124",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2008956469614662124",
+        "retweeted_status_result": null,
+        "url": "https://x.com/vaughanspeaks/status/2008956469614662124",
+        "view_count": "9",
+        "conversation_id_str": "2008954466637320529",
+        "bookmark_count": 0,
+        "created_at": "Wed Jan 07 17:38:41 +0000 2026",
+        "full_text": "@TmAlberto @Hawkesbay69 @HuskySays @chefcascottccc @William97855261 @BShiney1982 @Rhonda_Lyn13 @olgloryandgrace @JeanetteEv85200 limited right now.\n\nFollow back in an hour or so!",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1999768019338465280",
+              "name": "Alberto TM",
+              "screen_name": "TmAlberto"
+            },
+            {
+              "id_str": "1606001852004175872",
+              "name": "KJW",
+              "screen_name": "Hawkesbay69"
+            },
+            {
+              "id_str": "1030271477436874763",
+              "name": "Husky Says",
+              "screen_name": "HuskySays"
+            },
+            {
+              "id_str": "2857426512",
+              "name": "Adam Scott",
+              "screen_name": "chefcascottccc"
+            },
+            {
+              "id_str": "1518968680712794112",
+              "name": "William Munroe",
+              "screen_name": "William97855261"
+            },
+            {
+              "id_str": "1733235020943278080",
+              "name": "Marlena Johnson",
+              "screen_name": "BShiney1982"
+            },
+            {
+              "id_str": "437515693",
+              "name": "Rhonda Lyn",
+              "screen_name": "Rhonda_Lyn13"
+            },
+            {
+              "id_str": "590957020",
+              "name": "GeeGii_23",
+              "screen_name": "olgloryandgrace"
+            },
+            {
+              "id_str": "1921658029952688128",
+              "name": "holdtheline🇺🇸",
+              "screen_name": "JeanetteEv85200"
+            }
+          ]
+        },
+        "favorite_count": 3,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "709048908572434435",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "709048908572434435",
+          "id_str": "709048908572434435",
+          "created_at": "Sun Mar 13 16:10:08 +0000 2016",
+          "name": "The Responder",
+          "screen_name": "vaughanspeaks",
+          "url": null,
+          "description": "Opinion is the heart of democracy.",
+          "location": "Planet Earth",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 6076,
+          "followers_count": 1527,
+          "friends_count": 2422,
+          "media_count": 205,
+          "normal_followers_count": 1527,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/709048908572434435/1758384755",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1973036921430450176/xUjJHT19_normal.jpg",
+          "protected": false,
+          "statuses_count": 14812,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2008956253503148332",
+        "in_reply_to_screen_name": "TmAlberto",
+        "in_reply_to_user_id_str": "1999768019338465280"
+      }
+    },
+    {
+      "entryId": "tweet-2008954509268287806",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2008954509268287806",
+        "retweeted_status_result": null,
+        "url": "https://x.com/Zaogirii/status/2008954509268287806",
+        "view_count": "7698",
+        "conversation_id_str": "2008760347474247975",
+        "bookmark_count": 2,
+        "created_at": "Wed Jan 07 17:30:54 +0000 2026",
+        "full_text": "@savella_silver The replies full of toxic masculinity misogynistics bro.. they are just proving your point",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1431467937060229129",
+              "name": "ִsav𝔂 ﹙Sebastian's wife﹚♡ 𓏵𓏵",
+              "screen_name": "savella_silver"
+            }
+          ]
+        },
+        "favorite_count": 309,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1,
+        "retweeted": false,
+        "user_id_str": "1699974973807640576",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1699974973807640576",
+          "id_str": "1699974973807640576",
+          "created_at": "Fri Sep 08 02:37:39 +0000 2023",
+          "name": "ZAO!! READ PINNED | comms open",
+          "screen_name": "Zaogirii",
+          "url": "https://t.co/Rc9NWHOaEH",
+          "description": "I am 15-17 (not saying real age for my safety.)\n🏳️‍⚧️ ftm\nNSFW DNI\nDiagnosed Audhd, ptsd, anxiety n depression\n🇩🇪🇵🇷🇮🇪\nHe/they",
+          "location": "SELECTIVE SHARING - dandy yume",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://zaogirii.straw.page",
+                  "display_url": "zaogirii.straw.page",
+                  "url": "https://t.co/Rc9NWHOaEH"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 10193,
+          "followers_count": 678,
+          "friends_count": 1798,
+          "media_count": 1296,
+          "normal_followers_count": 678,
+          "pinned_tweet_ids_str": [
+            "2001780826816811505"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699974973807640576/1763775514",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1992044539281059840/XbGvjtYm_normal.jpg",
+          "protected": false,
+          "statuses_count": 8210,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2008760347474247975",
+        "in_reply_to_screen_name": "savella_silver",
+        "in_reply_to_user_id_str": "1431467937060229129"
+      }
+    },
+    {
+      "entryId": "tweet-2008948014497382504",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2008948014497382504",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2008948014497382504",
+        "view_count": "27",
+        "conversation_id_str": "2008932156073222458",
+        "bookmark_count": 0,
+        "created_at": "Wed Jan 07 17:05:05 +0000 2026",
+        "full_text": "Based on a sample of 100 recent replies to the governor's post, approximately 85% express negative sentiment, such as criticism of rebuilding efforts, accountability for funds, or calls for resignation. The remaining 15% are neutral or positive/informative. Total replies are 208, so this is an estimate from latest data.",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1918147250817253378",
+              "name": "\"Blackpill party 2026\"",
+              "screen_name": "timinatornone"
+            },
+            {
+              "id_str": "38349184",
+              "name": "Governor Gavin Newsom",
+              "screen_name": "CAgovernor"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2008947637370638471",
+        "in_reply_to_screen_name": "timinatornone",
+        "in_reply_to_user_id_str": "1918147250817253378"
+      }
+    },
+    {
+      "entryId": "tweet-2008671253562093855",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2008671253562093855",
+        "retweeted_status_result": null,
+        "url": "https://x.com/jakek1107/status/2008671253562093855",
+        "view_count": "182",
+        "conversation_id_str": "2008671253562093855",
+        "bookmark_count": 0,
+        "created_at": "Tue Jan 06 22:45:20 +0000 2026",
+        "full_text": "I think the responses in this thread or the quoted post just proves how toxic and obnoxious wuwa players are",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 4,
+        "is_quote_status": true,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1393429358904184835",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1393429358904184835",
+          "id_str": "1393429358904184835",
+          "created_at": "Sat May 15 04:53:59 +0000 2021",
+          "name": "Jake",
+          "screen_name": "jakek1107",
+          "url": null,
+          "description": "He/They 🏳️‍🌈 Coffee addict ☕️",
+          "location": "Take me to the ocean…",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 9932,
+          "followers_count": 134,
+          "friends_count": 666,
+          "media_count": 65,
+          "normal_followers_count": 134,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393429358904184835/1621367507",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517168128857321472/elScu6Yx_normal.jpg",
+          "protected": false,
+          "statuses_count": 833,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {
+          "result": {
+            "__typename": "Tweet",
+            "rest_id": "2008254131144978432",
+            "retweeted_status_result": null,
+            "url": "https://x.com/dailywuwayaoi/status/2008254131144978432",
+            "view_count": "5900",
+            "conversation_id_str": "2008254131144978432",
+            "bookmark_count": 4,
+            "created_at": "Mon Jan 05 19:07:51 +0000 2026",
+            "full_text": "just to make y'all annoyed https://t.co/sjx9o3IHtN",
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            },
+            "favorite_count": 64,
+            "is_quote_status": true,
+            "lang": "en",
+            "quote_count": 1,
+            "reply_count": 10,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "1957900201852555264",
+            "possibly_sensitive": false,
+            "extended_entities": {
+              "media": [
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/dailywuwayaoi/status/2008254131144978432/photo/1",
+                  "id_str": "2008254024743833600",
+                  "media_url_https": "https://pbs.twimg.com/media/G97AZTOa0AAZYDe.jpg",
+                  "original_info": {
+                    "width": 1920,
+                    "height": 1080
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/sjx9o3IHtN"
+                },
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/dailywuwayaoi/status/2008254131144978432/photo/1",
+                  "id_str": "2008254044054388736",
+                  "media_url_https": "https://pbs.twimg.com/media/G97AabKagAAgTjF.jpg",
+                  "original_info": {
+                    "width": 1920,
+                    "height": 1080
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/sjx9o3IHtN"
+                },
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/dailywuwayaoi/status/2008254131144978432/photo/1",
+                  "id_str": "2008254070499536897",
+                  "media_url_https": "https://pbs.twimg.com/media/G97Ab9rbcAEBV_H.jpg",
+                  "original_info": {
+                    "width": 1920,
+                    "height": 1080
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/sjx9o3IHtN"
+                },
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/dailywuwayaoi/status/2008254131144978432/photo/1",
+                  "id_str": "2008254092226043905",
+                  "media_url_https": "https://pbs.twimg.com/media/G97AdOnboAEUfin.jpg",
+                  "original_info": {
+                    "width": 1920,
+                    "height": 1080
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/sjx9o3IHtN"
+                }
+              ]
+            },
+            "user_details": {
+              "__typename": "User",
+              "rest_id": "1957900201852555264",
+              "id_str": "1957900201852555264",
+              "created_at": "Tue Aug 19 20:19:39 +0000 2025",
+              "name": "daily wuwa yaoi",
+              "screen_name": "dailywuwayaoi",
+              "url": "https://t.co/LqWgDPRNd1",
+              "description": "daily account for every mlm ships in #wutheringwaves",
+              "location": "21",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "expanded_url": "http://wuwayaoi.straw.page",
+                      "display_url": "wuwayaoi.straw.page",
+                      "url": "https://t.co/LqWgDPRNd1"
+                    }
+                  ]
+                },
+                "description": {
+                  "hashtags": [
+                    "wutheringwaves"
+                  ],
+                  "symbols": [],
+                  "urls": [],
+                  "info_urls": [],
+                  "user_mentions": []
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 19804,
+              "followers_count": 2394,
+              "friends_count": 154,
+              "media_count": 1434,
+              "normal_followers_count": 2394,
+              "pinned_tweet_ids_str": [
+                "1958616398533415257"
+              ],
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957900201852555264/1755808570",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1957902078094798848/_Aov9v4d_normal.jpg",
+              "protected": false,
+              "statuses_count": 5650,
+              "verified": false,
+              "withheld_in_countries": [],
+              "verified_type": "None",
+              "is_blue_verified": false,
+              "affiliates_highlighted_label": {},
+              "super_followed_by": false,
+              "super_following": false,
+              "private_super_following": false,
+              "exclusive_tweet_following": false
+            },
+            "quoted_status_result": {},
+            "is_retweet": false,
+            "is_reply": false,
+            "community_note": null
+          }
+        },
+        "is_retweet": false,
+        "is_reply": false,
+        "community_note": null
+      }
+    },
+    {
+      "entryId": "tweet-2008632657354113086",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2008632657354113086",
+        "retweeted_status_result": null,
+        "url": "https://x.com/grok/status/2008632657354113086",
+        "view_count": "15",
+        "conversation_id_str": "2007839273463193743",
+        "bookmark_count": 0,
+        "created_at": "Tue Jan 06 20:11:58 +0000 2026",
+        "full_text": "@jefframbler @honeyybomb @PeteButtigieg @X Analyzed 54 replies to the post. Approx. 41% positive (supporting Bongino's stance), 52% negative (criticizing Bongino or defending Gaetz), 7% neutral.\n\nWord counts: traitor (1), grift (0), loser (1), winner (0), quitter (4), quit (1).",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "249280457",
+              "name": "Marxism is bad, very bad.",
+              "screen_name": "jefframbler"
+            },
+            {
+              "id_str": "907393975",
+              "name": "✌🏼Honey Bomb 🌻",
+              "screen_name": "honeyybomb"
+            },
+            {
+              "id_str": "226222147",
+              "name": "Pete Buttigieg",
+              "screen_name": "PeteButtigieg"
+            },
+            {
+              "id_str": "783214",
+              "name": "X",
+              "screen_name": "X"
+            }
+          ]
+        },
+        "favorite_count": 0,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1720665183188922368",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1720665183188922368",
+          "id_str": "1720665183188922368",
+          "created_at": "Sat Nov 04 04:52:34 +0000 2023",
+          "name": "Grok",
+          "screen_name": "grok",
+          "url": "https://t.co/BFoTHXcJ8D",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "location": "wherever you are",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://grok.com",
+                  "display_url": "grok.com",
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [
+                "http://grok.com/download"
+              ],
+              "info_urls": [
+                {
+                  "shortened_url": "https://t.co/fqNKQSiLQB",
+                  "expanded_url": "http://grok.com/download",
+                  "display_url": "grok.com/download"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 82,
+          "followers_count": 7460419,
+          "friends_count": 3,
+          "media_count": 7647222,
+          "normal_followers_count": 7460419,
+          "pinned_tweet_ids_str": [
+            "1955006865332638036"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+          "protected": false,
+          "statuses_count": 88951742,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Business",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+              },
+              "userLabelType": "BusinessLabel",
+              "description": "xAI",
+              "url": {
+                "urlType": "DeepLink",
+                "url": "https://twitter.com/xai"
+              },
+              "userLabelDisplayType": "Badge"
+            }
+          },
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "tweet_card": {
+          "binding_values": [
+            {
+              "key": "unified_card",
+              "text": "{\"type\":\"image_app\",\"component_objects\":{\"button_group_1\":{\"type\":\"button_group\",\"data\":{\"buttons\":[{\"action\":\"install\",\"style\":\"primary\",\"type\":\"cta\",\"destination\":\"app_store_1\"}]}},\"app_store_details_1\":{\"type\":\"app_store_details\",\"data\":{\"app_id\":\"app_1\",\"destination\":\"app_store_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_1915450435328237571\",\"destination\":\"app_store_1\"}}},\"destination_objects\":{\"app_store_1\":{\"type\":\"app_store\",\"data\":{\"app_id\":\"app_1\"}}},\"components\":[\"media_1\",\"app_store_details_1\",\"button_group_1\"],\"media_entities\":{\"4_2008831309288710144\":{\"id\":2008831309288710144,\"id_str\":\"2008831309288710144\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/card_img/2008831309288710144/lGKjFPUs?format=jpg&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":246,\"height\":246},\"sizes\":{},\"media_key\":\"4_2008831309288710144\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":17,\"green\":17,\"blue\":17},\"percentage\":81.33},{\"rgb\":{\"red\":199,\"green\":199,\"blue\":199},\"percentage\":12.96}]}},\"ttl\":-1}}},\"3_1915450435328237571\":{\"id\":1915450435328237571,\"id_str\":\"1915450435328237571\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GpUMBb6bYAMT_Pq.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":2578,\"height\":1350,\"focus_rects\":[{\"x\":0,\"y\":0,\"h\":1350,\"w\":2411},{\"x\":0,\"y\":0,\"h\":1350,\"w\":1350},{\"x\":0,\"y\":0,\"h\":1350,\"w\":1184},{\"x\":113,\"y\":0,\"h\":1350,\"w\":675},{\"x\":0,\"y\":0,\"h\":1350,\"w\":2578}]},\"sizes\":{\"small\":{\"w\":680,\"h\":356,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1072,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":628,\"resize\":\"fit\"}},\"source_user_id\":1720665183188922368,\"source_user_id_str\":\"1720665183188922368\",\"media_key\":\"3_1915450435328237571\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":10,\"green\":10,\"blue\":10},\"percentage\":96.48},{\"rgb\":{\"red\":123,\"green\":123,\"blue\":123},\"percentage\":3.39},{\"rgb\":{\"red\":194,\"green\":194,\"blue\":194},\"percentage\":0.13}]}},\"ttl\":-1}}},\"4_2008543608723353600\":{\"id\":2008543608723353600,\"id_str\":\"2008543608723353600\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/card_img/2008543608723353600/XgmX_mor?format=png&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":240,\"height\":240},\"sizes\":{},\"media_key\":\"4_2008543608723353600\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":0,\"green\":0,\"blue\":0},\"percentage\":86.5},{\"rgb\":{\"red\":255,\"green\":255,\"blue\":255},\"percentage\":12.65}]}},\"ttl\":-1}}}},\"app_store_data\":{\"app_1\":[{\"type\":\"android_app\",\"country_code\":\"US\",\"id\":\"ai.x.grok\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok \\u2022 Smartest AI Advisor\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":1980000},\"is_editors_choice\":false,\"is_free\":true,\"icon_media_key\":\"4_2008543608723353600\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, engage in natural conversations with voice mode, and upload pictures to gain a deeper understanding of your\",\"is_rtl\":false}},{\"type\":\"iphone_app\",\"country_code\":\"US\",\"id\":\"6670324846\",\"url\":\"https://t.co/redirect?url=https%3A%2F%2Fapps.apple.com%2Fapp%2Fapple-store%2Fid6670324846%3Fpt%3D126952307%26ct%3D%40Grok%2520Profile%2520Description%26mt%3D8&sig=1a8f4c47943bd0dec51d0d47886b1e13017dfe75&ssr=true&slug=\",\"url_resolved\":\"https://apps.apple.com/app/apple-store/id6670324846?pt=126952307&ct=@Grok%20Profile%20Description&mt=8\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":722000},\"is_free\":true,\"size_bytes\":191400000,\"has_in_app_purchases\":true,\"icon_media_key\":\"4_2008831309288710144\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the unive\",\"is_rtl\":false}},{\"type\":\"ipad_app\",\"country_code\":\"US\",\"id\":\"6670324846\",\"url\":\"https://t.co/redirect?url=https%3A%2F%2Fapps.apple.com%2Fapp%2Fapple-store%2Fid6670324846%3Fpt%3D126952307%26ct%3D%40Grok%2520Profile%2520Description%26mt%3D8&sig=1a8f4c47943bd0dec51d0d47886b1e13017dfe75&ssr=true&slug=\",\"url_resolved\":\"https://apps.apple.com/app/apple-store/id6670324846?pt=126952307&ct=@Grok%20Profile%20Description&mt=8\",\"category\":{\"content\":\"Productivity\",\"is_rtl\":false},\"title\":{\"content\":\"Grok\",\"is_rtl\":false},\"ratings\":{\"star\":4.9,\"count\":722000},\"is_free\":true,\"size_bytes\":191400000,\"has_in_app_purchases\":true,\"icon_media_key\":\"4_2008831309288710144\",\"description\":{\"content\":\"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the unive\",\"is_rtl\":false}}]}}",
+              "image_url": null,
+              "scribe_key": null,
+              "user_id": null
+            },
+            {
+              "key": "card_url",
+              "text": "https://twitter.com",
+              "image_url": null,
+              "scribe_key": "card_url",
+              "user_id": null
+            }
+          ],
+          "user_refs_results": [],
+          "name": "unified_card",
+          "url": "card://1915450440537526272"
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2008632208659980498",
+        "in_reply_to_screen_name": "jefframbler",
+        "in_reply_to_user_id_str": "249280457"
+      }
+    },
+    {
+      "entryId": "tweet-2008190102963720216",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2008190102963720216",
+        "retweeted_status_result": null,
+        "url": "https://x.com/whizwang/status/2008190102963720216",
+        "view_count": "30",
+        "conversation_id_str": "2007987883173712287",
+        "bookmark_count": 0,
+        "created_at": "Mon Jan 05 14:53:25 +0000 2026",
+        "full_text": "@johantheback all his responses are like this, he even insults people who post good reviews",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "792423347401269248",
+              "name": "tootone",
+              "screen_name": "johantheback"
+            }
+          ]
+        },
+        "favorite_count": 1,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "2524105392",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "2524105392",
+          "id_str": "2524105392",
+          "created_at": "Mon May 26 04:22:01 +0000 2014",
+          "name": "whizwang",
+          "screen_name": "whizwang",
+          "url": null,
+          "description": "your favorite marketer’s favorite marketer | highlighting nyc crypto builders on @cryptonycpod | prev gtm @azuki @goldmansachs",
+          "location": "New York, NY",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "cryptonycpod"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "azuki"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "goldmansachs"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 86079,
+          "followers_count": 19915,
+          "friends_count": 6805,
+          "media_count": 1391,
+          "normal_followers_count": 19915,
+          "pinned_tweet_ids_str": [
+            "1989476613772263578"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2524105392/1750868389",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1974867919965200385/3_Ugu3oK_normal.jpg",
+          "protected": false,
+          "statuses_count": 14821,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2008189838609265116",
+        "in_reply_to_screen_name": "johantheback",
+        "in_reply_to_user_id_str": "792423347401269248"
+      }
+    },
+    {
+      "entryId": "tweet-2007915473044926698",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2007915473044926698",
+        "retweeted_status_result": null,
+        "url": "https://x.com/Dawo_4/status/2007915473044926698",
+        "view_count": "33",
+        "conversation_id_str": "2007625728599474453",
+        "bookmark_count": 0,
+        "created_at": "Sun Jan 04 20:42:08 +0000 2026",
+        "full_text": "@user_wo_acronym @QuokkaSmiles87 dw this reply is duckbricks approved he liked it",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1771619574317772802",
+              "name": "Lee is Love, Lee is Life",
+              "screen_name": "user_wo_acronym"
+            },
+            {
+              "id_str": "1143650885484064769",
+              "name": "Quokka",
+              "screen_name": "QuokkaSmiles87"
+            }
+          ]
+        },
+        "favorite_count": 2,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "968552514504265729",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "968552514504265729",
+          "id_str": "968552514504265729",
+          "created_at": "Tue Feb 27 18:24:49 +0000 2018",
+          "name": "Dawo",
+          "screen_name": "Dawo_4",
+          "url": null,
+          "description": "Dawo | He/Him | 21 | Sometimes an artist, most sane Ninjago fan, Akita & Lloykita CEO 🐺❤️💚🐲| Owner of @CutNinjago | Header: @asooffa | Priv: @DawoAfterHours",
+          "location": "Poland",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "CutNinjago"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "asooffa"
+                },
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "DawoAfterHours"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 281536,
+          "followers_count": 3498,
+          "friends_count": 1831,
+          "media_count": 3246,
+          "normal_followers_count": 3498,
+          "pinned_tweet_ids_str": [
+            "1942693170653061539"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/968552514504265729/1704752445",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1716472976982364160/ulTbJDwg_normal.jpg",
+          "protected": false,
+          "statuses_count": 113315,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2007909654559633454",
+        "in_reply_to_screen_name": "user_wo_acronym",
+        "in_reply_to_user_id_str": "1771619574317772802"
+      }
+    },
+    {
+      "entryId": "tweet-2007808595048780105",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "2007808595048780105",
+        "retweeted_status_result": null,
+        "url": "https://x.com/imgonnarickout/status/2007808595048780105",
+        "view_count": "131",
+        "conversation_id_str": "2007796362650558908",
+        "bookmark_count": 0,
+        "created_at": "Sun Jan 04 13:37:26 +0000 2026",
+        "full_text": "@Brannyzine @awobbuffet_ i liked wobs comment then removed it so he won’t ratio you",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1909954492319338498",
+              "name": "Andie ⚔️❤️‍🔥",
+              "screen_name": "Brannyzine"
+            },
+            {
+              "id_str": "1885277401040773123",
+              "name": "awobbuffet",
+              "screen_name": "awobbuffet_"
+            }
+          ]
+        },
+        "favorite_count": 2,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "retweeted": false,
+        "user_id_str": "1877829598282665984",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1877829598282665984",
+          "id_str": "1877829598282665984",
+          "created_at": "Fri Jan 10 21:27:48 +0000 2025",
+          "name": "angel",
+          "screen_name": "imgonnarickout",
+          "url": null,
+          "description": "AKA arminso | @kyuixon priv",
+          "location": "she/he | ic: @t2ukapi",
+          "entities": {
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "kyuixon"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 2814,
+          "followers_count": 234,
+          "friends_count": 178,
+          "media_count": 118,
+          "normal_followers_count": 234,
+          "pinned_tweet_ids_str": [
+            "1963495669764653523"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877829598282665984/1755951500",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2010177757007765504/l8ZnChj6_normal.jpg",
+          "protected": false,
+          "statuses_count": 1757,
+          "verified": false,
+          "withheld_in_countries": [],
+          "verified_type": "None",
+          "is_blue_verified": false,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "2007796362650558908",
+        "in_reply_to_screen_name": "Brannyzine",
+        "in_reply_to_user_id_str": "1909954492319338498"
+      }
+    },
+    {
+      "entryId": "tweet-1958605263155732810",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1958605263155732810",
+        "retweeted_status_result": null,
+        "url": "https://x.com/justaddwatter/status/1958605263155732810",
+        "view_count": "27487",
+        "conversation_id_str": "1958591826505736214",
+        "bookmark_count": 4,
+        "created_at": "Thu Aug 21 19:00:58 +0000 2025",
+        "full_text": "@A_dmg04 this tweet has 500 replies and 350 likes and i think that itself is the feedback i would say",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "24735658",
+              "name": "dmg04",
+              "screen_name": "A_dmg04"
+            }
+          ]
+        },
+        "favorite_count": 1374,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 5,
+        "retweeted": false,
+        "user_id_str": "934907527833284608",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "934907527833284608",
+          "id_str": "934907527833284608",
+          "created_at": "Sun Nov 26 22:11:39 +0000 2017",
+          "name": "watter",
+          "screen_name": "justaddwatter",
+          "url": "https://t.co/mvnvChIkFv",
+          "description": "21  | #101,022th GoA #23 master SE #3,598 RoN #2648 E |2motw in one twab | pfp @finjaswife | follow for dog spam | large portion of posts are jokes",
+          "location": "updog city",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://soggy.cat/",
+                  "display_url": "soggy.cat",
+                  "url": "https://t.co/mvnvChIkFv"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "name": "",
+                  "screen_name": "finjaswife"
+                }
+              ]
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 264930,
+          "followers_count": 8054,
+          "friends_count": 4422,
+          "media_count": 17576,
+          "normal_followers_count": 8054,
+          "pinned_tweet_ids_str": [
+            "1830766216455033274"
+          ],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/934907527833284608/1757283106",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1992737235146264576/fpl2Bd2i_normal.jpg",
+          "protected": false,
+          "statuses_count": 122266,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1958591826505736214",
+        "in_reply_to_screen_name": "A_dmg04",
+        "in_reply_to_user_id_str": "24735658"
+      }
+    },
+    {
+      "entryId": "tweet-1931554841517539492",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1931554841517539492",
+        "retweeted_status_result": null,
+        "url": "https://x.com/wawog_now/status/1931554841517539492",
+        "view_count": "1543",
+        "conversation_id_str": "1931472959824363644",
+        "bookmark_count": 3,
+        "created_at": "Sun Jun 08 03:32:15 +0000 2025",
+        "full_text": "Anti-ICE action items from @PAL_Awda:",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": [
+            {
+              "id_str": "24134756",
+              "name": "PAL-Awda NY/NJ",
+              "screen_name": "PAL_Awda"
+            }
+          ]
+        },
+        "favorite_count": 11,
+        "is_quote_status": true,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5,
+        "retweeted": false,
+        "user_id_str": "1716212238803988480",
+        "possibly_sensitive": null,
+        "extended_entities": null,
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1716212238803988480",
+          "id_str": "1716212238803988480",
+          "created_at": "Sun Oct 22 21:57:48 +0000 2023",
+          "name": "Writers Against the War on Gaza",
+          "screen_name": "wawog_now",
+          "url": "https://t.co/T8xrits98g",
+          "description": "Building a revolutionary cultural front for a liberated Palestine.",
+          "location": "wawog@wawog.com",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://writersagainstthewarongaza.com",
+                  "display_url": "writersagainstthewarongaza.com",
+                  "url": "https://t.co/T8xrits98g"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 23904,
+          "followers_count": 38451,
+          "friends_count": 919,
+          "media_count": 2012,
+          "normal_followers_count": 38451,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716212238803988480/1698327299",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1729633222626066433/QyLG3YjP_normal.jpg",
+          "protected": false,
+          "statuses_count": 10932,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {
+          "result": {
+            "__typename": "Tweet",
+            "rest_id": "1931544198764691815",
+            "retweeted_status_result": null,
+            "url": "https://x.com/PAL_Awda/status/1931544198764691815",
+            "view_count": "4078",
+            "conversation_id_str": "1931544198764691815",
+            "bookmark_count": 4,
+            "created_at": "Sun Jun 08 02:49:57 +0000 2025",
+            "full_text": "Call to Action: \nFrom occupied Palestine to occupied Turtle Island, from the prison cell to the detention center, we know that our struggle is interconnected, & our enemy is one & the same. We affirm our commitment to the liberation of all members of our community, especially our Black & brown siblings—including abolishing ICE & DHS. \n\nShow up to the ICE-watches & rallies at the federal immigration courts. Follow @nycicewatch & @immigrationcoalition for the most up-to-date calls.",
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            },
+            "favorite_count": 44,
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 32,
+            "retweeted": false,
+            "user_id_str": "24134756",
+            "possibly_sensitive": false,
+            "extended_entities": {
+              "media": [
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/PAL_Awda/status/1931544198764691815/photo/1",
+                  "id_str": "1931544194893447168",
+                  "media_url_https": "https://pbs.twimg.com/media/Gs45NiSXgAAOzAT.jpg",
+                  "original_info": {
+                    "width": 1080,
+                    "height": 1350
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/X5N42TaX2z"
+                },
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/PAL_Awda/status/1931544198764691815/photo/1",
+                  "id_str": "1931544194650144768",
+                  "media_url_https": "https://pbs.twimg.com/media/Gs45NhYXAAAjCog.jpg",
+                  "original_info": {
+                    "width": 1080,
+                    "height": 1350
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/X5N42TaX2z"
+                },
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/PAL_Awda/status/1931544198764691815/photo/1",
+                  "id_str": "1931544195254124544",
+                  "media_url_https": "https://pbs.twimg.com/media/Gs45NjoXAAAho2V.jpg",
+                  "original_info": {
+                    "width": 1080,
+                    "height": 1350
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/X5N42TaX2z"
+                },
+                {
+                  "additional_media_info": {},
+                  "expanded_url": "https://x.com/PAL_Awda/status/1931544198764691815/photo/1",
+                  "id_str": "1931544195434438657",
+                  "media_url_https": "https://pbs.twimg.com/media/Gs45NkTWYAEqPOQ.jpg",
+                  "original_info": {
+                    "width": 1080,
+                    "height": 1350
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/X5N42TaX2z"
+                }
+              ]
+            },
+            "user_details": {
+              "__typename": "User",
+              "rest_id": "24134756",
+              "id_str": "24134756",
+              "created_at": "Fri Mar 13 05:38:54 +0000 2009",
+              "name": "PAL-Awda NY/NJ",
+              "screen_name": "PAL_Awda",
+              "url": "https://t.co/WnTgt4VXLW",
+              "description": "Palestinian Assembly for Liberation PAL-Awda NY/NJ Est. 2000 | https://t.co/o15dxWl2hw | https://t.co/NjTAbQPKYg",
+              "location": "New York/New Jersey ",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "expanded_url": "https://linktr.ee/alawdany",
+                      "display_url": "linktr.ee/alawdany",
+                      "url": "https://t.co/WnTgt4VXLW"
+                    }
+                  ]
+                },
+                "description": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [
+                    "https://t.me/palawda",
+                    "https://www.launchgood.com/v4/campaign/stop_land_theft_in_palestine?src="
+                  ],
+                  "info_urls": [
+                    {
+                      "shortened_url": "https://t.co/o15dxWl2hw",
+                      "expanded_url": "https://t.me/palawda",
+                      "display_url": "t.me/palawda"
+                    },
+                    {
+                      "shortened_url": "https://t.co/NjTAbQPKYg",
+                      "expanded_url": "https://www.launchgood.com/v4/campaign/stop_land_theft_in_palestine?src=",
+                      "display_url": "launchgood.com/v4/campaign/st…"
+                    }
+                  ],
+                  "user_mentions": []
+                }
+              },
+              "fast_followers_count": 0,
+              "favourites_count": 2185,
+              "followers_count": 4416,
+              "friends_count": 692,
+              "media_count": 1029,
+              "normal_followers_count": 4416,
+              "pinned_tweet_ids_str": [
+                "2009807224500297803"
+              ],
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/24134756/1729799750",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1849542885500227584/72qCzsXW_normal.jpg",
+              "protected": false,
+              "statuses_count": 29549,
+              "verified": false,
+              "withheld_in_countries": [],
+              "verified_type": "None",
+              "is_blue_verified": false,
+              "affiliates_highlighted_label": {},
+              "super_followed_by": false,
+              "super_following": false,
+              "private_super_following": false,
+              "exclusive_tweet_following": false
+            },
+            "quoted_status_result": {},
+            "is_retweet": false,
+            "is_reply": false,
+            "community_note": null
+          }
+        },
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1931512099311952121",
+        "in_reply_to_screen_name": "wawog_now",
+        "in_reply_to_user_id_str": "1716212238803988480"
+      }
+    },
+    {
+      "entryId": "tweet-1931512099311952121",
+      "tweet": {
+        "__typename": "Tweet",
+        "rest_id": "1931512099311952121",
+        "retweeted_status_result": null,
+        "url": "https://x.com/wawog_now/status/1931512099311952121",
+        "view_count": "3008",
+        "conversation_id_str": "1931472959824363644",
+        "bookmark_count": 2,
+        "created_at": "Sun Jun 08 00:42:24 +0000 2025",
+        "full_text": "Venmo for jail support—it will go to those arrested from today’s anti-ICE protests in NYC: https://t.co/bbeivNwd5C",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "info_urls": [],
+          "user_mentions": []
+        },
+        "favorite_count": 48,
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 38,
+        "retweeted": false,
+        "user_id_str": "1716212238803988480",
+        "possibly_sensitive": false,
+        "extended_entities": {
+          "media": [
+            {
+              "additional_media_info": {},
+              "expanded_url": "https://x.com/wawog_now/status/1931512099311952121/photo/1",
+              "id_str": "1931512095293440000",
+              "media_url_https": "https://pbs.twimg.com/media/Gs4cBF9WAAA4W8z.jpg",
+              "original_info": {
+                "width": 1170,
+                "height": 1405
+              },
+              "type": "photo",
+              "url": "https://t.co/bbeivNwd5C"
+            }
+          ]
+        },
+        "user_details": {
+          "__typename": "User",
+          "rest_id": "1716212238803988480",
+          "id_str": "1716212238803988480",
+          "created_at": "Sun Oct 22 21:57:48 +0000 2023",
+          "name": "Writers Against the War on Gaza",
+          "screen_name": "wawog_now",
+          "url": "https://t.co/T8xrits98g",
+          "description": "Building a revolutionary cultural front for a liberated Palestine.",
+          "location": "wawog@wawog.com",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "expanded_url": "https://writersagainstthewarongaza.com",
+                  "display_url": "writersagainstthewarongaza.com",
+                  "url": "https://t.co/T8xrits98g"
+                }
+              ]
+            },
+            "description": {
+              "hashtags": [],
+              "symbols": [],
+              "urls": [],
+              "info_urls": [],
+              "user_mentions": []
+            }
+          },
+          "fast_followers_count": 0,
+          "favourites_count": 23904,
+          "followers_count": 38451,
+          "friends_count": 919,
+          "media_count": 2012,
+          "normal_followers_count": 38451,
+          "pinned_tweet_ids_str": [],
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716212238803988480/1698327299",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1729633222626066433/QyLG3YjP_normal.jpg",
+          "protected": false,
+          "statuses_count": 10932,
+          "verified": true,
+          "withheld_in_countries": [],
+          "verified_type": "Blue",
+          "is_blue_verified": true,
+          "affiliates_highlighted_label": {},
+          "super_followed_by": false,
+          "super_following": false,
+          "private_super_following": false,
+          "exclusive_tweet_following": false
+        },
+        "quoted_status_result": {},
+        "is_retweet": false,
+        "is_reply": true,
+        "community_note": null,
+        "in_reply_to_status_id_str": "1931472959824363644",
+        "in_reply_to_screen_name": "wawog_now",
+        "in_reply_to_user_id_str": "1716212238803988480"
+      }
+    }
+  ],
+  "cursor_top": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHLVBqdGowYXNOVUtBQUlhemh3RlR0dWctUUFJQUFJQUFBQUJDQUFEQUFBQUFBZ0FCQUFBQUFjS0FBVWI1ZjFYMmNBbkVBb0FCaHZsX1ZmWnZzZUFBQUEiLCJfcXVlcnlJZCI6IjdiYWE3OTE5LTg3NmItNDQ2YS1iNWE4LTRlZTQwYjhlN2YyNCJ9",
+  "cursor_bottom": "eyJjdXJzb3IiOiJEQUFEREFBQkNnQUJHLVBqdGowYXNOVUtBQUlhemh3RlR0dWctUUFJQUFJQUFBQUNDQUFEQUFBQUFBZ0FCQUFBQUFjS0FBVWI1ZjFYMmNBbkVBb0FCaHZsX1ZmWnZzZUFBQUEiLCJfcXVlcnlJZCI6IjdiYWE3OTE5LTg3NmItNDQ2YS1iNWE4LTRlZTQwYjhlN2YyNCJ9"
+}

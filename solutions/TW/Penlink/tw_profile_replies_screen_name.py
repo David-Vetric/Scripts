@@ -95,12 +95,14 @@ def main():
                 sn = user_details.get("screen_name") or "<missing>"
                 text = (tweet_obj.get("full_text") or "").replace("\n", " ").strip()
 
-                print(f"      screen_name: {sn}")
                 # print(f"   🔹 Tweet {idx}")
                 # print(f"      full_text  : {text[:120]}")
 
                 if sn.lower() != SCREEN_NAME.lower():
                     unexpected_hits[sn].append((run, page))
+                    print(f"      screen_name: {sn} - NOT THE SAME AS {SCREEN_NAME}")
+                else:
+                    print(f"      screen_name: {sn}")
 
             cursor = data.get("cursor_bottom")
             if not cursor:
