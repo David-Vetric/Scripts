@@ -20,17 +20,16 @@ else:
     base_url = os.getenv("URL")
 
 if not API_KEY or not base_url:
-    raise EnvironmentError("Missing API key or base URL in .env file")
+    raise EnvironmentError("Missing API key or base URL in env")
 
+# Insert username here
+USERNAME = "mangogirl2K"
 
-# *** IMPORTANT FIX ***
-# Use UNENCODED query string. Let "requests" encode it correctly.
-QUERY = (
-    "(wolfman OR wolfmanmovie OR wolfmanfilm OR wolfmandarkuniverse OR \"wolf man\" OR #wolfman OR #wolfmanmovie OR #wolfmanfilm OR #wolfmandarkuniverse OR thewolfman OR #thewolfman OR thewolfmanmovie OR #thewolfmanmovie OR thewolfmanfilm OR #thewolfmanfilm) -furry -furries -onlyfans -onlyfan -cock -tits -ass -porn -nsfw -sex -svengoolie -cum -outcum -cumming -\"Wolfman Matt\" since_time:1734393600 until_time:1734998400"
-)
+URL = f"{base_url}/reddit/v1/user/{USERNAME}/comments"
 
-URL = f"{base_url}/twitter/v1/search/popular"
-HEADERS = {"x-api-key": API_KEY}
+HEADERS = {
+    "x-api-key": API_KEY
+}
 
 SLEEP = 1
 MAX_RETRIES = 4
@@ -40,8 +39,7 @@ MAX_RETRIES = 4
 # HELPERS
 # =====================
 def make_request(cursor=None):
-    """GET request with retry logic."""
-    params = {"query": QUERY}
+    params = {}
     if cursor:
         params["cursor"] = cursor
 
@@ -56,7 +54,6 @@ def make_request(cursor=None):
                 return resp.json()
 
             print(f"⚠️ Attempt {attempt} returned {resp.status_code}")
-            print(f"URL requested: {resp.url}")      # so you see EXACTLY what's sent
             time.sleep(SLEEP)
 
         except requests.RequestException as e:
@@ -72,41 +69,47 @@ def make_request(cursor=None):
 def main():
     cursor = None
     page = 1
-    total_tweets = 0
+    total_comments = 0
 
-    print(f"\n🔍 Exhaustive search for query: {QUERY[:60]}\n")
+    print(f"\n🔍 Collecting Reddit comments for user: {USERNAME}\n")
 
     while True:
         data = make_request(cursor)
 
-        tweets = data.get("tweets", []) or []
-        count = len(tweets)
-        total_tweets += count
+        comments = data.get("comments", []) or []
+        count = len(comments)
+        total_comments += count
 
-        print(f"\n📄 Page {page} — {count} tweets")
+        print(f"\n📄 Page {page} — {count} comments")
 
-        for idx, t in enumerate(tweets, start=1):
-            tweet_obj = t.get("tweet") or {}
-            full_text = (tweet_obj.get("full_text") or "").strip()
-            print(f"   🔹 Tweet 'full_text' {idx}: {full_text[:80].replace(chr(10), ' / ')}")
+        for idx, c in enumerate(comments, start=1):
+            comment_text = (c.get("contentPreview") or "").strip()
+            post_info = c.get("postInfo") or {}
+            post_title = post_info.get("title") or ""
+            subreddit = post_info.get("prefixedName") or ""
 
-        # Pagination
-        cursor = data.get("cursor_bottom")
+            print(f"\n   🔹 Comment {idx}")
+            print(f"      💬 Comment: {comment_text[:200]}")
+            print(f"      🧵 Post: {post_title}")
+            print(f"      🏷 Subreddit: {subreddit}")
+
+        page_info = data.get("pageInfo") or {}
+        cursor = page_info.get("cursor")
+
         if not cursor:
-            print("\n⛔ Pagination ended — no cursor_bottom found.")
+            print("\n⛔ Pagination ended — cursor is null or empty.")
             break
 
-        print(f"➡️ Next cursor: {str(cursor)}...")
+        print(f"\n➡️ Next cursor: {str(cursor)[:50]}...")
         page += 1
         time.sleep(SLEEP)
 
     # SUMMARY
     print("\n📊 === SUMMARY ===")
     print(f"Total pages fetched: {page}")
-    print(f"Total tweets collected: {total_tweets}")
+    print(f"Total comments collected: {total_comments}")
     print("\n🏁 Finished.\n")
 
 
 if __name__ == "__main__":
     main()
-

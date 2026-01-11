@@ -23,25 +23,23 @@ else:
 if not API_KEY or not base_url:
     raise EnvironmentError("Missing API KEY or base_url in env")
 
-QUERY = "TYc8R9AXk8bGWX4qZWDeo4wyWhiNvRMrep until:2025-12-09 since:2025-12-04"
-QUERY_2 = "+660929961649 until:2025-12-09 since:2025-12-04"
+VIDEO_ID = "7WmgImQ5Bck"
 
-URL = f"{base_url}/twitter/v1/search/latest"
+LANGUAGE_CODE = "en"
+
+URL = f"{base_url}/youtube/v1/video/{VIDEO_ID}/transcript?languageCode={LANGUAGE_CODE}"
 HEADERS = {"x-api-key": API_KEY}
 
 TOTAL_RUNS = 100
 SLEEP = 0.4  # avoid rate limit crying
 
-
 # =====================
 # MAIN
 # =====================
-def main():
-    
-    CURRENT_QUERY = QUERY
 
-    print("\n🔍 Stress-testing Twitter Search with gibberish query")
-    print(f"➡️ Query: {CURRENT_QUERY}")
+def main():
+    print("\n🔍 Stress-testing Youtube channel content")
+    print(f"➡️ Video: {VIDEO_ID}")
     print(f"➡️ Endpoint: {URL}")
     print(f"➡️ Total runs: {TOTAL_RUNS}\n")
 
@@ -53,7 +51,6 @@ def main():
             resp = requests.get(
                 URL,
                 headers=HEADERS,
-                params={"query": CURRENT_QUERY},
                 timeout=20
             )
 

@@ -20,16 +20,10 @@ else:
     base_url = os.getenv("URL")
 
 if not API_KEY or not base_url:
-    raise EnvironmentError("Missing API key or base URL in .env file")
+    raise EnvironmentError("Missing API key or base URL")
 
-
-# *** IMPORTANT FIX ***
-# Use UNENCODED query string. Let "requests" encode it correctly.
-QUERY = (
-    "(wolfman OR wolfmanmovie OR wolfmanfilm OR wolfmandarkuniverse OR \"wolf man\" OR #wolfman OR #wolfmanmovie OR #wolfmanfilm OR #wolfmandarkuniverse OR thewolfman OR #thewolfman OR thewolfmanmovie OR #thewolfmanmovie OR thewolfmanfilm OR #thewolfmanfilm) -furry -furries -onlyfans -onlyfan -cock -tits -ass -porn -nsfw -sex -svengoolie -cum -outcum -cumming -\"Wolfman Matt\" since_time:1734393600 until_time:1734998400"
-)
-
-URL = f"{base_url}/twitter/v1/search/popular"
+PROFILE_ID = "101311381"
+URL = f"{base_url}/twitter/v1/profile/{PROFILE_ID}/tweets"
 HEADERS = {"x-api-key": API_KEY}
 
 SLEEP = 1
@@ -40,8 +34,7 @@ MAX_RETRIES = 4
 # HELPERS
 # =====================
 def make_request(cursor=None):
-    """GET request with retry logic."""
-    params = {"query": QUERY}
+    params = {}
     if cursor:
         params["cursor"] = cursor
 
@@ -56,14 +49,13 @@ def make_request(cursor=None):
                 return resp.json()
 
             print(f"⚠️ Attempt {attempt} returned {resp.status_code}")
-            print(f"URL requested: {resp.url}")      # so you see EXACTLY what's sent
             time.sleep(SLEEP)
 
         except requests.RequestException as e:
             print(f"⚠️ Error on attempt {attempt}: {e}")
             time.sleep(SLEEP)
 
-    raise Exception(f"❌ Failed after {MAX_RETRIES} attempts. Last status = {last_status}")
+    raise Exception(f"❌ Failed after {MAX_RETRIES} attempts. Last status={last_status}")
 
 
 # =====================
@@ -74,39 +66,68 @@ def main():
     page = 1
     total_tweets = 0
 
-    print(f"\n🔍 Exhaustive search for query: {QUERY[:60]}\n")
+    seen_rest_ids = set()
+    duplicate_rest_ids = set()
+
+    print(f"\n🔍 Exhaustive tweet fetch for profileId={PROFILE_ID}\n")
 
     while True:
         data = make_request(cursor)
 
         tweets = data.get("tweets", []) or []
-        count = len(tweets)
-        total_tweets += count
+        page_count = len(tweets)
+        total_tweets += page_count
 
-        print(f"\n📄 Page {page} — {count} tweets")
+        print(f"\n📄 Page {page}")
+        print(f"   Tweets in this page: {page_count}")
+        print(f"   Tweets collected so far: {total_tweets}")
+
+        # Stop condition: empty page
+        if page_count == 0:
+            print("⛔ Empty page returned. Reached last page.")
+            break
 
         for idx, t in enumerate(tweets, start=1):
             tweet_obj = t.get("tweet") or {}
-            full_text = (tweet_obj.get("full_text") or "").strip()
-            print(f"   🔹 Tweet 'full_text' {idx}: {full_text[:80].replace(chr(10), ' / ')}")
+            rest_id = tweet_obj.get("rest_id")
 
-        # Pagination
+            print(f"   🔹 Tweet {idx} → rest_id: {rest_id}")
+
+            if not rest_id:
+                continue
+
+            if rest_id in seen_rest_ids:
+                duplicate_rest_ids.add(rest_id)
+                print("      🔁 DUPLICATE DETECTED")
+            else:
+                seen_rest_ids.add(rest_id)
+
         cursor = data.get("cursor_bottom")
+
         if not cursor:
-            print("\n⛔ Pagination ended — no cursor_bottom found.")
+            print("\n⛔ cursor_bottom missing or empty. Reached last page.")
             break
 
-        print(f"➡️ Next cursor: {str(cursor)}...")
+        print(f"➡️ Next cursor: {str(cursor)[:60]}...")
         page += 1
         time.sleep(SLEEP)
 
+    # =====================
     # SUMMARY
+    # =====================
     print("\n📊 === SUMMARY ===")
     print(f"Total pages fetched: {page}")
-    print(f"Total tweets collected: {total_tweets}")
+    print(f"Total tweets fetched: {total_tweets}")
+    print(f"Unique tweets (rest_id): {len(seen_rest_ids)}")
+    print(f"Duplicate tweets detected: {len(duplicate_rest_ids)}")
+
+    if duplicate_rest_ids:
+        print("\n🔁 Duplicate rest_id values:")
+        for rid in duplicate_rest_ids:
+            print(f"- {rid}")
+
     print("\n🏁 Finished.\n")
 
 
 if __name__ == "__main__":
     main()
-

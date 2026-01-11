@@ -2,6 +2,7 @@ import requests
 from dotenv import load_dotenv
 import os
 import time
+from collections import defaultdict
 
 # =====================
 # CONFIG
@@ -20,24 +21,22 @@ else:
     base_url = os.getenv("URL")
 
 if not API_KEY or not base_url:
-    raise EnvironmentError("Missing API key or base URL in .env file")
+    raise EnvironmentError("Missing API key or base URL")
 
 SCREEN_NAME = "Wheresalexnyc"
-
 URL = f"{base_url}/twitter/v1/profile/{SCREEN_NAME}/replies"
 HEADERS = {"x-api-key": API_KEY}
 
-SLEEP = 1
+TOTAL_RUNS = 50
 MAX_RETRIES = 4
+SLEEP = 0.5
 
 
 # =====================
 # HELPERS
 # =====================
 def make_request(cursor=None):
-    """GET request with retry logic."""
     params = {}
-
     if cursor:
         params["cursor"] = cursor
 
@@ -51,61 +50,81 @@ def make_request(cursor=None):
             if resp.status_code == 200:
                 return resp.json()
 
-            print(f"⚠️ Attempt {attempt} returned {resp.status_code}")
             time.sleep(SLEEP)
 
-        except requests.RequestException as e:
-            print(f"⚠️ Error on attempt {attempt}: {e}")
+        except requests.RequestException:
             time.sleep(SLEEP)
 
-    raise Exception(f"❌ Failed after {MAX_RETRIES} attempts. Last status = {last_status}")
+    raise Exception(f"Failed after {MAX_RETRIES} attempts. Last status={last_status}")
 
 
 # =====================
 # MAIN
 # =====================
 def main():
-    cursor = None
-    page = 1
-    total_tweets = 0
+    unexpected_hits = defaultdict(list)
 
-    print(f"\n🔍 Collecting ALL replies for @{SCREEN_NAME}\n")
+    print(f"\n🔍 Twitter replies consistency check for @{SCREEN_NAME}")
+    print(f"🔁 Total runs: {TOTAL_RUNS}\n")
 
-    while True:
-        data = make_request(cursor)
+    for run in range(1, TOTAL_RUNS + 1):
+        print(f"\n==============================")
+        print(f"▶️ RUN {run}")
+        print(f"==============================")
 
-        tweets = data.get("tweets", []) or []
-        count = len(tweets)
-        total_tweets += count
+        cursor = None
+        page = 1
 
-        print(f"\n📄 Page {page} — {count} tweets")
+        while True:
+            data = make_request(cursor)
 
-        # Extract created_at
-        for idx, t in enumerate(tweets, start=1):
-            tweet_obj = t.get("tweet", {}) or {}
-            full_text = tweet_obj.get("full_text" or "empty")
-            user_details = tweet_obj.get("user_details") or {}
-            screen_name = user_details.get("screen_name" or "empty")
-            print(f"🔸 Tweet {idx}: screen_name = {screen_name}")
-            print(f"🔸 Tweet {idx}: full_text = {full_text[:30]}")
+            tweets = data.get("tweets", []) or []
+            count = len(tweets)
 
-        # Pagination
-        cursor = data.get("cursor_bottom")
-        if not cursor:
-            print("\n⛔ Pagination ended — no cursor_bottom found.")
-            break
+            print(f"\n📄 Run {run} — Page {page} — {count} tweets")
 
-        print(f"➡️ Next cursor: {cursor[:50]}...")
+            # Stop condition: empty page
+            if count == 0:
+                print("⛔ Empty page returned. Ending pagination for this run.")
+                break
 
-        page += 1
-        time.sleep(SLEEP)
+            for idx, t in enumerate(tweets, start=1):
+                tweet_obj = t.get("tweet") or {}
+                user_details = tweet_obj.get("user_details") or {}
 
+                sn = user_details.get("screen_name") or "<missing>"
+                text = (tweet_obj.get("full_text") or "").replace("\n", " ").strip()
+
+                print(f"   🔹 Tweet {idx}")
+                print(f"      screen_name: {sn}")
+                print(f"      full_text  : {text[:120]}")
+
+                if sn.lower() != SCREEN_NAME.lower():
+                    unexpected_hits[sn].append((run, page))
+
+            cursor = data.get("cursor_bottom")
+            if not cursor:
+                print("⛔ No cursor_bottom found. Ending pagination for this run.")
+                break
+
+            print(f"➡️ Next cursor: {str(cursor)[:60]}...")
+            page += 1
+            time.sleep(SLEEP)
+
+    # =====================
     # SUMMARY
+    # =====================
     print("\n📊 === SUMMARY ===")
-    print(f"Total pages fetched: {page}")
-    print(f"Total tweets collected: {total_tweets}")
-    print("\n🏁 Finished.\n")
 
+    if not unexpected_hits:
+        print("✅ No unexpected screen_names detected across all runs.")
+    else:
+        print("❌ Unexpected screen_names detected:\n")
+        for sn, occurrences in unexpected_hits.items():
+            locations = ", ".join([f"(run {r}, page {p})" for r, p in occurrences])
+            print(f"- {sn}: {locations}")
+
+    print("\n🏁 Finished.\n")
 
 if __name__ == "__main__":
     main()

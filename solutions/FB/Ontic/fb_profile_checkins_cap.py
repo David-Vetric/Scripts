@@ -1,0 +1,120 @@
+import requests
+from dotenv import load_dotenv
+import os
+import time
+
+# =====================
+# CONFIG
+# =====================
+load_dotenv("/Users/davidrajchenberg/Desktop/Vetric/Scripts/dev.env")
+
+is_dev = True
+
+if is_dev:
+    print("🌱 Using DEV environment")
+    API_KEY = os.getenv("API_KEY_S")
+    base_url = os.getenv("URL_S")
+else:
+    print("🚀 Using PROD environment")
+    API_KEY = os.getenv("API_KEY")
+    base_url = os.getenv("URL")
+
+if not API_KEY or not base_url:
+    raise EnvironmentError("Missing API key or base URL in env")
+
+PROFILE_ID = "4"  # Mark Zuckerberg
+URL = f"{base_url}/facebook/v1/profiles/{PROFILE_ID}/checkins"
+
+HEADERS = {
+    "x-api-key": API_KEY,
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+
+SLEEP = 1
+MAX_RETRIES = 4
+
+
+# =====================
+# HELPERS
+# =====================
+def make_request(end_cursor=None):
+    data = {}
+    if end_cursor:
+        data["end_cursor"] = end_cursor
+
+    last_status = None
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(URL, headers=HEADERS, data=data, timeout=25)
+            last_status = resp.status_code
+
+            if resp.status_code == 200:
+                return resp.json()
+
+            print(f"⚠️ Attempt {attempt} returned {resp.status_code}")
+            time.sleep(SLEEP)
+
+        except requests.RequestException as e:
+            print(f"⚠️ Error on attempt {attempt}: {e}")
+            time.sleep(SLEEP)
+
+    raise Exception(f"❌ Failed after {MAX_RETRIES} attempts. Last status = {last_status}")
+
+
+# =====================
+# MAIN
+# =====================
+def main():
+    page = 1
+    total_checkins = 0
+    end_cursor = None
+    seen_cursors = set()
+
+    print(f"\n🔍 Collecting Facebook check-ins for profileId={PROFILE_ID}\n")
+
+    while True:
+        data = make_request(end_cursor)
+
+        profile_checkins = data.get("profile_checkins", {}) or {}
+        checkins = profile_checkins.get("checkins", []) or []
+        count = len(checkins)
+        total_checkins += count
+
+        print(f"\n📄 Page {page} — {count} check-ins")
+
+        for idx, c in enumerate(checkins, start=1):
+            location_name = c.get("location_name")
+            print(f"   🔹 Check-in {idx}: {location_name}")
+
+        # Pagination
+        new_cursor = (
+            profile_checkins
+            .get("pagination", {})
+            .get("end_cursor")
+        )
+
+        if not new_cursor:
+            print("\n⛔ Pagination ended — end_cursor is null or missing.")
+            break
+
+        if new_cursor in seen_cursors:
+            print("\n⛔ Cursor loop detected — pagination is repeating. Stopping.")
+            break
+
+        seen_cursors.add(new_cursor)
+        end_cursor = new_cursor
+
+        print(f"➡️ Next end_cursor: {str(end_cursor)[:50]}...")
+        page += 1
+        time.sleep(SLEEP)
+
+    # SUMMARY
+    print("\n📊 === SUMMARY ===")
+    print(f"Total pages fetched: {page}")
+    print(f"Total check-ins collected: {total_checkins}")
+    print("\n🏁 Finished.\n")
+
+
+if __name__ == "__main__":
+    main()
